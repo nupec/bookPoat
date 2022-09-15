@@ -1,10 +1,10 @@
-# Footnotes and citations 
+# Policy recommendations 
 
-## Footnotes
+## Recomendações sobre o combate ao insucesso escolar
 
 Footnotes are put inside the square brackets after a caret `^[]`. Like this one ^[This is a footnote.]. 
 
-## Citations
+## Recomendações (metodológicas) para os programas de combate ao insucesso escolar cofinanciados no quadro 2021-2027
 
 Reference items in your bibliography file(s) using `@key`.
 
@@ -13,3 +13,5 @@ Note that the `.bib` files need to be listed in the index.Rmd with the YAML `bib
 
 
 The RStudio Visual Markdown Editor can also make it easier to insert citations: <https://rstudio.github.io/visual-markdown-editing/#/citations>
+
+## Recomendações sobre a atuação das Comunidades Intermunicipais

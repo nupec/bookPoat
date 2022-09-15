@@ -1,11 +1,78 @@
-# Hello bookdown 
+# Diagnóstico do sucesso escolar no território de estudo 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+## Cofinanciamentos na promoção do sucesso
 
-## A section
+O domínio do Capital Humano (expressão que reflete o espírito da Estratégia de Lisboa, de 2020) foi operacionalizado pelas operações cofinanciadas enquadradas pelo Objetivo Temático (OT) 10 (Investir no ensino, nas competências e na aprendizagem ao longo da vida) do quadro financeiro plurianual 2014-2020, por sua vez desdobrado em cinco prioridades de investimento (PI). A prioridade 10.1  é aquela mais diretamente voltada para a promoção do sucesso escolar e da igualdade de oportunidades, no âmbito da qual se enquadram os PIICIE, candidatados através dos Programas Operacionais Regionais (POR), ao invés do Programa Operacional Capital Humano (POCH).  
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+Olhando apenas aos POR, à data de 31 de março de 2022, os PIICIE eram a tipologia de operações dominante, em número de operações, na prioridade 10.1 nas regiões Norte e Alentejo. Por outro lado, no que às prioridades de investimento diz respeito, e também em número de operações nos POR, a PI 10.1 é a segunda mais dominante na região Norte e a primeira no Algarve. A PI 10.5, associada aos equipamentos educativos, e a única cofinanciada pelo Fundo Europeu de Desenvolvimento Regional (FEDER), acaba por ter maior destaque nas regiões do Continente (com a exceção já apontada do Algarve), por via dos problemas infraestruturais de várias instituições.
 
-### An unnumbered section {-}
+FIGURA 1: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento
+FONTE: GETIN-UA 
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+Olhando ao caso de estudo de Santa Maria da Feira, também a PI10.5 mobiliza um maior montante de fundo total aprovado, quando olhando apenas ao cofinanciamento enquadrado pelo POR Norte (Figura 1). Esta realidade feirense não se encontra totalmente alinhada com a tendência da AMP (não como entidade beneficiária, mas como unidade territorial), uma vez que, no que diz respeito ao financiamento enquadrado pelo POR Norte, a PI10.2 (orientada para o Ensino Superior) acaba por ser mais dominante do que a PI10.1 (Figura 3). Sublinhe-se, no entanto, que na AMP a PI10.1 apenas se circunscreve aos PIICIE, não havendo qualquer TEIP cofinanciado neste âmbito.
+
+FIGURA 1: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento
+FONTE: GETIN-UA
+
+No financiamento por via do POCH, ganha maior destaque a PI10.4 (Figura 2), evidenciando a relevância da formação profissional no território.  Nos cofinanciamentos por via do POCH, as tendências são semelhantes (Figura 4).
+
+Figura 1 - Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira no QFP 2014-2020, POR Norte
+
+Figura 2 - Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira no QFP 2014-2020, POCH
+
+FIGURA 1: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento
+FONTE: GETIN-UA
+
+
+Incluir nota sobre as diferenças nas PI nos POR e no POCH
+
+
+No âmbito do POR Norte, o cofinanciamento destinado a entidades de Santa Maria da Feira (4 378 284,80€) totaliza 3% do montante total da AMP (143 160 673,82€), enquanto no contexto do POCH esta proporção é de 4% .
+Voltando ao contexto dos PIICIE, permita-se um breve parêntesis para reiterar dois pontos:
+•	o seu peculiar modelo de governação, uma vez que estes são a única operação cofinanciada, no âmbito do OT 10, em que as comunidades intermunicipais podem ser entidades beneficiárias (tal como os municípios e, em excecionais casos, Agrupamentos de Escolas e até centros de formação), no âmbito dos Pactos para o Desenvolvimento e Coesão Territorial (PDCT);
+•	a clara aposta da região Norte nesta tipologia de operação cofinanciada. 
+
+HR – descrição sucinta após a convergência em valores de Euros /pop. estudantil e construção do dash
+As operações implementadas na região Norte têm uma taxa de cofinanciamento até 85% . [ARTICULAR ESTA FRASE OU SIMILAR COM RESULTADOS HR; PODE SER REFORMULADA, MAS NÃO APAGADA, PARA REMETER PARA O ANEXO DAS Tx COFINANCIAMENTO]
+
+
+
+
+### Tendências e padrões
+
+A análise que aqui se apresenta resulta de uma necessidade que se impõe em qualquer trabalho associado à territorialização de políticas públicas, com ou sem cofinanciamento. Uma vez que este projeto visa contribuir para a melhoria da avaliação e monitorização de uma política educativa cofinanciada, faz sentido retomar os objetivos das práticas de avaliação na educação. Um dos principais objetivos passará por reunir evidências ou informação de apoio à decisão no desenvolvimento das próprias políticas educativas, com a expectativa de fornecer contributos valiosos aos agentes educativos no caminho da melhoria de processos e desempenhos e, consequentemente, elevar a qualidade do sistema de ensino. 
+As opções analíticas seguem pressupostos que têm sido amplamente debatidos ao nível da investigação científica e aplicada na territorialização de políticas públicas, nomeadamente as políticas de educação, pelo que se assume essencial ter um diagnóstico das principais tendências e padrões das dinâmicas em análise – o insucesso escolar (Marques et al., 2020; Santos et al., 2019; Ioannidou, 2010).
+As evidências reunidas, dada a informação desagregada à qual foi possível aceder, centram-se nos municípios da Área Metropolitana do Porto (AMP) – NUTS III de referência da unidade territorial de análise, o município de Santa Maria da Feira – e estão estruturadas em dois grandes pontos:
+1)	O primeiro ponto tem por base uma análise estatística inicial dos indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE – taxa de retenção e desistência e taxa de níveis negativos a pelo menos uma disciplina;
+2)	Já o segundo o ponto considera 
+
+HR – descrição sucinta (metodologia e resultados) após a análise estatística inicial (já iniciada partindo dos indicadores gerais de desempenho)
+HR – descrição sucinta (metodologia e resultados) da análise de similaridade (construção de clusters tendo em conta duas componentes: 1) valores ABS de Níveis Negativos, Retenções, tamanho do município e alunos c/ASE (1º teste já feito pelo HR), 2) combinação de TRD + financiamentos + equidade (a realizar)
+
+
+### Possíveis fatores de influência 
+
+HR - + Possibilidade de extensão ao contexto nacional (adiante)
+Introdução – focar nos objetivos da territorialização de políticas educativas (nesta em particular), diagnóstico do território de estudo recorrendo a evidências
+Falta a interpretação dos resultados propriamente dita!
+Parte Joana Malta – Análise 
+Como já referido na secção dedicada à metodologia, esta análise permite retirar conclusões acerca da influência dos municípios em relação aos seus vizinhos. Assim, foram analisados três tipos de matrizes, matriz k-vizinhos mais próximos, matriz de distância e matriz Kernel.
+Para cada uma destas matrizes procedeu-se ao cálculo do Índice de Moran Geral e Local e à criação de Diagrama de dispersão de Moran.
+O Índice de Moran Geral é um indicador de semelhança geral das regiões, isto é, analisa a tendência geral dos dados. Quanto mais próximo de 1 melhor o Índice de Moran e para avaliar a sua performance calcula-se o p-sim (significância), comparando com um nível de significância de 5%, este tem de ser menor que 5% para que o Índice de Moran correspondente tenha uma elevada significância.
+O Índice de Moran local calcula para cada unidade espacial, isto é, observa cada município de forma individual e compara com os restantes. Os Diagramas de dispersão de Moran representam no eixo do y a desfasagem espacial da variável em questão e no eixo do x o valor real da variável. O diagrama encontra-se dividido em quatro quadrantes: 
+Quadrante Alto-Alto (Q1):  este quadrante é relativo aos municípios que têm um valor altos e os municípios vizinhos também possuem valor alto.
+Quadrante Baixo-Alto (Q2): encontram-se os municípios que têm um baixo valor da variável a analisar e encontram-se rodeadas de municípios com alto valor.
+Quadrante Baixo-Baixo(Q3): é relativo ao conjunto de municípios com valores baixos circundadas por municípios com valores igualmente baixos.
+Quadrante Alto-Baixo (Q4): diz respeito aos municípios que têm valores altos e os municípios vizinhos têm valor baixos.
+Para além disso, o Índice de Moran serve para analisar a hipótese de existir autocorrelação espacial. O diagrama de Moran é dividido em 4 quadrantes, como já referido, em que Q1 (altos-altos) apresenta-se no lado superior direito, o Q2 (baixos-alto) do lado superior esquerdo, o Q3 (baixos-baixos) do lado inferior esquerdo e o Q4 (altos-baixos) do lado inferior direito. (Figura xx)
+ 
+
+Em Q1 e Q3 são apresentados os pontos que indicam uma associação espacial positiva. Enquanto, Q2 e Q4 indicam pontos de associação espacial negativa. As autocorrelações fortes positivas implicam semelhança entre regiões vizinhas, enquanto as autocorrelações fortes negativas implicam um comportamento inverso comparativamente com os municípios vizinhos e autocorrelações fracas implicam ausência de relação.  
+Um outro indicador útil utilizado na análise foi o mapa LISA. Estes mapas traduzem os resultados dos digramas de dispersão de Moran sendo possível visualizar espacialmente os municípios concretos que se encontram em cada um dos quadrantes (Q1, Q2, Q3 e Q4).
+A escolha da melhor matriz é refletida no valor do Índice de Moral, bem como no diagrama de dispersão. Assim, comparativamente com as restantes matrizes de peso, a matriz Kernel destaca-se pelo maior valor no Índice de Moran em todos os ciclos. Com isto é possível concluir que, existe realmente influência entre os municípios vizinhos relativamente às Taxas de Retenção e Desistência, pois através do diagrama de dispersão da matriz de Kernel observa-se que a maioria dos municípios encontram-se no Q3 e alguns no Q1, isto é, quadrantes que representam uma associação espacial positiva. Na Figura xx encontram-se os diagramas de dispersão de Moran, os mapas LISA e mapa relativo à variável.
+JM: Analisar mais detalhadamente a figura e formatar a figura 
+ 
+FIGURA 5: XXX
+FONTE: GETIN-UA 
+JM: FALTA FALAR DA CORRELAÇÃO, ANÁLISE DE COMPONENTE PRINCIPAIS E MODELOS.
+
