@@ -28,3 +28,6 @@ recomendações-sobre-a-atuação-das-comunidades-intermunicipais
 equations
 theorems-and-proofs
 callout-blocks
+construção-dos-dashboards
+diagnóstico-do-insucesso-escolar
+desconstrução-do-piicie-de-smf

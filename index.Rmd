@@ -1,6 +1,6 @@
 --- 
 title: "Relatório POAT"
-author: "Hidelbrando Ferreira Rodrigues"
+author: "Universidade de Aveiro"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -19,7 +19,7 @@ github-repo: rstudio/bookdown-demo
 
 O combate ao abandono escolar precoce, e ao insucesso escolar mais genericamente compreendido, foi assumido como uma das principais prioridades educativas a considerar pelos governos portugueses durante o quadro financeiro plurianual 2014 – 2020. Portugal, aliás, apresentava preocupantes taxas de abandono escolar precoce, tendo posteriormente tenha trilhado uma evolução notável. O Programa Nacional de Promoção do Sucesso Escolar (PNPSE), criado em 2016, propõe várias ações de combate ao insucesso, quer cofinanciadas (como os PIICIE e os TEIP), quer não cofinanciadas (tais como os Planos de Ação Estratégica dos Agrupamentos). Tal como estabelece desde logo a Resolução do Conselho de Ministros n.º 23/2016, que oficializa o PNPSE, o programa assenta 
 
-   - `"no princípio de que são as comunidades educativas quem melhor conhece os seus contextos, as dificuldades e potencialidades, sendo, por isso, quem está melhor preparado para encontrar soluções locais e conceber planos de ação estratégica, pensados ao nível de cada escola, com o objetivo de melhorar as práticas educativas e as aprendizagens dos alunos"`  
+   >"no princípio de que são as comunidades educativas quem melhor conhece os seus contextos, as dificuldades e potencialidades, sendo, por isso, quem está melhor preparado para encontrar soluções locais e conceber planos de ação estratégica, pensados ao nível de cada escola, com o objetivo de melhorar as práticas educativas e as aprendizagens dos alunos"  
 
 Estes princípios têm já vindo a orientar a formulação de instrumentos de política educativa local, designadamente Cartas Educativas e Planos Estratégicos Educativos Municipais [LEGISLAÇÃO], cuja componente de monitorização tem também vindo a ser promovida. O exercício a que este trabalho se propõe surge, justamente, no seguimento do envolvimento de parte da equipa em tais projetos, junto de municípios portugueses. Tais projetos anteriores permitiram a construção de uma maior consciência sobre os desafios, frequentemente de grande dimensão, associados:
 
@@ -27,27 +27,93 @@ Estes princípios têm já vindo a orientar a formulação de instrumentos de po
    - À articulação interinstitucional entre diferentes entidades territoriais com atuação na política educativa;
    - À promoção da avaliação e monitorização da política pública no geral e da política educativa em particular.
   
-Não obstante tal conhecimento prévio, a proposta deste projeto, feita em sede de candidatura, contemplava um empreendimento mais ambicioso do que aquele que foi possível concretizar, muito por via das limitações associadas aos dados disponíveis. Assim, conquanto o relatório cumpre o propósito de apresentação de uma “proposta de avaliação para além da parametrização do sucesso”, não demonstra a monitorização, uma vez que o caso de estudo selecionado (o PIICIE de Santa Maria da Feira) teve o seu término a 31 de dezembro de 2021, pouco depois do início do presente projeto. Focando a avaliação, este caso de estudo foi fulcral para identificar os desafios e as oportunidades que surgem ao longo do processo de avaliação de um programa cofinanciado de promoção do sucesso escolar.  
-Procurando propor medidas e caminhos atenuadores de duas grandes fragilidades identificadas nestes processos, os principais outputs do projeto são:
+Não obstante tal conhecimento prévio, a proposta deste projeto, feita em sede de candidatura, contemplava um empreendimento mais ambicioso do que aquele que foi possível concretizar, muito por via das limitações associadas aos dados disponíveis. Assim, conquanto o relatório cumpre o propósito de apresentação de uma “proposta de avaliação para além da parametrização do sucesso”, não demonstra a monitorização, uma vez que o caso de estudo selecionado (o PIICIE de Santa Maria da Feira) teve o seu término a 31 de dezembro de 2021, pouco depois do início do presente projeto.   
+Focando a avaliação, este caso de estudo foi fulcral para identificar os desafios e as oportunidades que surgem ao longo do processo de avaliação de um programa cofinanciado de promoção do sucesso escolar.  
+Procurando propor medidas e caminhos atenuadores de duas grandes fragilidades identificadas nestes processos, os principais *outputs* do projeto são:
 
    - A construção de painéis de informação que permitam apresentar, de forma tão interativa quanto possível, o desempenho educativo no território considerado e a caracterização das ações implementadas, assim procurando melhorar a transparência e divulgação dos PIICIE, numa lógica integrada face à realidade educativa;
-   - A elaboração de policy recommendations, decorrentes de todo o processo subjacente a este projeto, e que permitam construir alguma aprendizagem que seja mobilizada para os futuros programas de promoção do sucesso escolar. 
+   - A elaboração de *policy recommendations*, decorrentes de todo o processo subjacente a este projeto, e que permitam construir alguma aprendizagem que seja mobilizada para os futuros programas de promoção do sucesso escolar. 
 
 Ainda que, neste âmbito, a proposta para o Programa Demografia, Qualificações e Inclusão (atualmente em consulta pública), apenas mencione o Plano 21|23 Escola+ (Portugal 2030, 2022, p. 56), será recomendável a formulação de outras medidas no período de vigência do atual quadro comunitário. Enquadrados pelo POR Norte 2030, surgem já referências aos Planos Intermunicipais de Promoção do Sucesso Escolar – PIPSE (CCDR-Norte, 2022). 
 
 ## Metodologia  
   
-No âmbito dos PIICIE, cabe, então, aos Municípios e Comunidades Intermunicipais a formulação de estratégias locais e regionais, em articulação com as escolas, que melhor respondam às singularidades mais desafiantes de cada território. Por este motivo, não obstante a formulação supralocal de indicadores de resultado e de realização (por sua vez presentes nos editais de candidatura aos PIICIE), a aferição rigorosa do sucesso da implementação das ações PIICIE requer indicadores específicos. Arriscando a redundância na formulação, a especificidade destes indicadores decorre da necessidade de considerar, principalmente, os objetivos e o público-alvo de cada ação em particular. Por outro lado, seria desejável considerar a caracterização socioeducativa do território e, mais idealmente ainda, acompanhar longitudinalmente o impacto do PIICIE sobre o desempenho e oportunidades dos alunos. Todavia, a reduzida aposta na construção de uma robusta matriz de monitorização aquando do arranque da operação cofinanciada impede a operacionalização de um verdadeiro acompanhamento e estudo de impacto dos PIICIE, assim impondo constrangimentos à recolha de dados para os indicadores específicos. 
-Este projeto adota, ainda assim, uma metodologia que parte de indicadores mais genéricos (associados aos indicadores de resultado e realização dos Programas Operacionais) e propõe indicadores específicos para as ações. Os indicadores para os quais foi possível recolher informação são, posteriormente, apresentados por meio de dashboards. Estes painéis surgem como exemplificativos de uma estratégia de tratamento e apresentação de dados que permita situar o território (face a outras unidades territoriais) e caracterizá-lo, do ponto de vista da implementação deste projeto específico (o PIICIE). Idealmente, a construção dos dashboards seria feita por meio da interoperabilidade de sistemas, assumindo que a informação a preencher pelas escolas (quer para a tutela, quer para a autoridade de gestão dos fundos comunitários) pode ser mobilizada, ao invés de multiplicada. 
-Se este é o espírito geral subjacente à metodologia, importa detalhar as etapas e, antes disso, as principais fontes usadas.
+No âmbito dos PIICIE, cabe, então, aos Municípios e Comunidades Intermunicipais a formulação de estratégias locais e regionais, em articulação com as escolas, que melhor respondam às singularidades mais desafiantes de cada território. Por este motivo, não obstante a formulação supralocal de indicadores de resultado e de realização (por sua vez presentes nos editais de candidatura aos PIICIE), a aferição rigorosa do sucesso da implementação das ações PIICIE requer indicadores específicos. Arriscando a redundância na formulação, a especificidade destes indicadores decorre da necessidade de considerar, principalmente, os objetivos e o público-alvo de cada ação em particular. Por outro lado, seria desejável considerar a caracterização socioeducativa do território e, mais idealmente ainda, acompanhar longitudinalmente o impacto do PIICIE sobre o desempenho e oportunidades dos alunos. Todavia, a reduzida aposta na construção de uma robusta matriz de monitorização aquando do arranque da operação cofinanciada impede a operacionalização de um verdadeiro acompanhamento e estudo de impacto dos PIICIE, assim impondo constrangimentos à recolha de dados para os indicadores específicos.   
+Este projeto adota, ainda assim, uma metodologia que parte de indicadores mais genéricos (associados aos indicadores de resultado e realização dos Programas Operacionais) e propõe indicadores específicos para as ações. Os indicadores para os quais foi possível recolher informação são, posteriormente, apresentados por meio de *dashboards*. Estes painéis surgem como exemplificativos de uma estratégia de tratamento e apresentação de dados que permita situar o território (face a outras unidades territoriais) e caracterizá-lo, do ponto de vista da implementação deste projeto específico (o PIICIE). **Idealmente, a construção dos *dashboards* seria feita por meio da interoperabilidade de sistemas, assumindo que a informação a preencher pelas escolas (quer para a tutela, quer para a autoridade de gestão dos fundos comunitários) pode ser mobilizada, ao invés de multiplicada.**  
 
-[INCLUIR PARÁGRAFO JÁ ESCRITO JM]
+### Construção dos *dashboards*
 
-[INSERIR CRONOLOGIA DAS ETAPAS]
+HR – 1) descrição sucinta do roteiro metodológico na construção dos dashboards:
+Referência aos softwares usados, suas funções e limitações (R e Power BI)
+Rotinas operacionalizadas e explicitação das narrativas (gerais e específicos)
+Articulação com as fontes selecionadas e respetiva estruturação
+[definir formalmente o conceito de dashboard (ver artigos a respeito) e explicar a escolha da ferramenta escolhida]
 
-[COMPLETAR COM METODOLOGIA DO TRATAMENTO ESTATÍSTICO]
+### Diagnóstico do (in)sucesso escolar
 
-HR – descrição dos passos para disponibilização dos relatórios online
+**Cofinanciamentos PIICIE**  
+
+**Tendências e padrões no sucesso**  
+
+A recolha de informação e o tratamento de bases de dados com os indicadores gerais de resultado dos PIICIE, aqui utilizados na identificação de tendências e padrões territoriais sobre o (in)sucesso escolar, tiveram como objetivo primordial a construção de *dashboards* que contribuíssem para a leitura dessas dinâmicas de forma mais expedita e interativa.  
+O diagnóstico de tendências e padrões foi desenvolvido para os municípios da NUTS II e NUTS III de referência da unidade territorial de estudo, o município de Santa Maria da Feira – para a totalidade de municípios da Região Norte no que às taxas de retenção e desistência diz respeito e unicamente para os da Área Metropolitana do Porto (AMP) no que se refere às taxas de níveis negativos a pelo menos uma disciplina. Duas análises foram desenvolvidas na elaboração deste retrato:  
+
+
+   - Uma análise estatística inicial de ambos os indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE; e
+   - Uma análise de **similaridades combinando os indicadores gerais de resultado com outros indicadores de caracterização socioeducativa relevantes na definição de *clusters* territoriais.** Numa primeira fase, os clusters apresentados resultam do reconhecimento de semelhanças entre os município da AMP, partindo da análise de 4 indicadores em valores absolutos entre 2014/15 e 2018/19 ou 2017/18 e 2018/19: i) alunos com níveis negativos a pelo menos uma disciplina, ii) alunos retidos, iii) alunos inscritos/alunos da amostra e iv) alunos com apoio da ação social escolar (ASE) [^1]. Numa segunda fase, as similaridades entre municípios são estabelecidas à escala da Região Norte de acordo com a análise de 3 indicadores em valores relativos para 2017/18 e 2018/19: i) taxas de retenção e desistência (País), ii) equidade [^2] e iii) quociente entre financiamento PIICIE [^3] e alunos inscritos por níveis de ensino.  
+
+![](C:\Users\julio\Downloads\quadro1.jpg)  
+
+[^1]: **Alunos c/ASE** - Os dados utilizados dizem apenas respeito ao nº absoluto de alunos com ASE considerado na amostra, de acordo com a informação disponibilizada no PORTAL INFOESCOLAS.
+[^2]: **Indicador de Equidade** - “Diferença entre a % de conclusão no tempo esperado na região e a média nacional comparável, em pontos percentuais.” A média nacional “é calculada com os alunos do país que, ao entrarem no 3.º ciclo, tinham um perfil semelhante ao dos alunos da região, em termos de apoios ASE, idade à entrada no ciclo, habilitação da mãe e categoria da escola frequentada relativamente à percentagem de alunos com apoio ASE. O objetivo é enquadrar os resultados dos alunos com apoio ASE na região com uma média nacional apropriada.”  
+**Fonte:** PORTAL INFOESCOLAS / Produção dos indicadores: DGEEC/Medu. https://infoescolas.medu.pt/bds.asp  
+[^3]: **Indicador do Quociente entre financiamento PIICIE e Alunos Inscritos por níveis de ensino** - Para os valores de financiamento, apenas é considerado o fundo total aprovado em €. Este indicador foi calculado pela equipa.  
+**Fonte:** Financiamento PIICIE - Projetos Aprovados nos PO Reginais, de acordo com a base de dados atualizada a 31/08/2021 / Alunos Inscritos por níveis de ensino - DGEEC.
+
+![](C:\Users\julio\Downloads\quadro2.jpg)
+HR – 1) descrição sucinta dos princípios metodológicos da análise estatística inicial:  
+   - Taxas de retenção e desistência
+   - Taxas de níveis negativos a pelo menos uma disciplina.  
+
+A análise concentrou-se, principalmente, em dois indicadores: Níveis Negativos (NN) e Retenção e Desistência (RD). Foram utilizadas bases do governo central de Portugal, disponíveis em diferentes sítios oficiais. As estatísticas disponíveis cobrem períodos distintos e possuem diferentes de níveis de desagregação. A análise dos Níveis Negativos considerou os 17 municípios da Área Metropolitana do Porto, entre 2014/2015 a 2019/2020, desagregados por escola e para o 2º e 3º anos do Ciclo Básico. Já a Retenção e Desistência, cobrem a região Norte (NUTS-III), o que corresponde a 86 municípios, entre 2014/2015 a 2018/2019 e possuem desagregação dos dados para todos os anos escolares do Ciclo Básico e Secundário. Os indicadores foram analisados separadamente e, quando necessária a análise conjunta, seja para efeito de comparação ou modelagem, estes ficaram restritos às unidades espaço-temporais comuns que contemplavam os dois indicadores. Além dos dados da AMP, foram analisados os dados de Níveis Negativos e Retenção e Desistência do município de Santa Maria da Feira.  
+
+HR – 2) descrição sucinta dos princípios metodológicos da análise de similaridades:
+   - Clusters fase 1: alunos c/Níveis Negativos, Retidos, Inscritos e c/ASE
+   - Cluster fase 2: combinação de TRD (País?) + financiamentos + equidade  
+
+**Análise de agrupamentos (clusterização)**
+
+Análise de agrupamento pode ser entendida como um processo que permite descobrir relações existentes entre os exemplares de um conjunto de dados descritos por uma série de características (atributos descritivos). Em geral, as análises realizadas pelos algoritmos que implementam estratégias para agrupamento buscam por similaridades ou diferenças entre exemplares, qualificadas por meio de medidas de distância (quanto menor for a distância entre dois exemplares, maior será a similaridade), tal que exemplares similares sejam associados a um mesmo grupo, e exemplares dissimilares, a grupos diferentes. Ao final da execução de um algoritmo de agrupamento, uma estrutura de grupo é formada de maneira que a similaridade intragrupos tenham sido maximizadas, e a similaridade intergrupos tenha sido maximizada. Este estudo utiliza o *k-means*, que agrupa os dados em grupos de variância igual com relação aos pontos médios, chamados centroides. (Silva, Peres e Boscarioli, 2021 & Sampaio, 2018). A formação dos *clusters* obedeceu a menor estrutura de dados comuns às variáveis consideradas na busca por similaridades.  
+
+Em uma etapa posterior, foram consolidados dados de todo o país da população estudantil, taxa de retenção e desistência e equidade, com o objetivo de identificar padrões entre as diversas regiões do país, ao considerar essas três variáveis. Estes dados estão desagregados por nível de ensino, ciclo de estudos, ano de escolaridade, NUTS II, NUTS III de 2013 e município.  
+
+**Fatores de influência do sucesso**
+
+A análise de autocorrelação espacial foi aplicada aos municípios da Região Norte – NUTS II de referência do município de estudo – e contribuiu para a identificação de possíveis fatores de influência do sucesso escolar nesses territórios. De forma sucinta, a análise desenvolvida consiste em perceber a influência de municípios vizinhos no comportamento de uma determinada variável dependente num município específico e apurar quais os fatores que melhor permitem explicar o comportamento dessa variável – neste caso, foram analisadas as taxas de retenção e desistência. Através da linguagem de programação Python, foi possível realizar vários testes e modelar a dependência espacial das taxas de retenção e desistência por via de uma análise de regressão espacial.  
+A opção de analisar as taxas de retenção e desistência enquanto indicador geral de resultado dos PIICIE, na catação de possíveis fatores de sucesso, decorreu do facto da informação estar disponível para todos os municípios da Região Norte, enquanto para as taxas de níveis negativos a pelo menos uma disciplina só foi possível aceder a dados para os municípios da AMP com igual desagregação. A análise reporta a 2018/19, tendo sido realizada para o ensino básico (1º, 2º e 3º CEB) e secundário das escolas públicas agrupadas.[^4] Em municípios com mais de um agrupamento de escolas (AE), os dados foram agregados.  
+Na base da seleção das variáveis independentes, assumiu-se como critério chave a sua relevância para a leitura espacial, demográfica, socioeconómica e socioeducativa dos territórios a analisar, com desagregação até ao município. No total, foram consideradas 16 variáveis explicativas[^5]:
+
+[^4]: Para consulta da respetiva fonte, ver Quadro 1. 
+[^5]: A informação utilizada tem origem em bases de dados abertas do PORDATA (variáveis recolhidas – densidade populacional, nº de estabelecimentos de ensino ativos em cada nível, população que completou o ensino secundário e o ensino superior, poder de compra per capita) e Infoescolas (variáveis recolhidas – equidade e percentagem de alunos com ASE que concluíram os níveis de ensino básico e secundário nos anos previstos).
+Para maior detalhe sobre os indicadores de equidade e alunos com ASE, ver o Quadro 2.
+
+   - densidade populacional referente ao ano de 2021 (valores previstos) - 1 variável;
+   - percentagem de estabelecimentos de ensino ativos em cada nível (excluindo o ensino pré-escolar) face ao total no ano de 2019/20 – 4 variáveis;
+   - percentagem de indivíduos que completou o ensino secundário e o ensino superior face ao total de residentes em 2011 – 2 variáveis;
+   - poder de compra per capita registado em 2019 – 1 variável;
+   - indicador de equidade referente aos níveis de ensino básico e secundário (média entre o científico-humanísticos e profissional) – 4 variáveis;
+   - percentagem de alunos com ASE que concluíram os níveis de ensino básico e secundário (média entre o científico-humanísticos e profissional) nos anos previstos - 4 variáveis 
+
+![](C:\Users\julio\Downloads\figura1.jpg)  
+Na Figura 1 esquematiza as três principais etapas da análise de autocorrelação espacial desenvolvida :
+  **1.** a 1ª fase centrou-se no tratamento de dados e teve como objetivo recolher a informação essencial para a análise – as variáveis dependentes e independentes;  
+  **2.** na 2ª fase o propósito passou por encontrar a melhor matriz de pesos através do cálculo do índice de Moran. A abordagem utilizada para a representação das interações espaciais incluiu o teste de três tipos de matrizes de pesos espaciais – matriz de distância de 100 km, matriz k-vizinhos mais próximos e matriz de Kernel – sendo estas matrizes de pesos baseadas em distâncias. As matrizes representam as interações espaciais entre diferentes objetos, neste caso entre os diversos municípios. Em particular, as matrizes de distância permitem definir as relações de vizinhança em função da distância entre os municípios. A matriz de distância de 100 km é um tipo de matriz de distância mais simples, tendo sido pré-estabelecido uma distância que irá funcionar como uma ordem de nível para a definição dos vizinhos. Na matriz k-vizinhos define-se exatamente o número de vizinhos mais próximos de cada município, ou seja, todos os municípios têm o mesmo número de vizinhos. A matriz Kernel é modulada por uma função de Kernel com determinadas propriedades, sendo que os pesos entre os municípios são baseados na sua distância. Em cada matriz foi calculado o índice de Moran geral e local para escolher a aquela que melhor traduzisse as interações espaciais entre os municípios da Região Norte. Com base no índice de Moran local, construiu-se também o diagrama de dispersão;   
+  **3.** por fim, a 3ª fase consistiu em analisar a correlação entre as diferentes variáveis, dependentes (4 variáveis) e independentes/explicativas (16 variáveis), e chegar ao modelo que melhor permitisse inferir sobre as relações de influência e causalidade. Esta etapa compreendeu a elaboração de uma autocorrelação (anterior à análise de componentes principais) e a modelação das variáveis através de uma análise de componentes principais.  
+Para além da análise da correlação entre as variáveis, a análise de componentes principais permitiu a obtenção de um pequeno número de combinações lineares das 18 variáveis utilizadas que representem a maior parte da variabilidade dos dados. Este tipo de análise tornou-se útil para modelar a dependência espacial.  
+Foi possível aferir que quatro fatores seria o nº mais adequado para realizar a análise de componentes principais. Desta forma, analisando os resultados obtidos dos loadings, verifica-se que o fator 1 tem mais influência na variável relativa ao poder de compra, dado que o valor se encontra próximo de 1 ou de -1 (0,88). Algo semelhante ocorre com os restantes fatores, sendo que exercem mais influência nas variáveis relativas à percentagem de estabelecimentos do 2ºCEB ativos (0,60), equidade referente ao secundário (0,49) e percentagem de alunos com ASE que concluíram o 2ºCEB nos 3 anos (0,77), respetivamente. Estas quatro variáveis foram utilizadas na construção dos modelos testados.  
+É possível avaliar a presença de dependência espacial através de um vasto conjunto de modelos, sendo que se verificou qual seria o melhor modelo para cada um dos níveis de ensino. Assim, assume-se que o melhor modelo para todos os níveis de ensino é o modelo OLS, dado que ao realizar este modelo nenhum multiplicador de Lagrange (LM-Error e LM-Lag) têm significância devia às fracas autocorrelações observadas entre as variáveis desfasadas e o desvio padrão de cada nível de ensino.  
+
+### Desconstrução do PIICIE de SMF
 
 Parte Joana Malta
 
