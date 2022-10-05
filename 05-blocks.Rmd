@@ -40,3 +40,54 @@ Santos, S., Duarte, J. & Marques, J. L. (2019). Quadro de referência aplicado a
 The Educational Institute of Scotland (EIS). (2019). EDUCATION SCOTLAND INSPECTIONS, General, Advice for members. www.eis.org.uk
 XXI GOVERNO - REPÚBLICA PORTUGUESA. (2019, February). Modelo de Avaliação Externa das Escolas – novo ciclo / Avaliação externa alargada às escolas profissionais privadas e às escolas com contrato de associação/patrocínio. NOTA À COMUNICAÇÃO SOCIAL. https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=%3D%3DBAAAAB%2BLCAAAAAAABAAzN7Q0AQCs6SFGBAAAAA%3D%3D
 
+**| - Operações aprovadas no QFP 2014-2020, enquadradas no OT10, executadas por entidades de Santa Maria da Feira **
+
+![](C:\Users\julio\Downloads\bookPoat/_bookdown_files/_main_files/img15.jpg)
+![](C:\Users\julio\Downloads\bookPoat/_bookdown_files/_main_files/img16.jpg)
+
+
+**|| -Taxas de cofinanciamento no quadro financeiro plurianual 2014-2020**
+
+![](C:\Users\julio\Downloads\bookPoat/_bookdown_files/_main_files/img17.jpg)
+
+Elegibilidade das Regiões de nível NUTS 2	QFP 2014-2020
+FEDER + FSE
+Regiões menos desenvolvidas
+PIB per capita <75% da média do PIB da UE-27	4 Regiões
+•	Norte
+•	Centro
+•	Alentejo
+•	Açores
+Cofinanciamento: até 85%
+Regiões em transição
+PIB per capita entre 75% e 90% da média do PIB da UE-27	1 Região
+•	Algarve
+Cofinanciamento: até 80%
+Regiões mais desenvolvidas
+PIB per capita >90% da média do PIB da UE-27	2 Regiões
+•	Lisboa
+•	Madeira
+Cofinanciamento: até 50 e 85%
+No que concerne não o número de operações, mas o volume de cofinanciamento aprovado para os PIICIE, em cada região, importa considerar as diferentes taxas de cofinanciamento regionais, por via dos níveis de desenvolvimento, traduzidos através do PIB per capita. Consideradas menos desenvolvidas, as regiões do Norte, Centro, Alentejo e Açores podem ter um cofinanciamento europeu até 85%, enquanto o Algarve (região em transição) tem cofinanciamento até 80% e Lisboa, por ser mais desenvolvida, tem cofinanciamentos até 50%. Por fim, a região da Madeira, ainda que o seu PIB per capita a torne uma região mais desenvolvida, é simultaneamente uma região ultraperiférica, pelo que as suas taxas de cofinanciamento podem também alcançar 85%.
+
+**||| – Indicadores específicos das ações**
+
+![](C:\Users\julio\Downloads\bookPoat/_bookdown_files/_main_files/img18.jpg)
+
+**|||| –Outputs complementares produzidos ao longo do período de execução do projeto**
+
+**Apresentações em conferências e congressos científicos:**
+•	‘Os fundos comunitários e a política educativa em Portugal no quadro 2014-2020: Mapeamento das operações PIICIE’, no 28.º Congresso da Associação Portuguesa de Desenvolvimento Regional (APDR) – Green and inclusive transitions in Southern European regions: What can we do better, realizado em Vila Real, entre 16 e 17 de setembro de 2021 
+•	‘A monitorização de políticas educativas locais: o caso de um município da Área Metropolitana do Porto’, no IV Colóquio Internacional de Ciências Sociais da Educação, realizado em Braga, entre 12 e 14 de maio de 2022
+•	‘Desafios do processo de avaliação ex-post de uma política educativa cofinanciada’, no IV Colóquio Internacional de Ciências Sociais da Educação, realizado em Braga, entre 12 e 14 de maio de 2022
+•	‘Distribuição dos fundos estruturais associados à Educação no quadro 2014-2020 em Portugal: padrões e singularidades regionais das políticas educativas’, no 29.º Congresso da APDR - Islands and peripheral territories: challenges in a moving geography and changing climate patterns, entre 29 e 30 de junho de 2022
+•	‘Oportunidades na redefinição de princípios para a programação de equipamentos educativos’, no 29.º Congresso da APDR - Islands and peripheral territories: challenges in a moving geography and changing climate patterns, entre 29 e 30 de junho de 2022
+
+**Publicações de artigos científicos:**
+•	Artigo submetido, a aguardar revisão: ‘Os fundos comunitários e a política educativa em Portugal no quadro 2014-2020: Mapeamento das operações PIICIE’
+•	‘Desafios do processo de avaliação ex-post de uma política educativa cofinanciada’ nos proceedings do IV Colóquio Internacional de Ciências Sociais da Educação
+
+**Trabalhos académicos, no âmbito de unidades curriculares do Mestrado de Ciências de Dados para Ciências Sociais (Universidade de Aveiro):**
+•	‘Painéis de informação sobre territórios educativos’ (Unidade Curricular: Seminário)
+•	‘Taxas de retenção na AMP’ (título provisório; Unidade Curricular: Econometria Espacial e Temporal)
+

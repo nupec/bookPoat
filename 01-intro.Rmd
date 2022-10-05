@@ -1,78 +1,101 @@
 # Diagnóstico do sucesso escolar no território de estudo 
 
+A análise que aqui se apresenta resulta de uma necessidade que se impõe em qualquer trabalho associado à territorialização de políticas públicas, com ou sem cofinanciamento. Uma vez que este projeto visa contribuir para a melhoria da avaliação e monitorização de uma política educativa cofinanciada, faz sentido retomar os objetivos das práticas de avaliação na educação. Um dos principais objetivos passará por reunir evidências ou informação de apoio à decisão no desenvolvimento das próprias políticas educativas, com a expectativa de fornecer contributos valiosos aos agentes educativos no caminho da melhoria de processos e desempenhos e, consequentemente, elevar a qualidade do sistema de ensino.  
+
+As opções analíticas seguem pressupostos que têm sido amplamente debatidos ao nível da investigação científica e aplicada na territorialização de políticas públicas, nomeadamente as políticas de educação, pelo que se assume essencial ter um diagnóstico das principais tendências e padrões das dinâmicas em análise – o insucesso escolar (Marques et al., 2020; Santos et al., 2019; Ioannidou, 2010).  
+
 ## Cofinanciamentos na promoção do sucesso
 
-O domínio do Capital Humano (expressão que reflete o espírito da Estratégia de Lisboa, de 2020) foi operacionalizado pelas operações cofinanciadas enquadradas pelo Objetivo Temático (OT) 10 (Investir no ensino, nas competências e na aprendizagem ao longo da vida) do quadro financeiro plurianual 2014-2020, por sua vez desdobrado em cinco prioridades de investimento (PI). A prioridade 10.1  é aquela mais diretamente voltada para a promoção do sucesso escolar e da igualdade de oportunidades, no âmbito da qual se enquadram os PIICIE, candidatados através dos Programas Operacionais Regionais (POR), ao invés do Programa Operacional Capital Humano (POCH).  
+O domínio do Capital Humano (expressão que reflete o espírito da Estratégia de Lisboa, de 2020) foi operacionalizado pelas operações cofinanciadas enquadradas pelo Objetivo Temático (OT) 10 (Investir no ensino, nas competências e na aprendizagem ao longo da vida) do quadro financeiro plurianual 2014-2020, por sua vez desdobrado em cinco prioridades de investimento (PI). A prioridade 10.1[^11]  é aquela mais diretamente voltada para a promoção do sucesso escolar e da igualdade de oportunidades, no âmbito da qual se enquadram os PIICIE, candidatados através dos Programas Operacionais Regionais (POR), ao invés do Programa Operacional Capital Humano (POCH).  
 
-Olhando apenas aos POR, à data de 31 de março de 2022, os PIICIE eram a tipologia de operações dominante, em número de operações, na prioridade 10.1 nas regiões Norte e Alentejo. Por outro lado, no que às prioridades de investimento diz respeito, e também em número de operações nos POR, a PI 10.1 é a segunda mais dominante na região Norte e a primeira no Algarve. A PI 10.5, associada aos equipamentos educativos, e a única cofinanciada pelo Fundo Europeu de Desenvolvimento Regional (FEDER), acaba por ter maior destaque nas regiões do Continente (com a exceção já apontada do Algarve), por via dos problemas infraestruturais de várias instituições.
+[^11]: Redução do abandono escolar precoce e promoção da igualdade de acesso a educação pré-escolar, ensino básico e secundário de boa qualidade, incluindo percursos de aprendizagem formais e não-formais para reintegração no ensino e na formação.  
 
-FIGURA 1: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento
-FONTE: GETIN-UA 
+Olhando apenas aos POR, à data de 31 de março de 2022, **os PIICIE eram a tipologia de operações dominante, em número de operações, na prioridade 10.1 nas regiões Norte e Alentejo.** Por outro lado, no que às prioridades de investimento diz respeito, e também em número de operações nos POR, a PI 10.1 é a segunda mais dominante na região Norte e a primeira no Algarve. A PI 10.5, associada aos equipamentos educativos, e a única cofinanciada pelo Fundo Europeu de Desenvolvimento Regional (FEDER), acaba por ter maior destaque nas regiões do Continente (com a exceção já apontada do Algarve), por via dos problemas infraestruturais de várias instituições.
+
+![](C:\Users\julio\Downloads\figura6.jpg)  
 
 Olhando ao caso de estudo de Santa Maria da Feira, também a PI10.5 mobiliza um maior montante de fundo total aprovado, quando olhando apenas ao cofinanciamento enquadrado pelo POR Norte (Figura 1). Esta realidade feirense não se encontra totalmente alinhada com a tendência da AMP (não como entidade beneficiária, mas como unidade territorial), uma vez que, no que diz respeito ao financiamento enquadrado pelo POR Norte, a PI10.2 (orientada para o Ensino Superior) acaba por ser mais dominante do que a PI10.1 (Figura 3). Sublinhe-se, no entanto, que na AMP a PI10.1 apenas se circunscreve aos PIICIE, não havendo qualquer TEIP cofinanciado neste âmbito.
 
-FIGURA 1: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento
-FONTE: GETIN-UA
+![](C:\Users\julio\Downloads\figura7.jpg)  
 
-No financiamento por via do POCH, ganha maior destaque a PI10.4 (Figura 2), evidenciando a relevância da formação profissional no território.  Nos cofinanciamentos por via do POCH, as tendências são semelhantes (Figura 4).
+Nos cofinanciamentos por via do POCH, as tendências são semelhantes no território do município de estudo (Santa Maria da Feira) e da respetiva NUTS III (AMP). Ao nível deste programa de financiamento, ganha maior destaque a PI 10.4, evidenciando a relevância da formação profissional no território.[^12]
 
-Figura 1 - Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira no QFP 2014-2020, POR Norte
+![](C:\Users\julio\Downloads\figura8.jpg)  
+No âmbito do POR Norte, o cofinanciamento destinado a entidades de Santa Maria da Feira (4 378 284,80€) totaliza 3% do montante total da AMP (143 160 673,82€), enquanto no contexto do POCH esta proporção é de 4% (volume de 23 202 113,43€ mobilizado por Santa Maria da Feira no total da AMP que ascende a 619 559 890,53€).  
+Voltando ao contexto dos PIICIE, permita-se reiterar dois pontos: i) o seu peculiar modelo de governação, uma vez que estes são a única operação cofinanciada do OT 10 em que as comunidades intermunicipais podem ser entidades beneficiárias (tal como os municípios e, em excecionais casos, Agrupamentos de Escolas e até centros de formação), no âmbito dos Pactos para o Desenvolvimento e Coesão Territorial (PDCT); e ii) a clara aposta da região Norte nesta tipologia de operação cofinanciada.  
+HR – mapeamento do financiamento PIICIE – apenas para Região Norte ou todo o país?  
+Convergência dos valores de € de financiamento/pop. estudantil por ciclos  
+O mapeamento do financiamento PIICIE foi feito para todo o país.  
 
-Figura 2 - Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira no QFP 2014-2020, POCH
+As operações implementadas na região Norte têm uma taxa de cofinanciamento até 85%.[^13]
+[ARTICULAR ESTA FRASE OU SIMILAR COM RESULTADOS HR; PODE SER REFORMULADA, MAS NÃO APAGADA, PARA REMETER PARA O ANEXO DAS Tx COFINANCIAMENTO]  
 
-FIGURA 1: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento
-FONTE: GETIN-UA
+[^12]: Para consulta das operações aprovadas, consultar o Anexo I.
+Importa sublinhar que, embora tematicamente semelhantes, as Prioridades de Investimento (PI) apresentam diferenças ao nível dos PO Regionais e do POCH.  
+[^13]: Consultar Anexo X.
 
+## Tendências e padrões
 
-Incluir nota sobre as diferenças nas PI nos POR e no POCH
+ARTICULAR COM OS DASHBOARDS]  
+As evidências reunidas, dada a informação desagregada à qual foi possível aceder, centram-se nos municípios da Região Norte e, em particular, da Área Metropolitana do Porto (AMP) – NUTS II e NUTS III de referência da unidade territorial de estudo, o município de Santa Maria da Feira. Encontram-se estruturadas em dois pontos: 1) análise estatística inicial dos indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE e 2) análise de similaridades entre municípios (clusters territoriais) cruzando os indicadores gerais de desempenho e indicadores de caracterização socioeducativa.  
 
+HR – 1) descrição sucinta dos resultados com base na análise estatística inicial:  
+	Taxas de retenção e desistência
+Taxas de níveis negativos a pelo menos uma disciplina  
 
-No âmbito do POR Norte, o cofinanciamento destinado a entidades de Santa Maria da Feira (4 378 284,80€) totaliza 3% do montante total da AMP (143 160 673,82€), enquanto no contexto do POCH esta proporção é de 4% .
-Voltando ao contexto dos PIICIE, permita-se um breve parêntesis para reiterar dois pontos:
-•	o seu peculiar modelo de governação, uma vez que estes são a única operação cofinanciada, no âmbito do OT 10, em que as comunidades intermunicipais podem ser entidades beneficiárias (tal como os municípios e, em excecionais casos, Agrupamentos de Escolas e até centros de formação), no âmbito dos Pactos para o Desenvolvimento e Coesão Territorial (PDCT);
-•	a clara aposta da região Norte nesta tipologia de operação cofinanciada. 
+[por fazer]
 
-HR – descrição sucinta após a convergência em valores de Euros /pop. estudantil e construção do dash
-As operações implementadas na região Norte têm uma taxa de cofinanciamento até 85% . [ARTICULAR ESTA FRASE OU SIMILAR COM RESULTADOS HR; PODE SER REFORMULADA, MAS NÃO APAGADA, PARA REMETER PARA O ANEXO DAS Tx COFINANCIAMENTO]
+HR – 2) descrição sucinta dos resultados com base na análise de similaridades:
+Clusters fase 1: alunos c/Níveis Negativos, Retidos, Inscritos e c/ASE
+Cluster fase 2: combinação de TRD + financiamentos + equidade
 
-
-
-
-### Tendências e padrões
-
-A análise que aqui se apresenta resulta de uma necessidade que se impõe em qualquer trabalho associado à territorialização de políticas públicas, com ou sem cofinanciamento. Uma vez que este projeto visa contribuir para a melhoria da avaliação e monitorização de uma política educativa cofinanciada, faz sentido retomar os objetivos das práticas de avaliação na educação. Um dos principais objetivos passará por reunir evidências ou informação de apoio à decisão no desenvolvimento das próprias políticas educativas, com a expectativa de fornecer contributos valiosos aos agentes educativos no caminho da melhoria de processos e desempenhos e, consequentemente, elevar a qualidade do sistema de ensino. 
-As opções analíticas seguem pressupostos que têm sido amplamente debatidos ao nível da investigação científica e aplicada na territorialização de políticas públicas, nomeadamente as políticas de educação, pelo que se assume essencial ter um diagnóstico das principais tendências e padrões das dinâmicas em análise – o insucesso escolar (Marques et al., 2020; Santos et al., 2019; Ioannidou, 2010).
-As evidências reunidas, dada a informação desagregada à qual foi possível aceder, centram-se nos municípios da Área Metropolitana do Porto (AMP) – NUTS III de referência da unidade territorial de análise, o município de Santa Maria da Feira – e estão estruturadas em dois grandes pontos:
-1)	O primeiro ponto tem por base uma análise estatística inicial dos indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE – taxa de retenção e desistência e taxa de níveis negativos a pelo menos uma disciplina;
-2)	Já o segundo o ponto considera 
-
-HR – descrição sucinta (metodologia e resultados) após a análise estatística inicial (já iniciada partindo dos indicadores gerais de desempenho)
-HR – descrição sucinta (metodologia e resultados) da análise de similaridade (construção de clusters tendo em conta duas componentes: 1) valores ABS de Níveis Negativos, Retenções, tamanho do município e alunos c/ASE (1º teste já feito pelo HR), 2) combinação de TRD + financiamentos + equidade (a realizar)
+[por fazer]
 
 
-### Possíveis fatores de influência 
+## Possíveis fatores de influência 
 
-HR - + Possibilidade de extensão ao contexto nacional (adiante)
-Introdução – focar nos objetivos da territorialização de políticas educativas (nesta em particular), diagnóstico do território de estudo recorrendo a evidências
-Falta a interpretação dos resultados propriamente dita!
-Parte Joana Malta – Análise 
-Como já referido na secção dedicada à metodologia, esta análise permite retirar conclusões acerca da influência dos municípios em relação aos seus vizinhos. Assim, foram analisados três tipos de matrizes, matriz k-vizinhos mais próximos, matriz de distância e matriz Kernel.
-Para cada uma destas matrizes procedeu-se ao cálculo do Índice de Moran Geral e Local e à criação de Diagrama de dispersão de Moran.
-O Índice de Moran Geral é um indicador de semelhança geral das regiões, isto é, analisa a tendência geral dos dados. Quanto mais próximo de 1 melhor o Índice de Moran e para avaliar a sua performance calcula-se o p-sim (significância), comparando com um nível de significância de 5%, este tem de ser menor que 5% para que o Índice de Moran correspondente tenha uma elevada significância.
-O Índice de Moran local calcula para cada unidade espacial, isto é, observa cada município de forma individual e compara com os restantes. Os Diagramas de dispersão de Moran representam no eixo do y a desfasagem espacial da variável em questão e no eixo do x o valor real da variável. O diagrama encontra-se dividido em quatro quadrantes: 
-Quadrante Alto-Alto (Q1):  este quadrante é relativo aos municípios que têm um valor altos e os municípios vizinhos também possuem valor alto.
-Quadrante Baixo-Alto (Q2): encontram-se os municípios que têm um baixo valor da variável a analisar e encontram-se rodeadas de municípios com alto valor.
-Quadrante Baixo-Baixo(Q3): é relativo ao conjunto de municípios com valores baixos circundadas por municípios com valores igualmente baixos.
-Quadrante Alto-Baixo (Q4): diz respeito aos municípios que têm valores altos e os municípios vizinhos têm valor baixos.
-Para além disso, o Índice de Moran serve para analisar a hipótese de existir autocorrelação espacial. O diagrama de Moran é dividido em 4 quadrantes, como já referido, em que Q1 (altos-altos) apresenta-se no lado superior direito, o Q2 (baixos-alto) do lado superior esquerdo, o Q3 (baixos-baixos) do lado inferior esquerdo e o Q4 (altos-baixos) do lado inferior direito. (Figura xx)
- 
+A análise aqui desenvolvida abrange os municípios da Região Norte e permite tecer algumas conclusões acerca da influência destas unidades espaciais no comportamento das taxas de retenção e desistência das unidades vizinhas. A identificação de associações espaciais entre os municípios decorreu da análise i) de matrizes de pesos (k-vizinhos mais próximos, de distância a 100km e de Kernel), ii) do cálculo do Índice de Moran para cada matriz (para avaliar a existência de autocorrelação espacial) e iii) da representação dos diagramas de dispersão de Moran e dos mapas LISA:  
 
-Em Q1 e Q3 são apresentados os pontos que indicam uma associação espacial positiva. Enquanto, Q2 e Q4 indicam pontos de associação espacial negativa. As autocorrelações fortes positivas implicam semelhança entre regiões vizinhas, enquanto as autocorrelações fortes negativas implicam um comportamento inverso comparativamente com os municípios vizinhos e autocorrelações fracas implicam ausência de relação.  
-Um outro indicador útil utilizado na análise foi o mapa LISA. Estes mapas traduzem os resultados dos digramas de dispersão de Moran sendo possível visualizar espacialmente os municípios concretos que se encontram em cada um dos quadrantes (Q1, Q2, Q3 e Q4).
-A escolha da melhor matriz é refletida no valor do Índice de Moral, bem como no diagrama de dispersão. Assim, comparativamente com as restantes matrizes de peso, a matriz Kernel destaca-se pelo maior valor no Índice de Moran em todos os ciclos. Com isto é possível concluir que, existe realmente influência entre os municípios vizinhos relativamente às Taxas de Retenção e Desistência, pois através do diagrama de dispersão da matriz de Kernel observa-se que a maioria dos municípios encontram-se no Q3 e alguns no Q1, isto é, quadrantes que representam uma associação espacial positiva. Na Figura xx encontram-se os diagramas de dispersão de Moran, os mapas LISA e mapa relativo à variável.
-JM: Analisar mais detalhadamente a figura e formatar a figura 
- 
-FIGURA 5: XXX
-FONTE: GETIN-UA 
-JM: FALTA FALAR DA CORRELAÇÃO, ANÁLISE DE COMPONENTE PRINCIPAIS E MODELOS.
+   - O Índice de Moran é um indicador que permite aferir a semelhança geral entre regiões (neste caso, são considerados municípios). Quanto mais próximo de 1 for este índice, mais adequada será a utilização da matriz, devendo o seu nível de significância (p-sim) ser < 5%;
+   - Os diagramas de dispersão de Moran partem do cálculo do índice de Moran e, num referencial de 4 quadrantes, permitem visualizar a desfasagem espacial da variável das taxas de retenção e desistência (eixo dos y) e o desvio padrão desse mesma variável (eixo dos x). As autocorrelações (associações espaciais) positivas-fortes implicam semelhanças entre municípios vizinhos, as negativas-fortes traduzem dissemelhanças e as autocorrelações fracas refletem ausência de associação espacial:  
+   
+   **Quadrante Alto-Alto (Q1)**: municípios e vizinhos com valores elevados da taxa de retenção e desistência; 
+   **Quadrante Baixo-Alto (Q2)**: municípios com valores baixos e vizinhos com valores elevados da taxa de retenção e desistência;
+   **Quadrante Baixo-Baixo (Q3)**: municípios e vizinhos com valores baixos da taxa de retenção e desistência;
+   **Quadrante Alto-Baixo (Q4)**: municípios com valores elevados e vizinhos com valores baixos da taxa de retenção e desistência;
+
+![](C:\Users\julio\Downloads\figura9.jpg) 
+
+   - Os mapas LISA traduzem espacialmente os resultados dos digramas de dispersão de Moran. As cores presentes, tanto no diagrama de dispersão de Moran como no mapa LISA, representam os quatro tipos de dependências relacionais entre vizinhos referidos anteriormente - vermelho: “High-High” (municípios e vizinhos com valores elevados da taxa de retenção e desistência); azul claro: “Low-High” (municípios com valores baixos e vizinhos com valores elevados da taxa de retenção e desistência); azul escuro: “Low-Low” (municípios e vizinhos com valores baixos da taxa de retenção e desistência); laranja: High-Low (municípios com valores elevados e vizinhos com valores baixos da taxa de retenção e desistência); cinza: municípios que não são significantes para a análise.  
+   
+Na **FIGURA 5** estão representados os diagramas de dispersão de Moran e os mapas LISA obtidos com a matriz de Kernel para o 1ºCEB e com a matriz k-vizinhos mais próximos para os restantes níveis de ensino, sendo que estas foram aquelas que se destacaram entre as matrizes de pesos calculadas, dado o Índice de Moran ter sido mais expressivo. As autocorrelações positivas e negativas podem ser fracas ou fortes. Neste sentido, é importante analisar o índice de Moran das matrizes selecionadas, de modo a perceber se este se encontra próximo de 1 (autocorrelações positivas e negativas fortes). Assim, as autocorrelações correspondentes 2ºCEB, 3ºCEB e Secundário são positivas fracas e no 1ºCEB a autocorrelação é negativa fraca, apresentando valores do Índice de Moran afastados de 1. Ainda na **FIGURA 5** , encontra-se os mapas LISA e o mapeamento da variável dependente, a taxa de retenção e desistência de cada nível de ensino.  
+
+Como é possível deduzir através do mapa LISA relativamente à Taxa de Retenção e Desistência do 1ºCEB, Tarouca é assinalada como um município que apresenta valores elevados desta variável, ao contrário dos municípios vizinhos que têm valores baixos. Neste caso, o município não aparenta ser influenciado pelos valores apresentados pelos vizinhos, uma vez que estes têm um comportamento oposto.  
+
+Os municípios da Maia, do Porto e de Gondomar apresentam valores elevados de taxas de retenção e desistência do 2ºCEB, verificando-se uma influência evidente entre estes e os municípios vizinhos que apresentam igualmente valores elevados. Ainda relativamente a esta variável, Valpaços não é afetado pelos valores obtidos pelos vizinhos, sendo que este município apresenta valores elevados e os seus vizinhos não.  
+
+No 3ºCEB, verifica-se influência entre os municípios de Vila do Conde, Matosinhos, Maia, Porto e Gondomar e os seus vizinhos, pois todos apresentam valores elevando da taxa de retenção e desistência. Já Bragança tem um comportamento contrário aos seus vizinhos, obtendo valores baixos, enquanto os seus vizinhos têm valores altos. Os municípios de Ponte da Barca e Vila Verde, assim como os seus vizinhos, têm valores baixos da taxa de retenção e desistência do 3ºCEB.  
+
+Na taxa de retenção e desistência do secundário, Matosinhos, Porto e Gondomar são municípios que têm valores elevados, tal como os municípios à sua volta, verificando-se uma clara influência. O município de Celorico de Basto apresenta valores elevados, contrariamente aos valores da taxa de retenção e desistência apresentados pelos vizinhos. Miranda do Douro posiciona-se numa situação oposta a Celorico de Basto, pois apresenta valores baixos da taxa de retenção e desistência do secundário, enquanto os seus vizinhos têm valores elevados desta variável. Nestes dois municípios, é fácil de deduzir que não existe influência entre estes e os seus vizinhos.  
+
+   - Era interessante criar uma tabela para cada nível de ensino e listar os municípios por quadrante em função do tipo de autocorrelação. Para ser mais simples identificar.
+
+   - O Município de SMF aparece sempre a cinza. Refletir a respeito.
+
+JM: Apesar de se encontrar a cinza, isto é, não é significante para a análise, uma vez que, como está acima referido para a TRD do 2ºCEB, 3º CEB e Secundário, grande parte dos municípios da AMP estão a vermelho, isto é, são municípios que têm valores elevados e os seus vizinhos também. Desta forma, pode deduzir que pelo menos para estes níveis de ensino, SMF apresenta valores elevados. 
+
+![](C:\Users\julio\Downloads\figura10.jpg)  
+![](C:\Users\julio\Downloads\figura11.jpg)  
+![](C:\Users\julio\Downloads\figura12.jpg)  
+![](C:\Users\julio\Downloads\figura13.jpg)  
+
+De forma a identificar possíveis fatores de influência relativamente à taxa de retenção e desistência de cada nível de ensino, adicionou-se à análise anteriormente mencionada um conjunto de variáveis. Assim, foi possível analisar a matriz de autocorrelação entre as taxas de retenção e desistência e as variáveis independentes/explicativas (FIGURA X).
+JM: Escolher qual a matriz que irá ficar!  
+
+Inserir legenda  
+JM: talvez acrescentar uma legenda para identificar o significado das variáveis?  
+
+Facilmente, se retira algumas conclusões acerca de quais as variáveis que têm uma maior influência nas variáveis dependentes, as taxas de retenção e desistência. Todas as variáveis dependentes (TRD_1CEB, TRD_2CEB, TRD_3CEB, TRD_SEC) apresentam grande nível de correlação com a densidade e com o poder per capita. De salientar que também existe uma correlação evidente entre as taxas de retenção e desistência do 2ºCEB, 3ºCEB e secundário. Estas variáveis também apresentam maior correlação com percentagem de indivíduos que completou o ensino secundário e o ensino superior.  
+A variável da taxa de retenção do 1ºCEB, 2ºCEB e 3ºCEB têm uma correlação evidente com a percentagem de estabelecimentos de ensino ativos no 1ºCEB. Ainda é possível verificar que a taxa de retenção do 2ºCEB, 3ºCEB e secundário estabelecem uma correlação alta com a percentagem de alunos com ASE que concluíram o 2ºCEB nos 3 anos e com a equidade referente ao 2ºCEB.  
+
 

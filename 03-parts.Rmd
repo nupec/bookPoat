@@ -1,12 +1,7 @@
-# Impacto da pandemia Covid-19 na execução das atividades e projetos programados
+# **Impacto da pandemia Covid-19 na execução das atividades e projetos programados**
 
-You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
-
-Add a numbered part: `# (PART) Act one {-}` (followed by `# A chapter`)
-
-Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
-
-Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
-
-
-
+A pandemia Covid-19 causou um impacto enorme no sistema educativo, começando pelo ensino à distância e a emergência em fazer adaptações rápidas para dar continuidade ao ensino. Assim, os projetos e as atividades de cada uma das ações tiveram de sofrer alterações inevitáveis.  
+No projeto Desafia-TE, integrado na ação Equipa Multidisciplinar, ocorrem algumas mudanças para que fosse possível continuar a apoiar os jovens selecionados à distância. A partir do mês de março de 2020, foi criado o programa “Desafia-TE em casa” que se concretizou através de seis sessões online no 1º período e, desta forma, os desafios do projeto foram cumpridos apesar dos imprevistos. Já o projeto com os alunos abrangidos por medidas adicionais da EB Corga de Lobão manteve-se como planeado, sendo que estes continuaram a ter as sessões presencialmente ainda que a escola estivesse encerrada devido ao confinamento imposto pela pandemia.  
+Em 2020 e 2021, não foi possível concretizar o programa Vives na interrupção letiva da Páscoa. Os programas Vives do Natal realizaram-se, porém houve uma limitação quanto ao número de participantes.  
+No âmbito da ação Educação 5.0 ocorrem iniciativas orientadas para o próprio contexto pandémico como por exemplo, o workshop “A importância de atividade plásticas e lúdicas em tempos de quarentena” realizado online.  
+Nas ações da Hora de Programar e da Hora de Experimentar, criou-se um canal no Youtube utilizado para disponibilizar a realização das atividades aos alunos, bem como a utilização da plataforma EDUFEIRA para o mesmo fim. Para além disso, foram fornecidas orientações das atividades para os alunos que por algum motivo não tinham acesso aos conteúdos.  
