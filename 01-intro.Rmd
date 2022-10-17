@@ -21,6 +21,7 @@ Olhando ao caso de estudo de Santa Maria da Feira, também a PI10.5 mobiliza um 
 Nos cofinanciamentos por via do POCH, as tendências são semelhantes no território do município de estudo (Santa Maria da Feira) e da respetiva NUTS III (AMP). Ao nível deste programa de financiamento, ganha maior destaque a PI 10.4, evidenciando a relevância da formação profissional no território.[^12]
 
 ![](C:\Users\julio\Downloads\figura8.jpg)  
+
 No âmbito do POR Norte, o cofinanciamento destinado a entidades de Santa Maria da Feira (4 378 284,80€) totaliza 3% do montante total da AMP (143 160 673,82€), enquanto no contexto do POCH esta proporção é de 4% (volume de 23 202 113,43€ mobilizado por Santa Maria da Feira no total da AMP que ascende a 619 559 890,53€).  
 Voltando ao contexto dos PIICIE, permita-se reiterar dois pontos: i) o seu peculiar modelo de governação, uma vez que estes são a única operação cofinanciada do OT 10 em que as comunidades intermunicipais podem ser entidades beneficiárias (tal como os municípios e, em excecionais casos, Agrupamentos de Escolas e até centros de formação), no âmbito dos Pactos para o Desenvolvimento e Coesão Territorial (PDCT); e ii) a clara aposta da região Norte nesta tipologia de operação cofinanciada.  
 HR – mapeamento do financiamento PIICIE – apenas para Região Norte ou todo o país?  
@@ -64,7 +65,7 @@ A análise aqui desenvolvida abrange os municípios da Região Norte e permite t
    **Quadrante Baixo-Baixo (Q3)**: municípios e vizinhos com valores baixos da taxa de retenção e desistência;
    **Quadrante Alto-Baixo (Q4)**: municípios com valores elevados e vizinhos com valores baixos da taxa de retenção e desistência;
 
-![](C:\Users\julio\Downloads\figura9.jpg) 
+![](C:\Users\julio\Downloads\figura9.jpg)  
 
    - Os mapas LISA traduzem espacialmente os resultados dos digramas de dispersão de Moran. As cores presentes, tanto no diagrama de dispersão de Moran como no mapa LISA, representam os quatro tipos de dependências relacionais entre vizinhos referidos anteriormente - vermelho: “High-High” (municípios e vizinhos com valores elevados da taxa de retenção e desistência); azul claro: “Low-High” (municípios com valores baixos e vizinhos com valores elevados da taxa de retenção e desistência); azul escuro: “Low-Low” (municípios e vizinhos com valores baixos da taxa de retenção e desistência); laranja: High-Low (municípios com valores elevados e vizinhos com valores baixos da taxa de retenção e desistência); cinza: municípios que não são significantes para a análise.  
    
