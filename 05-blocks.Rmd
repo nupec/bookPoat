@@ -42,14 +42,14 @@ XXI GOVERNO - REPÚBLICA PORTUGUESA. (2019, February). Modelo de Avaliação Ext
 
 **| - Operações aprovadas no QFP 2014-2020, enquadradas no OT10, executadas por entidades de Santa Maria da Feira **
 
-![](C:/Users/julio/Documents/bookPoat/_bookdown_files/_main_files/figuras/img15.jpg)
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img15.jpeg)
 
-![](C:/Users/julio/Documents/bookPoat/_bookdown_files/_main_files/figuras/img16.jpg)
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img16.jpeg)
 
 
 **|| -Taxas de cofinanciamento no quadro financeiro plurianual 2014-2020**
 
-![](C:\Users\julio\Documents\bookPoat\_bookdown_files\_main_files\figuras\img17.jpeg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img17.jpeg)  
 
 
 Elegibilidade das Regiões de nível NUTS 2	QFP 2014-2020
@@ -74,7 +74,7 @@ No que concerne não o número de operações, mas o volume de cofinanciamento a
 
 **||| – Indicadores específicos das ações**
 
-![](C:/Users/julio/Documents/bookPoat/_bookdown_files/_main_files/figuras/img18.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img18.jpeg)  
 
 **|||| –Outputs complementares produzidos ao longo do período de execução do projeto**
 

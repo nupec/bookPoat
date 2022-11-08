@@ -12,15 +12,15 @@ O domínio do Capital Humano (expressão que reflete o espírito da Estratégia 
 
 Olhando apenas aos POR, à data de 31 de março de 2022, **os PIICIE eram a tipologia de operações dominante, em número de operações, na prioridade 10.1 nas regiões Norte e Alentejo.** Por outro lado, no que às prioridades de investimento diz respeito, e também em número de operações nos POR, a PI 10.1 é a segunda mais dominante na região Norte e a primeira no Algarve. A PI 10.5, associada aos equipamentos educativos, e a única cofinanciada pelo Fundo Europeu de Desenvolvimento Regional (FEDER), acaba por ter maior destaque nas regiões do Continente (com a exceção já apontada do Algarve), por via dos problemas infraestruturais de várias instituições.
 
-![](C:\Users\julio\Downloads\figura6.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura6.jpg)  
 
 Olhando ao caso de estudo de Santa Maria da Feira, também a PI10.5 mobiliza um maior montante de fundo total aprovado, quando olhando apenas ao cofinanciamento enquadrado pelo POR Norte (Figura 1). Esta realidade feirense não se encontra totalmente alinhada com a tendência da AMP (não como entidade beneficiária, mas como unidade territorial), uma vez que, no que diz respeito ao financiamento enquadrado pelo POR Norte, a PI10.2 (orientada para o Ensino Superior) acaba por ser mais dominante do que a PI10.1 (Figura 3). Sublinhe-se, no entanto, que na AMP a PI10.1 apenas se circunscreve aos PIICIE, não havendo qualquer TEIP cofinanciado neste âmbito.
 
-![](C:\Users\julio\Downloads\figura7.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura7.jpg)  
 
 Nos cofinanciamentos por via do POCH, as tendências são semelhantes no território do município de estudo (Santa Maria da Feira) e da respetiva NUTS III (AMP). Ao nível deste programa de financiamento, ganha maior destaque a PI 10.4, evidenciando a relevância da formação profissional no território.[^12]
 
-![](C:\Users\julio\Downloads\figura8.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura8.jpg)  
 
 No âmbito do POR Norte, o cofinanciamento destinado a entidades de Santa Maria da Feira (4 378 284,80€) totaliza 3% do montante total da AMP (143 160 673,82€), enquanto no contexto do POCH esta proporção é de 4% (volume de 23 202 113,43€ mobilizado por Santa Maria da Feira no total da AMP que ascende a 619 559 890,53€).  
 Voltando ao contexto dos PIICIE, permita-se reiterar dois pontos: i) o seu peculiar modelo de governação, uma vez que estes são a única operação cofinanciada do OT 10 em que as comunidades intermunicipais podem ser entidades beneficiárias (tal como os municípios e, em excecionais casos, Agrupamentos de Escolas e até centros de formação), no âmbito dos Pactos para o Desenvolvimento e Coesão Territorial (PDCT); e ii) a clara aposta da região Norte nesta tipologia de operação cofinanciada.  
@@ -65,7 +65,7 @@ A análise aqui desenvolvida abrange os municípios da Região Norte e permite t
    **Quadrante Baixo-Baixo (Q3)**: municípios e vizinhos com valores baixos da taxa de retenção e desistência;
    **Quadrante Alto-Baixo (Q4)**: municípios com valores elevados e vizinhos com valores baixos da taxa de retenção e desistência;
 
-![](C:\Users\julio\Downloads\figura9.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura9.jpg)  
 
    - Os mapas LISA traduzem espacialmente os resultados dos digramas de dispersão de Moran. As cores presentes, tanto no diagrama de dispersão de Moran como no mapa LISA, representam os quatro tipos de dependências relacionais entre vizinhos referidos anteriormente - vermelho: “High-High” (municípios e vizinhos com valores elevados da taxa de retenção e desistência); azul claro: “Low-High” (municípios com valores baixos e vizinhos com valores elevados da taxa de retenção e desistência); azul escuro: “Low-Low” (municípios e vizinhos com valores baixos da taxa de retenção e desistência); laranja: High-Low (municípios com valores elevados e vizinhos com valores baixos da taxa de retenção e desistência); cinza: municípios que não são significantes para a análise.  
    
@@ -85,10 +85,10 @@ Na taxa de retenção e desistência do secundário, Matosinhos, Porto e Gondoma
 
 JM: Apesar de se encontrar a cinza, isto é, não é significante para a análise, uma vez que, como está acima referido para a TRD do 2ºCEB, 3º CEB e Secundário, grande parte dos municípios da AMP estão a vermelho, isto é, são municípios que têm valores elevados e os seus vizinhos também. Desta forma, pode deduzir que pelo menos para estes níveis de ensino, SMF apresenta valores elevados. 
 
-![](C:\Users\julio\Downloads\figura10.jpg)  
-![](C:\Users\julio\Downloads\figura11.jpg)  
-![](C:\Users\julio\Downloads\figura12.jpg)  
-![](C:\Users\julio\Downloads\figura13.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura10.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura11.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura12.jpg)  
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura13.jpg)  
 
 De forma a identificar possíveis fatores de influência relativamente à taxa de retenção e desistência de cada nível de ensino, adicionou-se à análise anteriormente mencionada um conjunto de variáveis. Assim, foi possível analisar a matriz de autocorrelação entre as taxas de retenção e desistência e as variáveis independentes/explicativas (FIGURA X).
 JM: Escolher qual a matriz que irá ficar!  

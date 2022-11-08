@@ -28,15 +28,11 @@ Para qualquer um dos indicadores, devem ser contratualizados resultados esperado
 PR1.4. Robustecimento do diálogo entre a estratégia educativa do território e o PIICIE a implementar
 Deve ser evitada a multiplicação de estratégias difusas, assegurando a convergência dos programas de combate ao insucesso com as estratégias escolares, municipais e intermunicipais implementadas que, por sua vez, deverão intimamente relacionadas com os desafios educativos territoriais. Apenas deste modo será possível investir numa política educativa robusta, integrada e de continuidade. 
 
-```{r, echo=FALSE, warning=FALSE}
-knitr::include_graphics("colocar path aquibookPoat/_bookdown_files/_main_files/img13.jpg")
-```
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img13.jpeg)
 
 Recomenda-se, assim, o preenchimento, em sede de candidatura, de uma grelha similar à seguinte, explicitando este desejado diálogo.
 
-```{r, echo=FALSE, warning=FALSE}
-knitr::include_graphics("colocar path aquibookPoat/_bookdown_files/_main_files/img14.jpg")
-```
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img14.jpeg)
 
 PR1.5. Garantia de condições de gestão e administração das entidades beneficiárias, de forma a aumentar a probabilidade de sucesso na implementação da operação
 O sucesso do plano de promoção do sucesso depende, em larga medida, dos Recursos Humanos mobilizados para a sua implementação e acompanhamento. Sendo estes planos tão dependentes da interação interinstitucional entre atores, é crucial que estes apostem nos momentos de contacto e difusão. Esta necessidade torna-se mais premente em planos dinamizados por CIM, onde a rede é mais extensa e de mais exigente articulação.  
@@ -114,15 +110,11 @@ Para qualquer um dos indicadores, devem ser contratualizados resultados esperado
 PR1.4. Robustecimento do diálogo entre a estratégia educativa do território e o PIICIE a implementar
 Deve ser evitada a multiplicação de estratégias difusas, assegurando a convergência dos programas de combate ao insucesso com as estratégias escolares, municipais e intermunicipais implementadas que, por sua vez, deverão intimamente relacionadas com os desafios educativos territoriais. Apenas deste modo será possível investir numa política educativa robusta, integrada e de continuidade. 
 
-```{r, echo=FALSE, warning=FALSE}
-knitr::include_graphics("colocar path aquibookPoat/_bookdown_files/_main_files/img13.jpg")
-```
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img13.jpeg)
 
 Recomenda-se, assim, o preenchimento, em sede de candidatura, de uma grelha similar à seguinte, explicitando este desejado diálogo.
 
-```{r, echo=FALSE, warning=FALSE}
-knitr::include_graphics("colocar path aquibookPoat/_bookdown_files/_main_files/img14.jpg")
-```
+![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img14.jpeg)
 
 PR1.5. Garantia de condições de gestão e administração das entidades beneficiárias, de forma a aumentar a probabilidade de sucesso na implementação da operação
 O sucesso do plano de promoção do sucesso depende, em larga medida, dos Recursos Humanos mobilizados para a sua implementação e acompanhamento. Sendo estes planos tão dependentes da interação interinstitucional entre atores, é crucial que estes apostem nos momentos de contacto e difusão. Esta necessidade torna-se mais premente em planos dinamizados por CIM, onde a rede é mais extensa e de mais exigente articulação.  
