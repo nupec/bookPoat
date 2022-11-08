@@ -40,3 +40,6 @@ diversidade-temática
 articulação-interinstitucional
 continuidade-extra-cofinanciamento
 visibilidade-e-apreciação-espontânea
+resumo
+resumo-abstract
+abstract

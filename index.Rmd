@@ -1,53 +1,69 @@
 --- 
-title: "Relatório POAT"
+title: "Monitorização dos PIICIE: uma proposta de avaliação para além da parametrização do sucesso"
 author: "Universidade de Aveiro"
-date: "`r Sys.Date()`"
+date: "15 de outubro de 2021 – 14 de outubro de 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  Este livro tem por finalidade detalhar a metodologia de pesquisa.
+  Financiado pelo Programa Operacional de Assistência Técnica (POAT) 2020, código do projeto POAT-01-6177-FEDER-000053 
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
+
+# Resumo (Abstract)
+
+## **Resumo**
+
+A breve existência dos Planos Integrados e Inovadores de Combate ao Insucesso Escolar (PIICIE), em parte coincidente com uma conturbada conjuntura, não deve comprometer os esforços de avaliação do seu processo e dos seus resultados. Pelo contrário, este afigura-se como o momento ideal para uma aferição tão rigorosa quanto possível da sua implementação, bem como dos seus desafios e lacunas.  
+Antes de mais, surge uma necessidade premente de contextualizar nacional, regional e localmente a problemática do insucesso escolar, principalmente através dos indicadores de resultado dos PIICIE (taxa de retenção e desistência e taxa de alunos com níveis negativos), enriquecidos pelo recente indicador de equidade.  
+Adotando uma lente micro, segue-se uma análise mais focada no caso de estudo demonstrador da metodologia: Santa Maria da Feira. Não só se caracterizam as ações compreendidas no respetivo PIICIE, recorrendo à informação disponível, como se olha para o desempenho do município nos indicadores de resultado e de realização contratualizados. Todo o processo de recolha de informação evidenciou as fragilidades e os desafios de uma rigorosa avaliação. Com uma ambiciosa proposta de indicadores colide a realidade da insuficiente estrutura de dados, pelo que o projeto acaba, em alguns pontos, por ser mais propositivo do que demonstrador.  
+Ainda assim, toda a informação que pôde ser recolhida e trabalhada surge, por fim, apresentada em painéis de informação que, idealmente, deveria constar nos canais de comunicação das entidades beneficiárias. Do projeto resulta, ainda, um conjunto final de policy recommendations que deverão ser consideradas nos planos de promoção do sucesso a implementar durante o quadro 2021-2027. 
+
+---
+
+## **Abstract**
+
+The so far short life of the Planos Integrados e Inovadores de Combate ao Insucesso Escolar (PIICIE), overlapping with a critical juncture, must not curb the evaluation of their implementation process and results. On the contrary, this is the ideal moment for an evaluation as thorough as possible of their implementation, their challenges and gaps.  
+Firstly, there is a pressing need to nationally, regionally and locally contextualize school failure problematics, especially regarding the PIICIE’s outcome indicators (failure and dropout rates, and low achievement rates), enhanced by the recent indicator of educational equity.  
+While embracing a micro lens, the following step is focused on the case study that intends to illustrate the methodology: the municipality of Santa Maria da Feira. The actions covered by the PIICIE are described and characterized by resorting to the available information. Besides, we take a look at the municipality’s performance regarding outcome and output indicators. The data collection process highlighted the weaknesses and challenges of a thorough evaluation. The reality of insufficient data collides with an ambitious proposal of indicators, so the project ends up, in some points, being more propositional than demonstrative.  
+Nonetheless, the data that could be collected is presented in dashboards that should be further used by the beneficiaries. The project also results in a range of policy recommendations to be considered within the plans for school success to be implemented during the 2021-2027 framework.
 
 # Introdução  
 
 ## Problematização 
 
-O combate ao abandono escolar precoce, e ao insucesso escolar mais genericamente compreendido, foi assumido como uma das principais prioridades educativas a considerar pelos governos portugueses durante o quadro financeiro plurianual 2014 – 2020. Portugal, aliás, apresentava preocupantes taxas de abandono escolar precoce, tendo posteriormente tenha trilhado uma evolução notável. O Programa Nacional de Promoção do Sucesso Escolar (PNPSE), criado em 2016, propõe várias ações de combate ao insucesso, quer cofinanciadas (como os PIICIE e os TEIP), quer não cofinanciadas (tais como os Planos de Ação Estratégica dos Agrupamentos). Tal como estabelece desde logo a Resolução do Conselho de Ministros n.º 23/2016, que oficializa o PNPSE, o programa assenta 
+O combate ao abandono escolar precoce, e ao insucesso escolar mais genericamente compreendido, foi assumido como uma das principais prioridades educativas a considerar pela União Europeia durante o quadro financeiro plurianual 2014 – 2020 (Nóvoa, 2013). Portugal, aliás, apresentava preocupantes taxas de abandono escolar precoce, tendo posteriormente trilhado uma evolução notável. O Programa Nacional de Promoção do Sucesso Escolar (PNPSE), criado em 2016, propõe várias ações de combate ao insucesso, quer cofinanciadas (como os PIICIE e os TEIP), quer não cofinanciadas (tais como os Planos de Ação Estratégica dos Agrupamentos). Tal como estabelece desde logo a Resolução do Conselho de Ministros n.º 23/2016, que oficializa o PNPSE, o programa assenta 
 
    >"no princípio de que são as comunidades educativas quem melhor conhece os seus contextos, as dificuldades e potencialidades, sendo, por isso, quem está melhor preparado para encontrar soluções locais e conceber planos de ação estratégica, pensados ao nível de cada escola, com o objetivo de melhorar as práticas educativas e as aprendizagens dos alunos"  
 
-Estes princípios têm já vindo a orientar a formulação de instrumentos de política educativa local, designadamente Cartas Educativas e Planos Estratégicos Educativos Municipais [LEGISLAÇÃO], cuja componente de monitorização tem também vindo a ser promovida. O exercício a que este trabalho se propõe surge, justamente, no seguimento do envolvimento de parte da equipa em tais projetos, junto de municípios portugueses. Tais projetos anteriores permitiram a construção de uma maior consciência sobre os desafios, frequentemente de grande dimensão, associados:
-
-   - À disponibilidade de fontes de dados e estatísticas abertas e atualizadas;
-   - À articulação interinstitucional entre diferentes entidades territoriais com atuação na política educativa;
-   - À promoção da avaliação e monitorização da política pública no geral e da política educativa em particular.
-  
-Não obstante tal conhecimento prévio, a proposta deste projeto, feita em sede de candidatura, contemplava um empreendimento mais ambicioso do que aquele que foi possível concretizar, muito por via das limitações associadas aos dados disponíveis. Assim, conquanto o relatório cumpre o propósito de apresentação de uma “proposta de avaliação para além da parametrização do sucesso”, não demonstra a monitorização, uma vez que o caso de estudo selecionado (o PIICIE de Santa Maria da Feira) teve o seu término a 31 de dezembro de 2021, pouco depois do início do presente projeto.   
-Focando a avaliação, este caso de estudo foi fulcral para identificar os desafios e as oportunidades que surgem ao longo do processo de avaliação de um programa cofinanciado de promoção do sucesso escolar.  
-Procurando propor medidas e caminhos atenuadores de duas grandes fragilidades identificadas nestes processos, os principais *outputs* do projeto são:
+Estes princípios têm já vindo a orientar a formulação de instrumentos de política educativa local, designadamente Cartas Educativas e Planos Estratégicos Educativos Municipais (Decreto-Lei n.o 7/2003, de 15 de janeiro; Decreto-Lei n.o 72/2015, de 11 de maio; Decreto-Lei n.o 21/2019, de 30 de janeiro), cuja componente de monitorização tem também vindo a ser promovida. O exercício a que este trabalho se propõe surge, justamente, na sequência do envolvimento de parte da equipa em tais projetos, junto de municípios portugueses, assim tendo já conhecimento prévio de alguns desafios.  
+Não obstante, a proposta deste projeto, feita em sede de candidatura, contemplava um empreendimento mais ambicioso do que aquele que foi possível concretizar, muito por via das limitações associadas aos dados disponíveis.  Assim, conquanto o relatório cumpre o propósito de apresentação de uma “proposta de avaliação para além da parametrização do sucesso”, não demonstra a monitorização, uma vez que o caso de estudo selecionado (o PIICIE de Santa Maria da Feira) teve o seu término a 31 de dezembro de 2021, pouco depois do início do presente projeto. Focando a avaliação, este caso de estudo foi fulcral para identificar os desafios e as oportunidades que surgem ao longo do processo de avaliação de um programa cofinanciado de promoção do sucesso escolar. Considera-se, no entanto, que a “avaliação para além da parametrização do sucesso” foi cumprida na medida do possível, uma vez que foram encetados vários esforços de detalhada caracterização, quer do território, quer das ações enquadradas pelo PIICIE municipal.  
+O trabalho foi enriquecido com metodologias de análise e tratamento estatístico que, ainda que não contempladas na memória descritiva da candidatura, constituem propostas de investigação quer sobre o insucesso escolar, quer sobre os cofinanciamentos na promoção do sucesso.  
+Por fim, procurando propor medidas e caminhos atenuadores de duas grandes fragilidades identificadas nestes processos, os principais *outputs* do projeto são:
 
    - A construção de painéis de informação que permitam apresentar, de forma tão interativa quanto possível, o desempenho educativo no território considerado e a caracterização das ações implementadas, assim procurando melhorar a transparência e divulgação dos PIICIE, numa lógica integrada face à realidade educativa;
    - A elaboração de *policy recommendations*, decorrentes de todo o processo subjacente a este projeto, e que permitam construir alguma aprendizagem que seja mobilizada para os futuros programas de promoção do sucesso escolar. 
 
-Ainda que, neste âmbito, a proposta para o Programa Demografia, Qualificações e Inclusão (atualmente em consulta pública), apenas mencione o Plano 21|23 Escola+ (Portugal 2030, 2022, p. 56), será recomendável a formulação de outras medidas no período de vigência do atual quadro comunitário. Enquadrados pelo POR Norte 2030, surgem já referências aos Planos Intermunicipais de Promoção do Sucesso Escolar – PIPSE (CCDR-Norte, 2022). 
+Ainda que, neste âmbito, a proposta para o Programa Demografia, Qualificações e Inclusão apenas mencione o Plano 21|23 Escola+ (Portugal 2030, 2022, p. 56), será recomendável a formulação de outras medidas no período de vigência do atual quadro comunitário, tais como os Planos Intermunicipais de Promoção do Sucesso Escolar (CCDR-Centro, 2022; CCDR-Norte, 2022).  
+Deve partir-se para a leitura do restante relatório com a consciência de que, não obstante a pretensão demonstradora, o projeto tem como maior força o seu caráter propositivo. Aliás, o reforço da componente propositiva surge como compensação face à impossibilidade (muito por via da indisponibilidade de dados e do impacto pandémico) de demonstração rigorosa da metodologia. Deste modo, considera-se que do projeto resultam, fundamentalmente, 4 principais áreas de proposta:
+
+<center>![](C:\Users\julio\Downloads\f2017e0e-c5d0-4088-b8a1-78d738a5e183.jpg)</center>
+
+<center>![FIGURA 1: Diálogo proposto entre Painéis de Informação, Indicadores de Avaliação e Recomendações na implementação de estratégias de monitorização do (in)sucesso escolar - FONTE: GETIN-UA](C:\Users\julio\Downloads\Imagem1.jpg)</center>
 
 ## Metodologia  
-  
-No âmbito dos PIICIE, cabe, então, aos Municípios e Comunidades Intermunicipais a formulação de estratégias locais e regionais, em articulação com as escolas, que melhor respondam às singularidades mais desafiantes de cada território. Por este motivo, não obstante a formulação supralocal de indicadores de resultado e de realização (por sua vez presentes nos editais de candidatura aos PIICIE), a aferição rigorosa do sucesso da implementação das ações PIICIE requer indicadores específicos. Arriscando a redundância na formulação, a especificidade destes indicadores decorre da necessidade de considerar, principalmente, os objetivos e o público-alvo de cada ação em particular. Por outro lado, seria desejável considerar a caracterização socioeducativa do território e, mais idealmente ainda, acompanhar longitudinalmente o impacto do PIICIE sobre o desempenho e oportunidades dos alunos. Todavia, a reduzida aposta na construção de uma robusta matriz de monitorização aquando do arranque da operação cofinanciada impede a operacionalização de um verdadeiro acompanhamento e estudo de impacto dos PIICIE, assim impondo constrangimentos à recolha de dados para os indicadores específicos.   
-Este projeto adota, ainda assim, uma metodologia que parte de indicadores mais genéricos (associados aos indicadores de resultado e realização dos Programas Operacionais) e propõe indicadores específicos para as ações. Os indicadores para os quais foi possível recolher informação são, posteriormente, apresentados por meio de *dashboards*. Estes painéis surgem como exemplificativos de uma estratégia de tratamento e apresentação de dados que permita situar o território (face a outras unidades territoriais) e caracterizá-lo, do ponto de vista da implementação deste projeto específico (o PIICIE). **Idealmente, a construção dos *dashboards* seria feita por meio da interoperabilidade de sistemas, assumindo que a informação a preencher pelas escolas (quer para a tutela, quer para a autoridade de gestão dos fundos comunitários) pode ser mobilizada, ao invés de multiplicada.**  
+
+Este projeto adota, ainda assim, uma metodologia que parte de indicadores mais genéricos (associados aos indicadores de resultado e realização dos Programas Operacionais) e propõe indicadores específicos para as ações. Procura privilegiar-se a territorialização e contextualização dos indicadores, ainda que partindo daqueles mais padronizados. A informação será apresentada através de painéis que surgem como exemplificativos de uma estratégia de tratamento e apresentação de dados que permita situar o território (face a outras unidades territoriais) e caracterizá-lo, do ponto de vista da implementação deste projeto específico (o PIICIE). **Idealmente, a construção dos *dashboards* seria feita por meio da interoperabilidade de sistemas, assumindo que a informação a preencher pelas escolas (quer para a tutela, quer para a autoridade de gestão dos fundos comunitários) pode ser mobilizada, ao invés de multiplicada.**  
 
 ### Construção dos *dashboards*
 
-HR – 1) descrição sucinta do roteiro metodológico na construção dos dashboards:
-Referência aos softwares usados, suas funções e limitações (R e Power BI)
-Rotinas operacionalizadas e explicitação das narrativas (gerais e específicos)
-Articulação com as fontes selecionadas e respetiva estruturação
-[definir formalmente o conceito de dashboard (ver artigos a respeito) e explicar a escolha da ferramenta escolhida]
+Para Wickhan e Grolemund (2019, p. 473), *dashboards* são uma maneira favorável de comunicar grandes quantidades de informação visualmente e rapidamente. Gartner (2020, p. 1) destaca que os dashboards agregam indicadores de desempenho (KPIs), tornando possível serem utilizados rapidamente por todos os utilizadores antes de uma eventual exploração adicional através de ferramentas de análise.  Os *dashboards* apresentam a informação combinando texto e opções gráficas num painel. Na maiorias das vezes, são as opções gráficas que acabam por se destacar, pois, comunicam a informação de forma mais inteligível. 
+Na etapa de tratamento e análise de dados, que precede a construção dos *dashboards*, utilizou-se o *software* estatístico R. Este *software* é uma linguagem e ambiente para computação estatística e representação visual da informação tratada, permitindo aplicar uma ampla variedade de métodos (e.g. modelação linear e não linear, testes estatísticos clássicos, análise de séries temporais, classificação, agrupamento). Para a construção dos dashboards utilizou-se a ferramenta *Microsoft Power BI*. Segundo a informação disponível no sítio da *Microsoft*, o *Power BI* é uma coleção de serviços de *software*, aplicações e conectores que funcionam em conjunto para transformar as origens de dados não relacionadas em informações coerentes, visualmente envolventes e interativas. O *Power BI* permite ligar-se facilmente às origens de dados, visualizar e descobrir o que é importante, bem como partilhar os seus conteúdos com qualquer pessoa.
+
+<center>![FIGURA 2: O ciclo da Ciência dos Dados - FONTE: Wickhan e Grolemund (2019)](C:\Users\julio\Downloads\Imagem2.jpg)</center>
 
 ### Diagnóstico do (in)sucesso escolar
 
@@ -62,7 +78,7 @@ O diagnóstico de tendências e padrões foi desenvolvido para os municípios da
    - Uma análise estatística inicial de ambos os indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE; e
    - Uma análise de **similaridades combinando os indicadores gerais de resultado com outros indicadores de caracterização socioeducativa relevantes na definição de *clusters* territoriais.** Numa primeira fase, os clusters apresentados resultam do reconhecimento de semelhanças entre os município da AMP, partindo da análise de 4 indicadores em valores absolutos entre 2014/15 e 2018/19 ou 2017/18 e 2018/19: i) alunos com níveis negativos a pelo menos uma disciplina, ii) alunos retidos, iii) alunos inscritos/alunos da amostra e iv) alunos com apoio da ação social escolar (ASE) [^1]. Numa segunda fase, as similaridades entre municípios são estabelecidas à escala da Região Norte de acordo com a análise de 3 indicadores em valores relativos para 2017/18 e 2018/19: i) taxas de retenção e desistência (País), ii) equidade [^2] e iii) quociente entre financiamento PIICIE [^3] e alunos inscritos por níveis de ensino.  
 
-![](C:\Users\julio\Downloads\quadro1.jpg)  
+<center>![](C:\Users\julio\Downloads\quadro1.jpg)</center>  
 
 [^1]: **Alunos c/ASE** - Os dados utilizados dizem apenas respeito ao nº absoluto de alunos com ASE considerado na amostra, de acordo com a informação disponibilizada no PORTAL INFOESCOLAS.
 [^2]: **Indicador de Equidade** - “Diferença entre a % de conclusão no tempo esperado na região e a média nacional comparável, em pontos percentuais.” A média nacional “é calculada com os alunos do país que, ao entrarem no 3.º ciclo, tinham um perfil semelhante ao dos alunos da região, em termos de apoios ASE, idade à entrada no ciclo, habilitação da mãe e categoria da escola frequentada relativamente à percentagem de alunos com apoio ASE. O objetivo é enquadrar os resultados dos alunos com apoio ASE na região com uma média nacional apropriada.”  
