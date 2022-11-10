@@ -1,4 +1,4 @@
-# Enquadramento e contexto do objeto de estudo
+# **Enquadramento e contexto do objeto de estudo**
 
 Aquando da candidatura do presente projeto, o objeto de estudo delimitado foi o PIICIE enquanto operação cofinanciada, mas não havia ainda sido selecionado(s) caso(s) de estudo. Foram vários os motivos que presidiram à definição dos PIICIE como objeto de estudo, vários deles reforçados pelas orientações e quadros estratégicos, entretanto emanados das instituições europeias e nacionais. Destacam-se os seguintes motivos:  
 
@@ -24,13 +24,13 @@ Por outro lado, há ações que têm uma abrangência de público declaradamente
 
 [^5]: Sublinhe-se, desde já, que a Hora de Experimentar foi alargada aos restantes Agrupamentos de Escolas, ainda que sem cofinanciamento europeu, sendo as despesas assumidas pela autarquia.
 
-# Diagnóstico do sucesso escolar no território de estudo 
+# **Diagnóstico do sucesso escolar no território de estudo** 
 
 Um dos principais objetivos da avaliação na educação passará por reunir evidências ou informação de apoio à decisão no desenvolvimento das próprias políticas educativas, com a expectativa de fornecer contributos valiosos aos agentes educativos no caminho da melhoria de processos e desempenhos e, consequentemente, elevar a qualidade do sistema de ensino.  
 
 As opções analíticas seguem pressupostos que têm sido amplamente debatidos ao nível da investigação científica e aplicada na territorialização de políticas públicas, nomeadamente as políticas de educação, pelo que se assume essencial ter um diagnóstico das principais tendências e padrões das dinâmicas em análise – o insucesso escolar (Marques et al., 2020; Santos et al., 2019; Ioannidou, 2010).  
   
-## Cofinanciamentos na promoção do sucesso
+## **Cofinanciamentos na promoção do sucesso**
 
 O domínio do Capital Humano (expressão que reflete o espírito da Estratégia de Lisboa, de 2020) foi operacionalizado pelas operações cofinanciadas enquadradas pelo Objetivo Temático (OT) 10 (Investir no ensino, nas competências e na aprendizagem ao longo da vida) do quadro financeiro plurianual 2014-2020, por sua vez desdobrado em cinco prioridades de investimento (PI). A prioridade 10.1  é aquela mais diretamente voltada para a promoção do sucesso escolar e da igualdade de oportunidades, no âmbito da qual se enquadram os PIICIE, candidatados através dos Programas Operacionais Regionais (POR), ao invés do Programa Operacional Capital Humano (POCH).  
 
@@ -65,7 +65,7 @@ O critério utilizado na criação dos mapas foi o dos quartis – Q1, Q2, Q3 e 
 
 <center>![FIGURA 9: Capítulo I – Caracterização do panorama educativo nacional: Painel do Mapeamento do cofinanciamento dos PIICIE, Portugal Continental e Região Norte, 2016-2020 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura37.jpg)</center>
 
-## Tendências e padrões
+## **Tendências e padrões**
 
 As evidências reunidas, dada a informação desagregada à qual foi possível aceder, partem de uma análise geral a nível nacional para depois se centrarem nas regiões de referência do município de estudo. Encontram-se estruturadas em dois pontos: 1) uma análise de similaridades entre municípios (*clusters* territoriais) cruzando os indicadores gerais de desempenho e indicadores de caracterização socioeducativa e 2) uma análise estatística dos indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE (TRD e TNN).  
 
@@ -109,7 +109,7 @@ Para além da análise ao nível da AMP, a ferramenta permite também monitoriza
 
 Apesar do comportamento semelhante, a análise exige olhares distintos para a TRD e para a TNN. Esta última tende a apresentar valores claramente superiores, uma vez que compreende os alunos que, com apenas uma negativa a uma disciplina, transitam de ano. A TRD inclui um grupo (infelizmente) mais seleto de alunos: aqueles que, somados os níveis negativos, não reuniam condições para a transição ou que desistem do ensino. Não obstante a tendência de diminuição, importa vigiar ambas as taxas, esperando-se que reflitam o impacto da conjuntura pandémica nas aprendizagens.  
 
-## Possíveis fatores de influência 
+## **Possíveis fatores de influência** 
 
 Tendo presentes algumas das mensagens decorrentes dos pontos anteriores, optou-se por desenvolver uma análise complementar com o intuito de contribuir para uma reflexão mais alargada a respeito dos eventuais fatores de influência sobre os indicadores gerais de desempenho, em particular, das TRD. Ainda que os resultados obtidos não permitam chegar a conclusões fechadas, contribuem para a teorização de aspetos que concorrem, de formas distintas, para os níveis de sucesso em diferentes níveis de ensino.  
 
@@ -119,50 +119,46 @@ A análise aqui desenvolvida abrange os municípios da Região Norte e permite t
    - O **Índice de Moran** é um indicador que permite aferir a semelhança geral entre regiões (neste caso, são considerados municípios). Quanto mais próximo de 1 for este índice, mais adequada será a utilização da matriz, devendo o seu nível de significância (p-sim) ser < 5%;
    - Os **diagramas de dispersão de Moran** partem do cálculo do índice de Moran e, num referencial de 4 quadrantes, permitem visualizar a desfasagem espacial da variável das TRD (eixo dos y) e o desvio-padrão dessa mesma variável (eixo dos x). As autocorrelações (associações espaciais) positivas-fortes implicam semelhanças entre municípios vizinhos, as negativas-fortes traduzem dissemelhanças e as autocorrelações fracas refletem ausência de associação espacial:  
    
-   **Quadrante Alto-Alto (Q1)**: municípios e vizinhos com valores elevados da TRD; 
-   **Quadrante Baixo-Alto (Q2)**: municípios com valores baixos e vizinhos com valores elevados da TRD;
-   **Quadrante Baixo-Baixo (Q3)**: municípios e vizinhos com valores baixos da TRD;
+   **Quadrante Alto-Alto (Q1)**: municípios e vizinhos com valores elevados da TRD;  
+   **Quadrante Baixo-Alto (Q2)**: municípios com valores baixos e vizinhos com valores elevados da TRD;  
+   **Quadrante Baixo-Baixo (Q3)**: municípios e vizinhos com valores baixos da TRD;  
    **Quadrante Alto-Baixo (Q4)**: municípios com valores elevados e vizinhos com valores baixos da TRD;  
    
 <center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura9.jpg)</center>
 
    - Os **mapas LISA** traduzem espacialmente os resultados dos digramas de dispersão de Moran. As cores presentes, tanto no diagrama de dispersão de Moran como no mapa LISA, representam os quatro tipos de dependências relacionais entre vizinhos referidos anteriormente: ***vermelho*** – *High-High* (municípios e vizinhos com valores elevados da TRD); ***azul claro*** – *Low-High* (municípios com valores baixos e vizinhos com valores elevados da TRD); ***azul escuro*** – *Low-Low* (municípios e vizinhos com valores baixos da TRD); ***laranja*** – *High-Low* (municípios com valores elevados e vizinhos com valores baixos da TRD); ***cinza*** – municípios que não são significantes para a análise.  
 
-Na figura seguinte estão representados os diagramas de dispersão de Moran e os mapas LISA obtidos com a matriz de Kernel para o 1ºCEB e com a matriz k-vizinhos mais próximos para os restantes níveis de ensino. Estas foram as matrizes de pesos que mais se destacaram, surgindo com um Índice de Moran mais expressivo. Ao analisar o índice de Moran das matrizes selecionadas, percebe-se que, na generalidade, as autocorrelações ao nível das TRD no 2ºCEB, 3ºCEB e Secundário são positivas fracas, enquanto no 1ºCEB a autocorrelação é negativa fraca, com a maioria dos pontos correspondentes aos municípios do Índice de Moran afastados de 1.
+Na figura seguinte estão representados os diagramas de dispersão de Moran e os mapas LISA obtidos com a **matriz de Kernel para o 1ºCEB** e com a **matriz k-vizinhos mais próximos para os restantes níveis de ensino**. Estas foram as matrizes de pesos que mais se destacaram, surgindo com um Índice de Moran mais expressivo. Ao analisar o índice de Moran das matrizes selecionadas, percebe-se que, na generalidade, as autocorrelações ao nível das TRD no 2ºCEB, 3ºCEB e Secundário são positivas fracas, enquanto no 1ºCEB a autocorrelação é negativa fraca, com a maioria dos pontos correspondentes aos municípios do Índice de Moran afastados de 1.   
+
 Através dos mapas LISA, que mostram a espacialização da TRD por nível de ensino, importa salientar as seguintes mensagens:  
 
-  - Ao nível do 1ºCEB, Tarouca surge com os valores mais elevados da variável dependente, ao contrário dos municípios vizinhos que apresentam valores baixos (laranja). O município aparenta assim não ser influenciado pelos vizinhos;
-  
-  - Quanto ao 2ºCEB, os municípios da Maia, Porto e Gondomar são os territórios que aparecem com os valores mais elevados da TRD, verificando-se uma influência mútua entre estes e os municípios vizinhos que apresentam também valores elevados (vermelho). Valpaços também se destaca, mas com um comportamento distinto ao nível da TRD, apresentando valores elevados enquanto os seus vizinhos apresentam valores baixos (laranja);
+  - Ao nível do 1ºCEB, Tarouca surge com os valores mais elevados da variável dependente, ao contrário dos municípios vizinhos que apresentam valores baixos (***laranja***). O município aparenta assim não ser influenciado pelos vizinhos;
+  - Quanto ao 2ºCEB, os municípios da Maia, Porto e Gondomar são os territórios que aparecem com os valores mais elevados da TRD, verificando-se uma influência mútua entre estes e os municípios vizinhos que apresentam também valores elevados (***vermelho***). Valpaços também se destaca, mas com um comportamento distinto ao nível da TRD, apresentando valores elevados enquanto os seus vizinhos apresentam valores baixos (***laranja***);
+  - No 3ºCEB verifica-se influência entre os municípios de Vila do Conde, Matosinhos, Maia, Porto e Gondomar e os seus vizinhos, pois todos apresentam valores elevando da TRD (***vermelho***). Já Bragança mostra um comportamento distinto dos vizinhos, o primeiro com valores baixos e os segundos com valores altos (***laranja***). Ponte da Barca e Vila Verde, assim como os seus vizinhos, surgem com valores baixos da TRD (***azul escuro***);
+  - No que respeita ao Secundário, Matosinhos, Porto e Gondomar apresentam valores elevados da TRD, tal como os municípios à sua volta, verificando-se uma clara influência (***vermelho***). Já Celorico de Basto surge com valores elevados da TRD, enquanto os vizinhos apresentam baixos (***laranja***). Miranda do Douro, pelo contrário, surge com valores baixos, ao passo que os vizinhos têm valores elevados (***azul claro***). Nestes dois municípios, deduz-se assim que não exista influência entre eles e os seus vizinhos.
 
+Ainda que o comportamento da TRD no município de SMF nos diferentes níveis de ensino não seja significante para a análise (***cinza***), como é o território de estudo do projeto, importa fazer referência ao seu posicionamento no conjunto. Pode depreender-se assim que, face aos municípios da Região Norte contemplados na análise sem exclusão, os valores da TRD se encontram dentro dos valores médios do grupo.  
 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura44.jpg)</center>
 
-Como é possível deduzir através do mapa LISA relativamente à Taxa de Retenção e Desistência do 1ºCEB, Tarouca é assinalada como um município que apresenta valores elevados desta variável, ao contrário dos municípios vizinhos que têm valores baixos. Neste caso, o município não aparenta ser influenciado pelos valores apresentados pelos vizinhos, uma vez que estes têm um comportamento oposto.  
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura45.jpg)</center>  
 
-Os municípios da Maia, do Porto e de Gondomar apresentam valores elevados de taxas de retenção e desistência do 2ºCEB, verificando-se uma influência evidente entre estes e os municípios vizinhos que apresentam igualmente valores elevados. Ainda relativamente a esta variável, Valpaços não é afetado pelos valores obtidos pelos vizinhos, sendo que este município apresenta valores elevados e os seus vizinhos não.  
+<center>![FIGURA 16: Diagramas de dispersão de Moran, mapas LISA e mapas de ajustamento da TRD por nível de ensino - FONTE: GETIN-UA – Outputs gerados no software Python](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura46.jpg)</center>  
 
-No 3ºCEB, verifica-se influência entre os municípios de Vila do Conde, Matosinhos, Maia, Porto e Gondomar e os seus vizinhos, pois todos apresentam valores elevando da taxa de retenção e desistência. Já Bragança tem um comportamento contrário aos seus vizinhos, obtendo valores baixos, enquanto os seus vizinhos têm valores altos. Os municípios de Ponte da Barca e Vila Verde, assim como os seus vizinhos, têm valores baixos da taxa de retenção e desistência do 3ºCEB.  
+Com o intuito de dar continuidade e robustecer a análise anterior, foram trabalhadas e integradas variáveis adicionais de caracterização educativa e socioeconómica, acreditando que a avaliação da existência de correlações entre elas pudesse contribuir para a identificação de possíveis fatores de influência da TRD nos diferentes níveis de ensino. A matriz de autocorrelação que se segue, entre TDR e variáveis assumidas como independentes/explicativas, pretende assim contribuir para este exercício.  
 
-Na taxa de retenção e desistência do secundário, Matosinhos, Porto e Gondomar são municípios que têm valores elevados, tal como os municípios à sua volta, verificando-se uma clara influência. O município de Celorico de Basto apresenta valores elevados, contrariamente aos valores da taxa de retenção e desistência apresentados pelos vizinhos. Miranda do Douro posiciona-se numa situação oposta a Celorico de Basto, pois apresenta valores baixos da taxa de retenção e desistência do secundário, enquanto os seus vizinhos têm valores elevados desta variável. Nestes dois municípios, é fácil de deduzir que não existe influência entre estes e os seus vizinhos.  
+<center>![FIGURA 17: Matriz de correlação entre as TRD e as variáveis explicativas - FONTE: GETIN-UA – Outputs gerados no software Python / Origem dos dados: DGEEC, Infoescolas, Pordata](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura47.jpg)</center>  
 
-   - Era interessante criar uma tabela para cada nível de ensino e listar os municípios por quadrante em função do tipo de autocorrelação. Para ser mais simples identificar.
+Por observação da matriz, é possível destacar algumas mensagens acerca da influência das variáveis independentes sobre as TRD, de entre as quais se destacam as seguintes:  
 
-   - O Município de SMF aparece sempre a cinza. Refletir a respeito.
+**1.**	Em todos os níveis de ensino, as TRD (TRD_1CEB, TRD_2CEB, TRD_3CEB, TRD_SEC) apresentam uma **correlação positiva** com a densidade populacional e o poder de compra per capita (***azul petróleo médio***); ***acredita-se que esta relação poderá ser explicada pelo facto de territórios mais densamente povoados tenderem a incorporar o efeito gerado por assimetrias territoriais***; 
 
-JM: Apesar de se encontrar a cinza, isto é, não é significante para a análise, uma vez que, como está acima referido para a TRD do 2ºCEB, 3º CEB e Secundário, grande parte dos municípios da AMP estão a vermelho, isto é, são municípios que têm valores elevados e os seus vizinhos também. Desta forma, pode deduzir que pelo menos para estes níveis de ensino, SMF apresenta valores elevados. 
+**2.**	A **correlação positiva forte** estabelecida entre as TRD de níveis intermédios e avançados (TRD_2CEB, TRD_3CEB, TRD_SEC) (***azul petróleo escuro***); ***as interdependências entre as TRD a partir do 2ºCEB sugerem alguma influência que poderá decorrer de fragilidades não ultrapassadas pelos alunos neste nível e comprometer a sequencialidade do percurso educativo e formativo no tempo esperado;***  
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura10.jpg)  
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura11.jpg)  
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura12.jpg)  
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura13.jpg)  
+**3.**	Entre as TRD dos ciclos do ensino básico (1º, 2º e 3º) e a % de estabelecimentos de ensino com 1ºCEB verifica-se, também, uma **correlação positiva** (***azul petróleo médio***); ***o que poderá indiciar que um maior número de escolas de pequena dimensão no primeiro nível de ensino nem sempre poderá desencadear melhores níveis de desempenho escolar na prossecução e conclusão do ensino básico;***  
 
-De forma a identificar possíveis fatores de influência relativamente à taxa de retenção e desistência de cada nível de ensino, adicionou-se à análise anteriormente mencionada um conjunto de variáveis. Assim, foi possível analisar a matriz de autocorrelação entre as taxas de retenção e desistência e as variáveis independentes/explicativas (FIGURA X).
-JM: Escolher qual a matriz que irá ficar!  
+**4.**	As TRD do 2ºCEB, 3ºCEB e Secundário estabelecem uma **correlação positiva** com a % de alunos com ASE que concluíram o 2ºCEB em 2 anos (***azul petróleo médio***), enquanto a sua combinação com a % de alunos com ASE que concluíram o 3ºCEB e o Secundário no tempo esperado traduzem uma **correlação negativa forte** (***vermelho escuro***); estes resultados exploratórios sugerem que o 2ºCEB poderá constituir um patamar de clivagem entre progressão vs retenção na escada de qualificações;  
 
-Inserir legenda  
-JM: talvez acrescentar uma legenda para identificar o significado das variáveis?  
+**5.**	Complementarmente, observa-se que a TRD do 2ºCEB, 3ºCEB e Secundário estabelece uma **correlação positiva** com a equidade no 2ºCEB (***azul petróleo médio***), ao passo que no 3ºCEB e Secundário essa **correlação é negativa forte** (***vermelho escuro***); ***por outras palavras, se maiores níveis de equidade acabam por ser determinantes no sucesso escolar dos alunos no 3ºCEB e Secundário, ao nível do 2ºCEB isso não se verifica, reforçando a mensagem do ponto anterior.***
 
-Facilmente, se retira algumas conclusões acerca de quais as variáveis que têm uma maior influência nas variáveis dependentes, as taxas de retenção e desistência. Todas as variáveis dependentes (TRD_1CEB, TRD_2CEB, TRD_3CEB, TRD_SEC) apresentam grande nível de correlação com a densidade e com o poder per capita. De salientar que também existe uma correlação evidente entre as taxas de retenção e desistência do 2ºCEB, 3ºCEB e secundário. Estas variáveis também apresentam maior correlação com percentagem de indivíduos que completou o ensino secundário e o ensino superior.  
-A variável da taxa de retenção do 1ºCEB, 2ºCEB e 3ºCEB têm uma correlação evidente com a percentagem de estabelecimentos de ensino ativos no 1ºCEB. Ainda é possível verificar que a taxa de retenção do 2ºCEB, 3ºCEB e secundário estabelecem uma correlação alta com a percentagem de alunos com ASE que concluíram o 2ºCEB nos 3 anos e com a equidade referente ao 2ºCEB.  
-
-
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura48.jpg)</center> 

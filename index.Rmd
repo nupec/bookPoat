@@ -14,7 +14,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Resumo (Abstract){-}
+# **Resumo (Abstract)**{-}
 
 **Resumo**
 
@@ -40,9 +40,9 @@ Nonetheless, the data that could be collected is presented in dashboards that sh
 
 ---
 
-# Introdução  
+# **Introdução**  
 
-## Problematização 
+## **Problematização** 
 
 O combate ao abandono escolar precoce, e ao insucesso escolar mais genericamente compreendido, foi assumido como uma das principais prioridades educativas a considerar pela União Europeia durante o quadro financeiro plurianual 2014 – 2020 (Nóvoa, 2013). Portugal, aliás, apresentava preocupantes taxas de abandono escolar precoce, tendo posteriormente trilhado uma evolução notável. O Programa Nacional de Promoção do Sucesso Escolar (PNPSE), criado em 2016, propõe várias ações de combate ao insucesso, quer cofinanciadas (como os PIICIE e os TEIP), quer não cofinanciadas (tais como os Planos de Ação Estratégica dos Agrupamentos). Tal como estabelece desde logo a Resolução do Conselho de Ministros n.º 23/2016, que oficializa o PNPSE, o programa assenta 
 
@@ -67,11 +67,11 @@ Deve partir-se para a leitura do restante relatório com a consciência de que, 
 
 <center>![FIGURA 1: Diálogo proposto entre Painéis de Informação, Indicadores de Avaliação e Recomendações na implementação de estratégias de monitorização do (in)sucesso escolar - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\Imagem1.jpg)</center>
 
-## Metodologia  
+## **Metodologia**  
 
 Este projeto adota, ainda assim, uma metodologia que parte de indicadores mais genéricos (associados aos indicadores de resultado e realização dos Programas Operacionais) e propõe indicadores específicos para as ações. Procura privilegiar-se a territorialização e contextualização dos indicadores, ainda que partindo daqueles mais padronizados. A informação será apresentada através de painéis que surgem como exemplificativos de uma estratégia de tratamento e apresentação de dados que permita situar o território (face a outras unidades territoriais) e caracterizá-lo, do ponto de vista da implementação deste projeto específico (o PIICIE). **Idealmente, a construção dos *dashboards* seria feita por meio da interoperabilidade de sistemas, assumindo que a informação a preencher pelas escolas (quer para a tutela, quer para a autoridade de gestão dos fundos comunitários) pode ser mobilizada, ao invés de multiplicada.**  
 
-### Construção dos *dashboards*
+### **Construção dos *dashboards* **
 
 Para Wickhan e Grolemund (2019, p. 473), *dashboards* são uma maneira favorável de comunicar grandes quantidades de informação visualmente e rapidamente. Gartner (2020, p. 1) destaca que os dashboards agregam indicadores de desempenho (KPIs), tornando possível serem utilizados rapidamente por todos os utilizadores antes de uma eventual exploração adicional através de ferramentas de análise.  Os *dashboards* apresentam a informação combinando texto e opções gráficas num painel. Na maiorias das vezes, são as opções gráficas que acabam por se destacar, pois, comunicam a informação de forma mais inteligível. 
 
@@ -81,7 +81,7 @@ Na etapa de tratamento e análise de dados, que precede a construção dos *dash
 
 A figura anterior apresenta as etapas dos processos de recolha, tratamento e análise de dados nacionais sobre o (in)sucesso escolar, numa perspetiva de utilização das ferramentas computacionais de maneira intercooperativa e multiplataforma. Grande parte dos dados disponibilizados para a análise estavam distribuídos em diversas plataformas eletrónicas, diferentes suportes de armazenamento de dados e estruturas de dados também elas distintas (fazer referência às mais importantes). Este formato não se mostrou ser o ideal para os objetivos do projeto, colocando desafios em diferentes etapas da sua concretização. Foi necessário um esforço adicional no tratamento de dados, de modo a transformá-los numa estrutura triangular, tanto para a construção de *dashboards*, quanto para a modelação matemática proposta.
 
-### Diagnóstico do (in)sucesso escolar
+### **Diagnóstico do (in)sucesso escolar**
 
 **Tendências e padrões no sucesso**  
 
@@ -148,7 +148,7 @@ Na matriz k-vizinhos define-se exatamente o número de vizinhos mais próximos d
 
 <center>![FIGURA 4: Princípios metodológicos subjacentes à análise de autocorrelação espacial - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura28.jpg)</center>
 
-### Momentos de contacto e disseminação do projeto
+### **Momentos de contacto e disseminação do projeto**
 
 A proximidade com a autarquia de Santa Maria da Feira revelou-se essencial para a execução do projeto. Por outro lado, reunir com frequência a equipa alargada do projeto foi também assumido como uma prioridade. A apresentação de peças do projeto em eventos científicos coincide, também, com momentos intercalares de divulgação dos resultados. Por último, a sessão pública de apresentação e disseminação do projeto, indicador central na candidatura, representa o culminar do projeto e dos momentos de contacto com os agentes. Seguindo a estrutura e terminologia propostas na Memória Descritiva da candidatura, apresentam-se os vários momentos correspondentes a indicadores da operação, explicitados no Anexo II.  
 
@@ -160,7 +160,7 @@ No evento final foi distribuído um inquérito de aferição de perceções e pr
 
 <center>![FIGURA 5: Estrutura adotada no evento final do Projeto de Monitorização dos PIICIE - peças ilustrativas - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura30.jpg)</center>
 
-### Acessos, consulta e divulgação  
+### **Acessos, consulta e divulgação**  
 
 Para uma maior perceção do processo de construção dos painéis informativos, serão disponibilizados os dados originais, os *scripts* em R, bem como os *dataframes* utilizados, quer na modelação, quer na construção dos *dashbords.* Pretende-se, assim, garantir um acesso mais completo ao ‘produto final’ do projeto e partilhar a forma como as várias etapas deste complexo processo foram concretizadas. Adicionalmente, foi elaborado um roteiro que acompanha o projeto, com instruções que visam melhorar a experiência dos utilizadores finais.  
 
@@ -168,7 +168,7 @@ Para aceder ao projeto final, é necessário que os utilizadores tenham instalad
 
 Importa ainda referir que o relatório final do projeto foi também desenvolvido em linguagem *Markdown*, acessível no endereço eletrónico https://nupec.github.io/bookPoat/, e que a análise estatística complementar dos indicadores das TNN e TRD se encontra disponível em https://rpubs.com/NUPEC/analisedescritivapoat.
 
-## Monitorização, avaliação e inspeção na política educativa  
+## **Monitorização, avaliação e inspeção na política educativa**  
 
 As práticas de avaliação no setor da Educação não Superior têm sido mais presentes no âmbito da inspeção de escolas. O referencial, em Portugal, é detalhado e adota um olhar sobre diversas dinâmicas das escolas. À semelhança de outros Estados europeus, também Portugal segue um modelo de inspeção que não olha apenas aos resultados escolares, mas procura avaliar dinâmicas de liderança, inovação e articulação (a vários níveis, desde a articulação curricular, à articulação com a comunidade). Procura-se que os indicadores sejam contextualizados, assim aumentando o seu rigor.  
 

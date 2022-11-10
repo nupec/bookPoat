@@ -1,153 +1,314 @@
-# O PIICIE de Santa Maria da Feira {#PIICIE}
+# **O PIICIE de Santa Maria da Feira**
 
-## Breve caracterização territorial e educativa do município  
+## **Breve caracterização territorial e educativa do município**  
 
-Ainda que Santa Maria da Feira tenha emergido como a unidade territorial em análise, o trabalho desenvolvido não se esgota na sua realidade, que deve ser entendida apenas como o ponto de partida. Não obstante, importa encetar uma breve caracterização, que permita conhecer o território em que se desenvolve o PIICIE em estudo.  
+O Município de Santa Maria da Feira é um território dinâmico e palco de diversidades que se traduzem na natureza plural dos seus territórios educativos. À semelhança de outros concelhos do país e das regiões onde se insere (AMP e Região Norte), enfrenta desafios i) que emergem de singularidades e assimetrias internas, ii) que decorrem do panorama de evolução que se perspetiva para o médio e longo prazo e iii) que se enquadram em reptos mais abrangentes ligados a orientações nacionais e transnacionais. Assim, a compreensão das opções estratégicas na promoção do sucesso escolar em Santa Maria da Feira não poderá ser dissociada das características socioeducativas e dos referenciais de partida recentes na quantificação e interpretação dos níveis de desempenho que apresenta.  
 
-O Município de Santa Maria da Feira é um território dinâmico e palco de diversidades que se traduzem na natureza plural dos seus territórios educativos. À semelhança de outros concelhos do país e das regiões onde se insere (AMP e Região Norte), enfrenta desafios i) que emergem de singularidades e assimetrias internas, i) que decorrem do panorama de evolução que se perspetiva para o médio e longo prazo e iii) que se enquadram em reptos mais abrangentes ligados a orientações nacionais e transnacionais. Assim, a compreensão das opções estratégicas na promoção do sucesso escolar em Santa Maria da Feira não poderá ser dissociada das características socioeducativas e dos referenciais de partida recentes na quantificação e interpretação dos níveis de desempenho que apresenta.  
+Com uma elevada dinâmica empresarial, associativa e cultural, bem como um forte histórico industrial, mais presente em algumas freguesias, o concelho de Santa Maria da Feira assinalou na última década uma evolução considerável dos níveis de qualificação da sua população residente (INE, 2021). As taxas de retenção, um dos principais indicadores abordados no estudo, pelo contrário, mostram uma diminuição e valores de referência abaixo dos da região e do país (DGEEC, 2022b). Ainda que estas sejam tendências transversais a vários territórios do país, importa sublinhar que a Educação tem sido assumida como área prioritária de intervenção no município de estudo, à qual tem sido dada crescente visibilidade. A candidatura realizada para elaboração do PIICIE municipal é disso exemplo, assim como o Projeto Educativo Municipal 2014’20 e mais recentemente o Plano Estratégico Educativo Municipal 2022-30, instrumentos que têm contribuído para a definição e afirmação das políticas educativas locais em articulação com outras áreas como a cultura, o desporto ou a economia.  
 
-Com uma elevada dinâmica empresarial, associativa e cultural, bem como um forte histórico industrial, mais presente em algumas freguesias, o concelho de Santa Maria da Feira assinalou na última década uma evolução considerável dos níveis de qualificação da sua população residente (INE, 2021). As taxas de retenção, um dos principais indicadores abordados no estudo, pelo contrário, mostram uma diminuição e valores de referência abaixo dos da região e do país (confirmar) (DGEEC, 2022b). Ainda que estas sejam tendências transversais a vários territórios do país, importa sublinhar que a Educação tem sido assumida como área prioritária de intervenção no município de estudo, à qual tem sido dada crescente visibilidade. A candidatura realizada para elaboração do PIICIE municipal é disso exemplo, assim como o Projeto Educativo Municipal 2014’20 e mais recentemente o Plano Estratégico Educativo Municipal 2022-30, instrumentos que têm contribuído para a definição e afirmação das políticas educativas locais em articulação com outras áreas como a cultura, o desporto ou a economia.  
+A necessidade de acompanhar as respetivas dinâmicas e políticas educativas municipais tem conduzido, igualmente, a um investimento em medidas de monitorização, visando um olhar integrado sobre a implementação, o acompanhamento e a avaliação de projetos e iniciativas em matéria de educação, promovidas pelo município, mas também por outros agentes territoriais. Muitas destas iniciativas terão como objetivo específico promover o sucesso escolar, enquanto noutras o propósito será mais alargado e direcionado a outros domínios da área educativa, mas nem por isso menos relevantes na elevação e consolidação dos padrões de qualidade do sistema de ensino à escala local. 
+A riqueza e multiplicidades que povoam o concelho justificam a diversidade encontrada ao nível da rede educativa, da qual fazem parte, atualmente, 124 instituições desde a educação pré-escolar ao ensino superior (Marques et al., n.d.). **A oferta pública conta com 85 estabelecimentos escolares distribuídos por 9 Agrupamentos de Escolas (AE)**. A escola de proximidade, isto é, aquela que corresponde aos primeiros níveis de educação e ensino (educação pré-escolar e 1º ciclo do ensino básico), é garantida nas 21 freguesias. E, naturalmente, que territórios centrais do concelho que têm registado, inclusive, um crescimento populacional coincidem com as áreas de influência dos agrupamentos de escolas com mais alunos inscritos, AE de Santa Maria da Feira e AE de Fernando Pessoa. Simultaneamente, várias instituições integram e contribuem para a qualificação da rede de ofertas educativas e formativas do concelho, como as instituições da rede solidária com educação pré-escolar, os centros de formação profissional públicos, as instituições privadas independentes do estado, as instituições de ensino artístico especializado, as instituições que salvaguardam a valência de creche e a instituição com oferta de ensino superior.  
 
-A necessidade de acompanhar as respetivas dinâmicas e políticas educativas municipais tem conduzido, igualmente, a um investimento em medidas de monitorização, visando um olhar integrado sobre a implementação, o acompanhamento e a avaliação de projetos e iniciativas em matéria de educação, promovidas pelo município, mas também por outros agentes territoriais. Muitas destas iniciativas terão como objetivo específico promover o sucesso escolar, enquanto noutras o propósito será mais alargado   e direcionado a outros domínios da área educativa, mas nem por isso menos relevantes na elevação e consolidação dos padrões de qualidade do sistema de ensino à escala local.  
+<center>![FIGURA 18: Esquematização da Rede Educativa Agrupada do Município de Santa Maria da Feira - FONTE: GETIN-UA – PEEM 2022-2030](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura14.jpg)</center>  
 
-A riqueza e multiplicidades que povoam o concelho justificam a diversidade encontrada ao nível da rede educativa, da qual fazem parte, atualmente, 124 instituições desde a educação pré-escolar ao ensino superior (Marques et al., n.d.). A oferta pública conta com 85 estabelecimentos escolares distribuídos por 9 Agrupamentos de Escolas (AE). A escola de proximidade, isto é, aquela que corresponde aos primeiros níveis de educação e ensino (educação pré-escolar e 1º ciclo do ensino básico), é garantida nas 21 freguesias. E, naturalmente, que territórios centrais do concelho que têm registado, inclusive, um crescimento populacional coincidem com as áreas de influência dos agrupamentos de escolas com mais alunos inscritos, AE de Santa Maria da Feira e AE de Fernando Pessoa. Simultaneamente, várias instituições integram e contribuem para a qualificação da rede de ofertas educativas e formativas do concelho, como as instituições da rede solidária com educação pré-escolar, os centros de formação profissional públicos, as instituições privadas independentes do estado, as instituições de ensino artístico especializado, as instituições que salvaguardam a valência de creche e a instituição com oferta de ensino superior.  
+## **Apresentação e descrição do PIICIE**
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura14.jpg)  
+O PIICIE de Santa Maria da Feira integra seis ações que iniciaram a 12 de outubro de 2018 e terminaram a 31 de dezembro 2021. A **Ação 1 - Equipa Multidisciplinar** centra-se, essencialmente, na prevenção e na intervenção em casos de alunos que demonstram dificuldades em aprender e com risco de abandono escolar. A **Ação 2 - Vive as Férias** promove a aquisição de diversas competências ao nível individual e social, através de atividades lúdicas e criativas. A **Ação 3 - Observatório de Monitorização e Apoio ao Sucesso Escolar** foi criada com o objetivo de todos os munícipes conseguirem acompanhar de forma rigorosa as políticas educativas implementadas em Santa Maria da Feira. Já a **Ação 4 - Educação 5.0** foca-se no desenvolvimento de valores importantes para que as crianças, professores e pais tenham capacidades de exercerem um papel ativo na comunidade. Para além disso, esta ação pressupõe a criação de um ambiente tecnológico de modo a favorecer a partilha de informação e o trabalho colaborativo. A **Ação 5 - Hora de Programar** tem como princípios a inovação e a criatividade e é através destes princípios que pretende consolidar aprendizagens na área das ciências, matemática e leitura. Na **Ação 6 - Hora de Experimentar** são abordados fenómenos da natureza com o auxílio da ciência. Assim, os alunos têm oportunidade de fazer experiências e, simultaneamente, aprender sobre ações do quotidiano.  
 
-## Apresentação e descrição do PIICIE  
+Analisando a natureza e o espírito das ações de uma perspetiva global, destacam-se princípios como a cooperação e a colaboração, remetendo para o principal objetivo da criação do PIICIE, isto é, **o foco no trabalho em rede para o desenvolvimento do município e para a capacitação da comunidade**.  
 
-O PIICIE de Santa Maria da Feira denomina-se ‘EDUFEIR@ - Inovamos para o Sucesso’ e integra seis ações que iniciaram a 12 de outubro de 2018 e terminaram a 31 de dezembro 2021. Como a Tabela X ilustra, as diferentes ações responderam a distintos desafios, decorrendo em períodos nem sempre coincidentes.  
+No total, participaram cerca de 18.657 alunos nas ações do PIICIE[^9]. A ação Educação 5.0 destaca-se com o maior número de participantes pelo facto de integrar tanto os participantes das Olimpíadas da Cidadania e do Património, nos anos de 2019/20 e 2020/21, como também todos os alunos envolvidos na atribuição de tablets às escolas no início de 2018.  
 
-A **Ação 1 - Equipa Multidisciplinar** centra-se, essencialmente, na prevenção e na intervenção em casos de alunos que demonstram dificuldades em aprender e com risco de abandono escolar. **A Ação 2 - Vive as Férias** promove a aquisição de diversas competências ao nível individual e social, através de atividades lúdicas e criativas. A **Ação 3 - Observatório de Monitorização e Apoio ao Sucesso Escolar** foi criada com o objetivo de todos os munícipes conseguirem acompanhar de forma fácil e rigorosa as políticas educativas implementadas em Santa Maria da Feira. Já a **Ação 4 - Educação 5.0** foca-se no desenvolvimento de valores importantes para que as crianças, professores e pais tenham capacidades de exercerem um papel ativo na comunidade. Para além disso, esta ação pressupõe a criação de um ambiente tecnológico de modo a favorecer a partilha de informação e o trabalho colaborativo. A **Ação 5 - Hora de Programar** tem como princípios a inovação e a criatividade e é através destes princípios que pretende consolidar aprendizagens na área das ciências, matemática e leitura. Na **Ação 6 - Hora de Experimentar** são abordados fenómenos da natureza com o auxílio da ciência. Assim, os alunos têm oportunidade fazer experiências e, simultaneamente, aprender sobre ações do quotidiano.  
+Três das principais mais-valias do PIICIE de Santa Maria da Feira passam pela diversidade dos domínios das ações, pela promoção da articulação interinstitucional e pela iniciativa municipal em dar continuidade temporal e estender o PIICIE a outros públicos para lá do cofinanciamento, assumindo a despesa. Aparenta, ainda, haver uma razoável visibilidade deste plano e entendimento em torno do seu valor.  
 
-Analisando a natureza e o espírito das ações de uma perspetiva global, destacam-se princípios como a cooperação e a colaboração, remetendo para o principal objetivo da criação do PIICIE, isto é, o foco no trabalho em rede para o desenvolvimento do município e para a capacitação da comunidade.  
+[^9]: Excetuam-se os participantes que poderiam estar associados à Ação 3, cuja contabilização não foi reunida.  
 
-No total, participaram cerca de 18657 alunos nas ações do PIICIE (Figura 6).[^14] A ação Educação 5.0 destaca-se com o maior número de participantes pelo facto de integrar tanto os participantes das Olimpíadas da Cidadania e do Património, nos anos de 2019/20 e 2020/21, como também todos os alunos envolvidos na atribuição de tablets às escolas no início de 2018. N.º total de alunos não coincide com dados relatório Cláudia. Verificar. 
-Três das principais mais-valias do PIICIE de Santa Maria da Feira passam pela diversidade temática dos domínios das ações, pela promoção da articulação interinstitucional e pela iniciativa municipal em dar continuidade temporal e estender o PIICIE a outros públicos para lá do cofinanciamento, assumindo a despesa. Aparenta, ainda, haver uma razoável visibilidade deste plano e entendimento em torno do seu valor. 
+<center>**Diversidade temática**</center>  
 
-[^14]: Excetuam-se os participantes que poderiam estar associados à Ação 3, cuja contabilização não foi reunida.  
+O desenho e implementação deste PIICIE assente em várias áreas temáticas traduz diferentes mensagens relevantes e que podem inspirar outros programas:  
 
-### **Diversidade temática**  
+1.	Entende-se que o combate ao insucesso escolar se faz por meio de diferentes tipologias de ação e que apenas uma abordagem simultaneamente multifacetada e integrada poderá ser bem-sucedida;  
 
-O desenho e implementação deste PIICIE assente em várias áreas temáticas traduz diferentes mensagens relevantes e que podem inspirar outros programas:
-   - 1)	Entende-se que o combate ao insucesso escolar se faz por meio de diferentes tipologias de ação e que apenas uma abordagem simultaneamente multifacetada e integrada poderá ser bem-sucedida;
-   - 2)	Ainda que alinhada com o discurso educativo da UE voltado para a sociedade baseada no conhecimento e para a competitividade (Nóvoa, 2013), a estratégia feirense aparenta ultrapassar esta visão estritamente económica e limitada da Educação. Confere, assim, atenção a matérias de inclusão, coesão e de trabalho junto da e para a comunidade. 
-   - 3)	A aposta estratégica em áreas STEM como centrais no sucesso escolar e pessoal dos indivíduos (ilustrada através das ações Hora de Experimentar e Hora de Programar).  
-Ainda que haja uma ligação entre o PIICIE e a estratégia local para a Educação, ficam de fora da espinha dorsal do projeto algumas áreas estratégicas de Santa Maria da Feira, como as Artes ou o Desporto, ainda que se entenda que estas são centrais para o sucesso escolar (REF PEEM). No entanto, esta opção limita as redundâncias e permite à política cofinanciada cumprir o seu valor acrescentado (Mairate, 2007). 
+2.	Ainda que alinhada com o discurso educativo da UE voltado para a sociedade baseada no conhecimento e para a competitividade (Nóvoa, 2013), a estratégia feirense aparenta ultrapassar esta visão estritamente económica e limitada da Educação, promovendo a inclusão, coesão e trabalho junto da/para a comunidade;  
 
-### **Articulação interinstitucional**
+3.	A aposta estratégica em áreas STEM como centrais no sucesso escolar e pessoal dos indivíduos (ilustrada através das ações Hora de Experimentar e Hora de Programar).
+Ainda que haja uma ligação entre o PIICIE e a estratégia local para a Educação, ficam de fora da espinha dorsal do projeto algumas áreas estratégicas de Santa Maria da Feira, como as Artes ou o Desporto, ainda que se entenda que estas são centrais para o sucesso escolar (**REF PEEM**). No entanto, esta opção limita as redundâncias e permite à política cofinanciada cumprir o seu valor acrescentado (Mairate, 2007).  
 
-As ações refletem o espírito de inclusão e articulação com diversos agentes que são essenciais para a concretização das metas definidas. Foram várias as entidades parceiras que apoiaram a realização das ações, destacando-se a ação 1 - Equipa Multidisciplinar que requereu um maior número de parcerias (cerca de 18) uma vez que as sessões do projeto Desafia-TE foram realizadas com diversos agentes de diferentes áreas (Figura 5). Estes agentes atuam no território e com a comunidade, assim conhecendo as suas especificidades e podendo encetar uma ação direcionada. 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura49.jpg)</center>  
 
-### **Continuidade extra-cofinanciamento**
+<center>**Articulação interinstitucional**</center>
 
-Apesar de ter sido definido que todas as ações do PIICIE de Santa Maria da Feira terminariam a 31 de dezembro de 2021, como já mencionado anteriormente, algumas ações, pelo seu grande impacto e sucesso, tiveram continuidade para o ano letivo seguinte (Ação 1 – Equipa Multidisciplinar). Outras foram alargadas a escolas e/ou públicos não contemplados inicialmente, pelo que os custos financeiros desta extensão das atividades e projetos ficaram a custo do Município. É disto exemplo a Ação 6 – Hora de Experimentar, alargada a outras escolas, ou a Ação 4 – Educação 5.0, uma vez que o uso da plataforma digital foi alargado à Educação Pré-Escolar.  
+As ações refletem o espírito de articulação com diversos agentes, essenciais para a concretização das metas. Foram várias as entidades parceiras que apoiaram a realização das ações, destacando-se a ação 1 - Equipa Multidisciplinar que requereu um maior número de parcerias (18), uma vez que as sessões do projeto Desafia-TE foram realizadas com diversos agentes de diferentes áreas. Estes agentes atuam no território e com a comunidade, assim conhecendo as suas especificidades e podendo encetar uma ação direcionada.   
 
+<center>**Continuidade extra-cofinanciamento**</center>
 
-### **Visibilidade e apreciação espontânea**
+Apesar de ter sido definido que todas as ações do PIICIE de Santa Maria da Feira terminariam a 31 de dezembro de 2021, algumas ações, pelo seu impacto e sucesso, tiveram continuidade no ano letivo seguinte (Ação 1 – Equipa Multidisciplinar). Outras foram alargadas a escolas e/ou públicos não contemplados inicialmente, pelo que os custos financeiros da extensão destas atividades e projetos ficaram a cargo do Município. É o caso da Ação 6 – Hora de Experimentar, alargada a outras escolas, ou a Ação 4 – Educação 5.0, uma vez que o uso da plataforma digital foi alargado à Educação Pré-Escolar.    
 
-Assim, com o término do plano ‘EDUFEIR@ - Inovamos para o Sucesso’, foi possível aferir a satisfação das entidades envolvidas em todas ações, bem como obter alguns contributos retirados de um inquérito realizado aos agentes educativos no âmbito do PEEM 2022-2030.
-No inquérito direcionado para os agentes educativos, foram mencionados o projeto Desafia-te, os programas Vives e a plataforma Edufeira como iniciativas que contribuíram para melhorar a educação no município e no futuro. Deste modo, sendo estes os projetos mais referidos, é percetível o impacto positivo e diferenciador dos mesmos na comunidade educativa.  
+<center>**Visibilidade e apreciação espontânea**</center>
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura15.jpg) 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura16.jpg) 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura17.jpg) 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura18.jpg) 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura19.jpg) 
+O relatório final do plano ‘EDUFEIR@ - Inovamos para o Sucesso’, elaborado pela entidade beneficiária, entende que as evidências recolhidas, medidas através de inquéritos e de contributos qualitativos, permitem inferir um grau de satisfação superior a 90% (a meta estabelecida em sede de candidatura). Paralelamente a este projeto financiado pelo POAT, parte da equipa está envolvida na construção do Plano Estratégico Educativo Municipal (PEEM) 2022-2030 de Santa Maria da Feira, no âmbito do qual difundiu um inquérito de avaliação do anterior Projeto Educativo Municipal (PEM) 2014’20. Com elevada adesão (898 respostas válidas), vários respondentes mencionaram, em questões de resposta aberta, o PIICIE, nomeadamente quando inquiridos sobre “programas, instrumentos e orientações internacionais, nacionais e regionais que tenham contribuído para melhorar a educação no concelho de SMF”[^10]. Destacam-se, nessas respostas, a plataforma Edufeira, seguida dos programas Vives e do Desafia-TE.  
 
+[^10]: Fonte: Questões II.1. e II.1.1. do Inquérito de Satisfação face ao PEM 2014’20.
 
 ### **Ação 1 - Equipa Multidisciplinar**
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura20.jpg) 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura20.jpg)</center>  
 
-Foram desenvolvidos dois projetos: Sessões de acompanhamento de alunos com medidas adicionais  na EB Corga de Lobão e o Desafia-te.  O primeiro projeto consiste em sessões quinzenais de orientação e suporte destes alunos, envolvendo atividades realizadas tanto em contexto escolar como no exterior. Tendo por base esta definição, realizaram-se atividades na área do desporto, da saúde e da cultura, como por exemplo a construção de um peddy-paper em colaboração com os professores e as visitas ao Zoo de Lourosa e ao Castelo de Santa Maria da Feira.
-O Projeto Desafia-te conta com a colaboração dos agrupamentos de escolas do município e com diversos parceiros locais para a realização de sessões em locais diferentes todas as semanas. O processo de seleção para o Desafia-te inclui sessões de divulgação em cada sede de agrupamento, seguidas de inscrições e entrevistas individuais, sendo que todos os anos o grupo de aluno selecionados é alterado. Assim, este projeto pretende proporcionar experiências diferentes de cariz desportivo, cultural, cívico, entre outras, aos selecionados de forma a transmitir uma visão comunitária e inclusiva. 
+Foram desenvolvidos dois projetos: Sessões de acompanhamento de alunos com medidas adicionais[^11]  na EB Corga de Lobão e o Desafia-TE.  O primeiro projeto compreendia sessões quinzenais de orientação e suporte destes alunos, envolvendo atividades realizadas tanto em contexto escolar como no exterior. Realizaram-se atividades na área do desporto, da saúde e da cultura.  
+
+O Projeto Desafia-TE conta com a colaboração dos agrupamentos de escolas do município e diversos parceiros locais para a realização de sessões em locais diferentes todas as semanas. O processo de seleção para o Desafia-TE inclui sessões de divulgação em cada sede de agrupamento, seguidas de inscrições e entrevistas individuais, sendo que todos os anos o grupo de alunos selecionados é alterado. Assim, este projeto pretende proporcionar experiências diferentes de cariz desportivo, cultural, cívico, entre outras, aos selecionados de forma a transmitir uma visão comunitária e inclusiva.  
+
+[^11]: O artigo 10º do Decreto-Lei 54/2018 define que as medidas adicionais “visam colmatar dificuldades acentuadas e persistentes ao nível da comunicação, interação, cognição ou aprendizagem que exigem recursos especializados de apoio à aprendizagem e à inclusão” (Presidência do Conselho de Ministros, 2018).
 
 ### **Ação 2 – Vive as Férias**
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura21.jpg) 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura21.jpg)</center> 
 
-Os programas VIVES ocorrem nos três períodos de férias letivas (na Páscoa, Verão e Natal) e têm duração de uma semana para cada grupo de alunos inscritos. Durante esta semana são realizadas atividades, principalmente nas áreas desportiva e cultural, que promovem a criatividade e a inovação, bem como o foco no desenvolvimento de competências individuais e de convivência. As planificações das atividades têm em consideração as idades e as particularidades de cada grupo de alunos. 
+Os programas VIVES ocorrem nos três períodos de férias letivas (na Páscoa, Verão e Natal) e têm duração de uma semana para cada grupo de alunos inscritos. Durante esta semana são realizadas atividades, principalmente nas áreas desportiva e cultural, que promovem a criatividade e a inovação, bem como o foco no desenvolvimento de competências individuais e de convivência. As planificações das atividades têm em consideração as idades e as particularidades de cada grupo de alunos.   
 
 ### **Ação 3 – Observatório de monitorização e apoio ao sucesso escolar**
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura22.jpg) 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura22.jpg)</center> 
 
-O Observatório de Monitorização e Apoio ao Sucesso Escolar tinha como pretensões o acompanhamento das políticas educativas implementadas, a monitorização dos indicadores de níveis de sucesso e a sua correlação com os dados socioeconómicos da população. A construção e atualização permanente desta ferramenta serviriam tanto os decisores políticos no âmbito do planeamento municipal da educação, como a comunidade educativa e qualquer cidadão que aceda aos painéis públicos da plataforma. Uma adicional mais-valia do Observatório residiria na integração na integração do sistema de informação de apoio ao sistema educativo, assim cruzando indicadores. Em última análise, este projeto permitiria o reforço da tomada de decisão com base em evidências, assim como uma maior transparência e accountability.
+O Observatório de Monitorização e Apoio ao Sucesso Escolar tinha como pretensões o acompanhamento das políticas educativas, a monitorização dos indicadores de níveis de sucesso e a sua correlação com dados socioeconómicos. A construção e atualização permanente desta ferramenta serviriam tanto os decisores políticos no planeamento municipal da educação, como a comunidade educativa e qualquer cidadão que aceda aos painéis públicos da plataforma. Uma adicional mais-valia do Observatório residiria na integração do sistema de informação de apoio ao sistema educativo, assim cruzando indicadores. Este projeto permitiria o reforço da tomada de decisão com base em evidências, assim como uma maior transparência e *accountability*.  
 
 
-### **Ação 4 – Educação 5.0 **
+### **Ação 4 – Educação 5.0**
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura23.jpg) 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura23.jpg)</center> 
 
-Esta ação desenvolveu três projetos: a plataforma digital, aquisição de tablets e ações de capacitação. A plataforma Edufeira destina-se aos alunos do 1º CEB, professores e encarregados de educação e surge como um elemento facilitador de aprendizagem e de partilha de conhecimento, de forma a promover o trabalho colaborativo. Os conteúdos partilhados abrangem temáticas acerca do património de Santa Maria da Feira, da cidadania, apoio ao estudo e atividades/desafios para fazer em família. Além destes conteúdos, nos anos letivos 2019/20 e 2020/21, realizou-se o concurso “Olimpíadas do Património” para alunos de 3º e 4º ano, onde cada aluno teve a oportunidade de participar individualmente, sendo apurada a melhor turma. Da 1ª fase resultaram nove turmas vencedoras, uma por cada agrupamento de escolas. Na fase final, as turmas apuradas competiram entre si e escolheu-se a vencedora consoante a pontuação adquirida.
+Esta ação desenvolveu três projetos: a plataforma digital Edufeira, aquisição de tablets e ações de capacitação. A plataforma Edufeira destina-se aos alunos do 1º CEB, professores e encarregados de educação e surge como um elemento facilitador de aprendizagem e de partilha de conhecimento, de forma a promover o trabalho colaborativo. Os conteúdos partilhados abrangem temáticas acerca do património de Santa Maria da Feira, cidadania, apoio ao estudo e atividades/desafios para fazer em família. Nos anos letivos 2019/20 e 2020/21, realizou-se o concurso “Olimpíadas do Património” para alunos de 3º e 4º ano, onde cada aluno participou individualmente, sendo apurada a melhor turma. Da 1ª fase resultaram nove turmas vencedoras, uma por cada agrupamento de escolas. Na fase final, as turmas apuradas competiram entre si e escolheu-se a vencedora consoante a pontuação adquirida.  
 
-Associado a este projeto, o município adquiriu cerca de 1200 tablets para equipar as 55 escolas de 1º ciclo, de modo a contribuir para a utilização da plataforma em contexto de sala de aula. As ações de capacitação têm como objetivo divulgar e informar os participantes acerca de práticas educativas promotoras de mudança. Alguns exemplos de ações de capacitação desenvolvidas no âmbito da ação Educação 5.0 são a Oficina de Oficina de Formação Professores e as Jornadas da Educação.
+Associado a este projeto, o município adquiriu cerca de 1200 tablets para equipar as 55 escolas de 1º ciclo, contribuindo para a utilização da plataforma em contexto de sala de aula. As ações de capacitação têm como objetivo divulgar e informar os participantes acerca de práticas educativas promotoras de mudança. Alguns exemplos de ações de capacitação desenvolvidas no âmbito da ação Educação 5.0 são a Oficina de Formação Professores e as Jornadas da Educação.  
 
 ### **Ação 5 – Hora de Programar**
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura24.jpg) 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura24.jpg)</center> 
 
-No âmbito da ação Hora de Programar foram realizadas sessões quinzenais junto dos alunos de 1º, 2º e 3º CEB com o objetivo de desenvolver competências na área da tecnologia e da programação com o apoio dos professores. A realização de trabalhos escolares nestas sessões promoveu o trabalho em grupo e incentivou o relacionamento entre os alunos. Para além das sessões em contexto de escolar, alguns dos alunos participaram no evento Robô Oeste e no Concurso nacional de programação "A Criar com Scratch!".
+No âmbito da ação Hora de Programar foram realizadas sessões quinzenais junto dos alunos de 1º, 2º e 3º CEB com o objetivo de desenvolver competências na área da tecnologia e da programação com o apoio dos professores. A realização de trabalhos escolares nestas sessões promoveu o trabalho em grupo e incentivou o relacionamento entre os alunos. Para além das sessões em contexto escolar, alguns dos alunos participaram no evento Robô Oeste e no Concurso nacional de programação "A Criar com *Scratch*!".  
 
 ### **Ação 6 – Hora de Experimentar **
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura25.jpg) 
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura25.jpg)</center> 
 
-A ação Hora de Experimentar foi realizada em quatro agrupamentos do município: Argoncilhe, Arrifana, Santa Maria da Feira e Coelho e Castro. Estes agrupamentos apostaram nas ciências experimentais e desenvolveram sessões quinzenais, onde os alunos têm espaço para fazer experiência científicas e explorar novos desafios. Esta ação promove o raciocínio e a cooperação entre os alunos, fazendo com que estes adquiram novas competências na área da ciência.  
+A ação Hora de Experimentar foi realizada em quatro agrupamentos do município: Argoncilhe, Arrifana, Santa Maria da Feira e Coelho e Castro. Estes agrupamentos apostaram nas ciências experimentais e desenvolveram sessões quinzenais, onde os alunos têm espaço para fazer experiências científicas e explorar novos desafios. Esta ação promove o raciocínio e a cooperação entre os alunos, fazendo com que estes adquiram novas competências na área da ciência.  
 
-## Indicadores de resultado e realização da operação cofinanciada
+## **Indicadores de resultado e realização da operação cofinanciada**
 
 Partilha-se do entendimento avançado pelo relatório de Avaliação do Contributo do PT2020 para a Promoção do Sucesso Educativo, Redução do Abandono Escolar Precoce e Empregabilidade dos jovens, uma vez que não é possível 
 
-> “estabelecer uma relação direta entre os projetos PIICIE e a evolução das taxas de retenção/desistência (pois o território é beneficiário de um conjunto muito mais lato de medidas que podem fazer a diferença)” (IESE et al., 2021, p. 81)
+> *“estabelecer uma relação direta entre os projetos PIICIE e a evolução das taxas de retenção/desistência (pois o território é beneficiário de um conjunto muito mais lato de medidas que podem fazer a diferença)”* (IESE et al., 2021, p. 81)
 
-Este _caveat_ não deve, no entanto, impedir uma análise dos indicadores, designadamente das taxas de retenção e desistência e das taxas de níveis negativos no território em estudo, indicadores contratualizados pela entidade beneficiária. Por outro lado, a leitura dos resultados deve, ainda, estar consciente da conjuntura crítica pandémica, contemporânea de parte do período de análise. 
+Este _caveat_ não deve, no entanto, impedir uma análise dos indicadores, designadamente das taxas de retenção e desistência (TRD) e das taxas de níveis negativos (TNN) no território em estudo, indicadores contratualizados pela entidade beneficiária. Por outro lado, a leitura dos resultados deve, ainda, estar consciente da conjuntura crítica pandémica, contemporânea de parte do período de análise. Recorre-se a exemplos retirados dos painéis de informação construídos no âmbito do presente projeto.  
 
-![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura26.jpg)
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura50.jpg)</center>
 
-Alunos envolvidos nas atividades, por nível de ensino
-Meta contratualizada	Resultados
-4 200	19 891
-COMPLEMENTAR COM GRÁFICO OU DASH, POR NÍVEL DE ENSINO
+| Alunos envolvidos nas atividades, por nível de ensino |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| 4.200 | 18.657[^12] |
+
+A meta foi amplamente ultrapassada, destacando-se, em número total de participantes, o AE Fernando Pessoa.  
+
+[^12]: Este valor pode diferir do relatório final de Candidatura PIICIE do Município de Santa Maria da Feira, pois não foi possível obter informação de todas ações do PIICIE.  
 
 Medidas de cada operação implementadas
-Meta contratualizada	Resultados
->80%	Entende-se que a meta foi cumprida
 
-O relatório final do PIICIE Edufeira refere que “Todas as ações foram executadas, até em período de suspensão das atividades letivas e não letivas presencias, decorrentes da pandemia COVID-19, com exceção de algumas das atividades da ação 2 – Vive as Férias”.  
+| Medidas de cada operação implementadas |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| >80% | Entende-se que a meta foi cumprida |  
 
-CONFIRMAR SE CANDIDATURA APRESENTAVA N.º DE MEDIDAS E CONFRONTAR COM O EXECUTADO  
+O relatório final do PIICIE Edufeira refere que “Todas as ações foram executadas, até em período de suspensão das atividades letivas e não letivas presencias, decorrentes da pandemia COVID-19, com exceção de algumas das atividades da ação 2 – Vive as Férias”.    
 
-Municípios envolvidos na operação
-Meta contratualizada	Resultados
-1	1
+<center>![FIGURA 19: Capítulo IV – Participantes nas 6 ações do PIICIE de SMF - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura51.jpg)</center>  
 
-Agrupamentos abrangidos
-Meta contratualizada	Resultados
-100%	100% (9/9 AE abrangidos)  
+| Municípios envolvidos na operação |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| 1 | 1 |  
 
-Redução da taxa de alunos com níveis negativos
-Meta contratualizada	Resultados  
->10%	2.º CEB: -53% CONFIRMAR
-3.º CEB: -46% CONFIRMAR
-COMPLEMENTAR COM GRÁFICO OU DASH
+| Agrupamentos abrangidos |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| 100% | 100% (9/9 AE abrangidos) |  
 
-Redução da taxa de retenção e desistência
-Meta contratualizada	Resultados
->25%	1.º CEB: -44% CONFIRMAR
-2.º CEB: -64% CONFIRMAR
-3.º CEB: -74% CONFIRMAR
-Ensino Secundário: -42% CONFIRMAR
-COMPLEMENTAR COM GRÁFICO OU DASH
+| Redução da taxa de alunos com níveis negativos |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| >10% | 2.º CEB: -55% / 3.º CEB: -46% |  
+
+Verifica-se uma expressiva redução da taxa de alunos com níveis negativos (TNN) a pelo menos uma disciplinas, ainda que se mantenham assimetrias entre os Agrupamentos.  
+
+<center>![FIGURA 20: Capítulo II – TNN nos AE do município de SMF - FONTE: Município de SMF/AMP(DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura52.jpg)</center>  
+
+| Redução da taxa de retenção e desistência |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| >25% | 1.º CEB: -44%    2.º CEB: -64%   3.º CEB: -74%   Ensino Secundário: -42% |  
+
+Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o mesmo período, a uma clara redução. Não obstante, os atuais que se seguem à implementação do PIICIE podem revelar-se críticos, uma vez que é expectável uma tradução mais real do impacto do contexto pandémico e do consequente encerramento das escolas.  
+
+<center>![FIGURA 21: Capítulo II – TRD nos AE do município de SMF - FONTE: Município de SMF/AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura53.jpg)</center>  
+
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura54.jpg)</center>  
+
+| Grau de satisfação |
+|--- |--- |--- |
+| Meta contratualizada | Resultados |
+| 90% | Entende-se que a meta foi cumprida |
 
 
-**Grau de satisfação**
+Recorrendo a questionários difundidos nos anos letivos 2019/20 e 2020/21, bem como a pareceres solicitados aos AE aquando do término do projeto, a entidade beneficiária concluiu que a meta contratualizada de 90% foi atingida (**REF RELAT SMF**). De uma forma geral, os agrupamentos de escolas salientam a importância que o PIICIE teve nos processos de aprendizagem e colaboração para o combate ao insucesso escolar. Destaca-se a necessidade de dar continuidade a vários projetos desenvolvidos e o alargamento destes para todos os alunos, uma vez que produziram experiências inovadoras e úteis no percurso escolar destes, considerando-os um benefício para o município de Santa Maria da Feira. Para além dos agrupamentos, a Fapfeira evidenciou que, apesar dos constrangimentos causados pela pandemia COVID-19, a implementação dos projetos ocorreu de forma positiva, cumprindo as metas propostas. Foi aconselhado, por parte da associação, investir numa maior divulgação das atividades desenvolvidas de forma a informar o maior número de pessoas e aumentar a adesão aos projetos.  
+
+Para a análise integrada do panorama educativo local em SMF, houve um esforço na construção de painéis de informação que permitissem, ao nível dos AE, uma leitura cruzada entre indicadores gerais de desempenho (TRD e TNN) e indicadores de caracterização socioeducativa (equidade e % de alunos com ASE que concluíram os estudos no tempo esperado). Na figura seguinte, é assim possível analisar o desempenho escolar nos 9 AE, recorrendo a variáveis mais estritas e mais latas de aferição dos respetivos níveis de (in)sucesso.  
+
+<center>![FIGURA 22: Capítulo III – Leitura cruzada entre variáveis estritas e latas na aferição de níveis de sucesso em SMF por AE - FONTE: Infoescolas; Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura55.jpg)</center>  
+
+Complementarmente, o painel seguinte combina indicadores gerais de desempenho (TRD e TNN) com indicadores das 6 ações do PIICIE de SMF no que ao número de participantes diz respeito. A partir do desdobramento dos dados sobre os participantes, foi possível criar indicadores transversais aos nível das ações dos AE, assim como indicadores específicos por ação. A análise conjunta dos indicadores permite realizar um diagnóstico mais fiel dos AE e promover a reflexão sobre uma possível ligação com a participação nas ações.  
+
+<center>![FIGURA 23: Capítulo III – Leitura cruzada entre indicadores gerais de desempenho e indicadores transversais e específicos da participação nas ações do PIICIE de SMF por AE - FONTE: Infoescolas; Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura56.jpg)</center>  
+
+## **Indicadores específicos de caracterização das ações**
+
+Importa complexificar os indicadores de realização das ações, pelo que os indicadores específicos pretendem cumprir este papel. Alguns dos indicadores são comuns a todas as ações[^13], como é o caso dos parceiros envolvidos na formulação e/ou na elaboração e o número total de participantes já referido no ponto 4.2. Noutras ações procura especificar-se elementos associados quer aos participantes, quer aos domínios temáticos ou mesmo face a externalidades positivas que podem ser compreendidas à luz do PIICIE.  
+
+Seguem-se exemplos destes indicadores específicos, tal como apresentados nos painéis de informação construídos e disponibilizados no âmbito deste projeto, integrantes do capítulo IV.  
+
+[^13]: **Consultar Anexo VII**.  
+
+**Ação 1 – Equipa Multidisciplinar**  
+
+___N.º de participantes[^14]___
+
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura57.jpg)</center>  
+
+<center>![FIGURA 24: Capítulo IV – Ação 1 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura58.jpg)</center>
+
+___Caracterização das atividades___
+
+No projeto de Acompanhamento de alunos com medidas adicionais na EB Corga de Lobão, nos três anos letivos analisados, num total de 16 participantes, a maioria dos alunos envolvidos pertencem ao 6º ano (4 participantes) e ao 9.º ano (5 participantes). O Desafia-TE obteve maior adesão no ano de 2018/19, sendo que em todos os anos o 3.º CEB destaca-se com um número maior de participantes.
+
+<center>![FIGURA 25: Capítulo IV – Ação 1 do PIICIE, Caracterização das Atividades - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura59.jpg)</center>
+
+[^14]: **Consultar Anexo VIII**.  
+
+___Avaliação dos alunos abrangidos[^15]___   
+
+No âmbito do Acompanhamento de alunos com medidas adicionais na EB Corga de Lobão, nos três anos letivos analisados, realizaram-se 55 atividades, das quais 49 foram desenvolvidas na escola. As atividades do Desafia-te compreenderam várias temáticas entre estas a cidadania, a cultura, o desporto e cinema. Foram realizadas 67 atividades no total, sendo que 57 são atividades de grupo, promovendo o trabalho em equipa e a partilha de experiências.
+
+A equipa avaliou os alunos com medidas adicionais da EB Corga do Lobão em sete dimensões, destacando-se cinco pela sua importância: participação nas tarefas, empenho e realização das tarefas, aquisição e aplicação de conhecimentos, comportamento e relação com os pares e trabalho de equipa. Com base nestas avaliações, é possível ver o impacto das sessões ao longo dos três períodos, como se exemplifica na figura. A média do último período reflete o trabalho e a evolução dos alunos envolvidos.  
+
+<center>![FIGURA 26: Capítulo IV – Ação 1 do PIICIE, Avaliação dos alunos abrangidos - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura60.jpg)</center>
+
+[^15]: **Consultar Anexo VIII**.  
+
+**Ação 2 – Vive as Férias**  
+
+___N.º de participantes___  
+
+Esta ação abrange um grande público. O período que se destaca com o maior número de participantes, no total 1151 alunos, foi no verão de 2019. Verificou-se uma drástica redução nos anos seguintes devido à pandemia Covid-19, no entanto nota-se um aumento no verão de 2021 (602 participantes) uma vez que houve alívio de restrições relativamente à situação pandémica.  
+
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura61.jpg)</center>  
+
+<center>![FFIGURA 27: Capítulo IV – Ação 2 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura62.jpg)</center>  
+
+___Caracterização das atividades___  
+
+Nas atividades realizadas nos programas Vives, a área com maior destaque é o desporto. Procura-se, através deste tipo de atividades, fomentar uma prática regular de atividade física e a aquisição de diversas competências.  
+
+<center>![FIGURA 28: Capítulo IV – Ação 2 do PIICIE, Caracterização das Atividades - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura63.jpg)</center>  
+
+**Ação 4 – Educação 5.0**  
+
+___N.º de alunos participantes nas Olimpíadas da Cidadania e do Património___   
+
+A plataforma EDUFEIR@, criada no âmbito da ação Educação 5.0, ganhou mais relevância a partir de março de 2020, início da pandemia Covid-19. Esta ferramenta demonstrou-se útil para partilha de informação importante acerca do sistema educativo do município e para prestar apoio com conteúdos no âmbito da cidadania, património, apoio ao estudo e desafios. Na plataforma foi realizado o concurso Olimpíadas da Cidadania e do Património que alcançou, em 2019/20 e 2020/21, 657 participantes.  
+
+<center>![FIGURA 29: Capítulo IV – Ação 4 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura64.jpg)</center>  
+
+___N.º de acessos à plataforma EDUFEIR@___  
+
+Os acessos à plataforma aumentaram exponencialmente em 2021 a partir de janeiro até meados do ano, coincidentes com a época em que decorrem as Olimpíadas da Cidadania e do Património.  
+
+<center>![FIGURA 30: Capítulo IV – Ação 4 do PIICIE, Acessos à Plataforma - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura65.jpg)</center>  
+
+___Conteúdos temáticos na plataforma___  
+
+A plataforma EDUFEIR@ tem conteúdos nas dimensões do património, cidadania e apoio ao estudo. Para além destas dimensões, disponibiliza diversos desafios e atividades em família dando a possibilidade dos alunos e famílias se divertirem e aprenderem juntos.  
+
+<center>![FIGURA 31: Capítulo IV – Ação 4 do PIICIE, Conteúdos temáticos na Plataforma - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura66.jpg)</center>  
+
+___N.º de tablets distribuídos___  
+
+As escolas básicas foram equipadas com tablets (15 ou 26 tablets dependendo do nº de alunos da escola) de forma a potenciar a utilização das TIC e da plataforma EDUFEIR@ na aprendizagem em sala de aula.  
+
+<center>![FIGURA 32: Capítulo IV – Ação 4 do PIICIE, Tablets distribuídos - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura67.jpg)</center>  
+
+**Ação 5 – Hora de Programar** 
+
+___N.º de alunos participantes___  
+
+Com implementação em todos os Agrupamentos de Escolas, é nos AE de Arrifana, Paços de Brandão e Fernando Pessoa que a adesão aparenta ser mais massiva.  
+
+<center>![FIGURA 33: Capítulo IV – Ação 5 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura68.jpg)</center>  
+
+___Caracterização das atividades___  
+
+Nesta ação realizaram-se atividades na área Computação e modularização, uso de software informático, bem como utilização de jogos para explicar conceitos teóricos. O domínio do uso de software informático destaca-se como a área com mais atividades realizadas (20 atividades).  
+
+<center>![FIGURA 34: Capítulo IV – Ação 5 do PIICIE, Caracterização das Atividades - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura69.jpg)</center>
+
+___Participação em competições na área da Programação___  
+
+No âmbito da ação Hora de programar os alunos do 1ºCEB e 2ºCEB estiveram envolvidos em duas atividades nacionais, o Roboeste e o Scratch. No total dos dois campeonatos participaram 292 alunos.  
+
+<center>![FIGURA 35: Capítulo IV – Ação 5 do PIICIE, Participação em competições de programação - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura70.jpg)</center>  
+
+**Ação 6 – Hora de Experimentar**  
+
+___N.º de alunos participantes___  
+
+Em 2018/19 estiveram envolvidos na Hora de Experimentar 433 alunos, sendo este o ano em que houve maior adesão. Em 2019/20 e 2020/21 participaram 404 e 411 alunos, respetivamente.  
+
+<center>![FIGURA 36: Capítulo IV – Ação 6 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura71.jpg)</center>  
+
+___Caracterização das atividades___  
+
+Na Hora de Experimentar, as atividades desenvolvidas abrangem diversas áreas, como a alimentação e nutrição, zoologia, saúde e anatomia, química, entre outras. Tendo como objetivo, proporcionar experiências e explicar fenómenos do quotidiano aos alunos, a maioria das atividades da Hora de Experimentar são dedicadas à área da química.  
+
+<center>![FIGURA 37: Capítulo IV – Ação 6 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura72.jpg)</center>  
+
+___Níveis de aproveitamento dos alunos___  
+
+O aproveitamento final dos alunos do 3º ano na disciplina de Estudo do Meio permitiu concluir que, no ano letivo 2019/20 e 2020/21, cerca de 99,78% e 99,56%, respetivamente, houve bons resultados à disciplina, podendo existir uma relação com as sessões realizadas no âmbito desta ação.  
+
+<center>![FIGURA 38: Capítulo IV – Ação 6 do PIICIE, Níveis de aproveitamento - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura73.jpg)</center>  
 
 
-Recorrendo a questionários difundidos nos anos letivos 2019/20 e 2020/21, bem como a pareceres solicitados aos AE aquando do término do projeto, a entidade beneficiária concluiu que a meta contratualizada de 90% foi atingida (REF RELAT SMF). De uma forma geral, os agrupamentos de escolas salientam a importância que o PIICIE teve nos processos de aprendizagem e colaboração para o combate ao insucesso escolar. Destaca-se a necessidade de dar continuidade a vários projetos desenvolvidos e o alargamento destes para todos os alunos, uma vez que produziram experiências inovadoras e úteis no percurso escolar destes, considerando-os um benefício para o município de Santa Maria da Feira. Para além dos agrupamentos, a Fapfeira evidenciou que, apesar dos constrangimentos causados pela pandemia COVID-19, a implementação dos projetos ocorreu de forma positiva, cumprindo as metas propostas. Foi aconselhado, por parte da associação, investir numa maior divulgação das atividades desenvolvidas de forma a informar o maior número de pessoas e aumentar a adesão aos projetos. 
+<center>![FIGURA 39: Diagrama geral do quadro de ações do PIICIE de SMF – Redes de agentes e Governação - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura74.jpg)</center>   
 
 
-## Indicadores específicos de caracterização das ações
+<center>![FIGURA 40: Diagrama geral do quadro de ações do PIICIE de SMF – Total de Participantes nas Ações - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\img11.jpeg)</center>  
 
-Importa complexificar os indicadores de realização das ações, pelo que os indicadores específicos pretendem cumprir este papel. Assim, alguns dos indicadores são comuns a todas as ações , como é caso dos parceiros envolvidos na formulação e/ou na elaboração e o número total de participantes que 
+Para lá destes indicadores, a matriz de avaliação compreendia, no entanto, uma mais vasta bateria de indicadores específicos, quer de caracterização, quer de avaliação de cada uma das ações. Um dos principais desafios do presente estudo residiu, justamente, na recolha de informação que permitisse dar resposta a estes indicadores, formulados a *posteriori*, não tendo sido contemplados no arranque do PIICIE. No **primeiro grupo de indicadores** há uma preocupação com a caracterização socioeducativa dos participantes, bem como com as especificidades de cada uma das atividades. No **segundo grupo de indicadores** pretender-se-ia medir, principalmente, os efeitos diretos (sobre os alunos envolvidos) e indiretos (sobre o universo alargado de alunos) de cada uma das ações.  
+
+Argumenta-se que estes indicadores facilitariam uma aferição mais exata do impacto do PIICIE, ainda que sem recorrer a metodologias como a avaliação de impacto ou a teoria da mudança. Ainda que a sua maioria não tenha sido operacionalizada, apresenta-se, de seguida, esta proposta.  
+
+<center>![QUADRO 1: Indicadores de caracterização e avaliação do impacto do PIICIE – Proposta inicial - FONTE: GETIN-UA ](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura75.jpg)</center>  
+
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura76.jpg)</center>  
+
+Num esforço de formulação de indicadores transversais, que não secundarizem a especificidade, esboça-se uma proposta adicional. Ambiciona-se que esta possa ser operacionalizada numa miríade tão extensa quanto possível de programas de promoção do sucesso. Todos os indicadores propostos deverão ser considerados na avaliação *ex ante*, avaliando-se a sua pertinência, acompanhados ao longo do processo (avaliação *ongoing*) e apreciados no final do projeto (avaliação *ex post*).  
+
+<center>![QUADRO 2: Indicadores de transversais de avaliação ex-ante, ongoing e ex-post do impacto do PIICIE – Proposta adicional - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura77.jpg)</center> 
+
+Deverão, ainda, ser considerados indicadores que, no futuro, com distância temporal, captem efeitos de longo prazo das medidas.  
+
+## **Impacto da pandemia Covid-19 na execução das atividades e projetos programados**
+
+Inevitavelmente, a pandemia obrigou a uma adaptação dos projetos e atividades compreendidos no PIICIE. O projeto Desafia-TE, integrado na ação Equipa Multidisciplinar foi ajustado e, a partir de março de 2020, transformou-se no programa “Desafia-TE em casa”, que se concretizou através de seis sessões online no 3º período. Já os alunos abrangidos por medidas adicionais da EB Corga de Lobão continuaram a ter as sessões presencialmente, ainda que a escola estivesse encerrada devido ao confinamento imposto pela pandemia.  
+
+Em 2020 e 2021, não foi possível concretizar o programa Vives na interrupção letiva da Páscoa. Os programas Vives do Natal realizaram-se, porém houve uma limitação quanto ao número de participantes. No âmbito da ação Educação 5.0 ocorreram iniciativas orientadas para o próprio contexto pandémico como por exemplo, o *workshop* “A importância de atividade plásticas e lúdicas em tempos de quarentena”, realizado *online*.  
+
+Nas ações da Hora de Programar e da Hora de Experimentar, criou-se um canal no *Youtube* utilizado para disponibilizar a realização das atividades aos alunos, bem como a utilização da plataforma EDUFEIRA para o mesmo fim. Para além disso, foram fornecidas orientações das atividades para os alunos que não tinham acesso aos conteúdos.  
