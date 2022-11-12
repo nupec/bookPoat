@@ -32,7 +32,7 @@ O desenho e implementação deste PIICIE assente em várias áreas temáticas tr
 2.	Ainda que alinhada com o discurso educativo da UE voltado para a sociedade baseada no conhecimento e para a competitividade (Nóvoa, 2013), a estratégia feirense aparenta ultrapassar esta visão estritamente económica e limitada da Educação, promovendo a inclusão, coesão e trabalho junto da/para a comunidade;  
 
 3.	A aposta estratégica em áreas STEM como centrais no sucesso escolar e pessoal dos indivíduos (ilustrada através das ações Hora de Experimentar e Hora de Programar).
-Ainda que haja uma ligação entre o PIICIE e a estratégia local para a Educação, ficam de fora da espinha dorsal do projeto algumas áreas estratégicas de Santa Maria da Feira, como as Artes ou o Desporto, ainda que se entenda que estas são centrais para o sucesso escolar (**REF PEEM**). No entanto, esta opção limita as redundâncias e permite à política cofinanciada cumprir o seu valor acrescentado (Mairate, 2007).  
+Ainda que haja uma ligação entre o PIICIE e a estratégia local para a Educação, ficam de fora da espinha dorsal do projeto algumas áreas estratégicas de Santa Maria da Feira, como as Artes ou o Desporto, ainda que se entenda que estas são centrais para o sucesso escolar <mark>(REF PEEM)</mark>. No entanto, esta opção limita as redundâncias e permite à política cofinanciada cumprir o seu valor acrescentado (Mairate, 2007).  
 
 <center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura49.jpg)</center>  
 
@@ -110,7 +110,7 @@ Este _caveat_ não deve, no entanto, impedir uma análise dos indicadores, desig
 
 A meta foi amplamente ultrapassada, destacando-se, em número total de participantes, o AE Fernando Pessoa.  
 
-[^12]: Este valor pode diferir do relatório final de Candidatura PIICIE do Município de Santa Maria da Feira, pois não foi possível obter informação de todas ações do PIICIE.  
+[^12]: <mark>Este valor pode diferir do relatório final de Candidatura PIICIE do Município de Santa Maria da Feira, pois não foi possível obter informação de todas ações do PIICIE.</mark>  
 
 Medidas de cada operação implementadas
 
@@ -145,7 +145,7 @@ Verifica-se uma expressiva redução da taxa de alunos com níveis negativos (TN
 | Redução da taxa de retenção e desistência |
 |--- |--- |--- |
 | Meta contratualizada | Resultados |
-| >25% | 1.º CEB: -44%    2.º CEB: -64%   3.º CEB: -74%   Ensino Secundário: -42% |  
+| >25% | 1.º CEB: -44%    2.º CEB: -64%   3.º CEB: -74%   Ens. Sec.: -42% |  
 
 Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o mesmo período, a uma clara redução. Não obstante, os atuais que se seguem à implementação do PIICIE podem revelar-se críticos, uma vez que é expectável uma tradução mais real do impacto do contexto pandémico e do consequente encerramento das escolas.  
 
@@ -159,7 +159,7 @@ Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o me
 | 90% | Entende-se que a meta foi cumprida |
 
 
-Recorrendo a questionários difundidos nos anos letivos 2019/20 e 2020/21, bem como a pareceres solicitados aos AE aquando do término do projeto, a entidade beneficiária concluiu que a meta contratualizada de 90% foi atingida (**REF RELAT SMF**). De uma forma geral, os agrupamentos de escolas salientam a importância que o PIICIE teve nos processos de aprendizagem e colaboração para o combate ao insucesso escolar. Destaca-se a necessidade de dar continuidade a vários projetos desenvolvidos e o alargamento destes para todos os alunos, uma vez que produziram experiências inovadoras e úteis no percurso escolar destes, considerando-os um benefício para o município de Santa Maria da Feira. Para além dos agrupamentos, a Fapfeira evidenciou que, apesar dos constrangimentos causados pela pandemia COVID-19, a implementação dos projetos ocorreu de forma positiva, cumprindo as metas propostas. Foi aconselhado, por parte da associação, investir numa maior divulgação das atividades desenvolvidas de forma a informar o maior número de pessoas e aumentar a adesão aos projetos.  
+Recorrendo a questionários difundidos nos anos letivos 2019/20 e 2020/21, bem como a pareceres solicitados aos AE aquando do término do projeto, a entidade beneficiária concluiu que a meta contratualizada de 90% foi atingida <mark>(REF RELAT SMF)</mark>. De uma forma geral, os agrupamentos de escolas salientam a importância que o PIICIE teve nos processos de aprendizagem e colaboração para o combate ao insucesso escolar. Destaca-se a necessidade de dar continuidade a vários projetos desenvolvidos e o alargamento destes para todos os alunos, uma vez que produziram experiências inovadoras e úteis no percurso escolar destes, considerando-os um benefício para o município de Santa Maria da Feira. Para além dos agrupamentos, a Fapfeira evidenciou que, apesar dos constrangimentos causados pela pandemia COVID-19, a implementação dos projetos ocorreu de forma positiva, cumprindo as metas propostas. Foi aconselhado, por parte da associação, investir numa maior divulgação das atividades desenvolvidas de forma a informar o maior número de pessoas e aumentar a adesão aos projetos.  
 
 Para a análise integrada do panorama educativo local em SMF, houve um esforço na construção de painéis de informação que permitissem, ao nível dos AE, uma leitura cruzada entre indicadores gerais de desempenho (TRD e TNN) e indicadores de caracterização socioeducativa (equidade e % de alunos com ASE que concluíram os estudos no tempo esperado). Na figura seguinte, é assim possível analisar o desempenho escolar nos 9 AE, recorrendo a variáveis mais estritas e mais latas de aferição dos respetivos níveis de (in)sucesso.  
 
@@ -175,25 +175,25 @@ Importa complexificar os indicadores de realização das ações, pelo que os in
 
 Seguem-se exemplos destes indicadores específicos, tal como apresentados nos painéis de informação construídos e disponibilizados no âmbito deste projeto, integrantes do capítulo IV.  
 
-[^13]: **Consultar Anexo VII**.  
+[^13]: Consultar <mark>Anexo VII.</mark> 
 
 **Ação 1 – Equipa Multidisciplinar**  
 
-___N.º de participantes[^14]___
+<u>N.º de participantes[^14]</u> 
 
 <center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura57.jpg)</center>  
 
 <center>![FIGURA 24: Capítulo IV – Ação 1 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura58.jpg)</center>
 
-___Caracterização das atividades___
+<u>Caracterização das atividades</u>
 
 No projeto de Acompanhamento de alunos com medidas adicionais na EB Corga de Lobão, nos três anos letivos analisados, num total de 16 participantes, a maioria dos alunos envolvidos pertencem ao 6º ano (4 participantes) e ao 9.º ano (5 participantes). O Desafia-TE obteve maior adesão no ano de 2018/19, sendo que em todos os anos o 3.º CEB destaca-se com um número maior de participantes.
 
 <center>![FIGURA 25: Capítulo IV – Ação 1 do PIICIE, Caracterização das Atividades - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura59.jpg)</center>
 
-[^14]: **Consultar Anexo VIII**.  
+[^14]: Consultar <mark>Anexo VIII.</mark> 
 
-___Avaliação dos alunos abrangidos[^15]___   
+<u>Avaliação dos alunos abrangidos[^15]</u>  
 
 No âmbito do Acompanhamento de alunos com medidas adicionais na EB Corga de Lobão, nos três anos letivos analisados, realizaram-se 55 atividades, das quais 49 foram desenvolvidas na escola. As atividades do Desafia-te compreenderam várias temáticas entre estas a cidadania, a cultura, o desporto e cinema. Foram realizadas 67 atividades no total, sendo que 57 são atividades de grupo, promovendo o trabalho em equipa e a partilha de experiências.
 
@@ -201,11 +201,11 @@ A equipa avaliou os alunos com medidas adicionais da EB Corga do Lobão em sete 
 
 <center>![FIGURA 26: Capítulo IV – Ação 1 do PIICIE, Avaliação dos alunos abrangidos - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura60.jpg)</center>
 
-[^15]: **Consultar Anexo VIII**.  
+[^15]: Consultar <mark>Anexo VIII .</mark>
 
 **Ação 2 – Vive as Férias**  
 
-___N.º de participantes___  
+<u>N.º de participantes</u>  
 
 Esta ação abrange um grande público. O período que se destaca com o maior número de participantes, no total 1151 alunos, foi no verão de 2019. Verificou-se uma drástica redução nos anos seguintes devido à pandemia Covid-19, no entanto nota-se um aumento no verão de 2021 (602 participantes) uma vez que houve alívio de restrições relativamente à situação pandémica.  
 
@@ -213,7 +213,7 @@ Esta ação abrange um grande público. O período que se destaca com o maior n�
 
 <center>![FFIGURA 27: Capítulo IV – Ação 2 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura62.jpg)</center>  
 
-___Caracterização das atividades___  
+<u>Caracterização das atividades</u>  
 
 Nas atividades realizadas nos programas Vives, a área com maior destaque é o desporto. Procura-se, através deste tipo de atividades, fomentar uma prática regular de atividade física e a aquisição de diversas competências.  
 
@@ -221,25 +221,25 @@ Nas atividades realizadas nos programas Vives, a área com maior destaque é o d
 
 **Ação 4 – Educação 5.0**  
 
-___N.º de alunos participantes nas Olimpíadas da Cidadania e do Património___   
+<u>N.º de alunos participantes nas Olimpíadas da Cidadania e do Património</u>   
 
 A plataforma EDUFEIR@, criada no âmbito da ação Educação 5.0, ganhou mais relevância a partir de março de 2020, início da pandemia Covid-19. Esta ferramenta demonstrou-se útil para partilha de informação importante acerca do sistema educativo do município e para prestar apoio com conteúdos no âmbito da cidadania, património, apoio ao estudo e desafios. Na plataforma foi realizado o concurso Olimpíadas da Cidadania e do Património que alcançou, em 2019/20 e 2020/21, 657 participantes.  
 
 <center>![FIGURA 29: Capítulo IV – Ação 4 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura64.jpg)</center>  
 
-___N.º de acessos à plataforma EDUFEIR@___  
+<u>N.º de acessos à plataforma EDUFEIR@</u>  
 
 Os acessos à plataforma aumentaram exponencialmente em 2021 a partir de janeiro até meados do ano, coincidentes com a época em que decorrem as Olimpíadas da Cidadania e do Património.  
 
 <center>![FIGURA 30: Capítulo IV – Ação 4 do PIICIE, Acessos à Plataforma - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura65.jpg)</center>  
 
-___Conteúdos temáticos na plataforma___  
+<u>Conteúdos temáticos na plataforma</u> 
 
 A plataforma EDUFEIR@ tem conteúdos nas dimensões do património, cidadania e apoio ao estudo. Para além destas dimensões, disponibiliza diversos desafios e atividades em família dando a possibilidade dos alunos e famílias se divertirem e aprenderem juntos.  
 
 <center>![FIGURA 31: Capítulo IV – Ação 4 do PIICIE, Conteúdos temáticos na Plataforma - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura66.jpg)</center>  
 
-___N.º de tablets distribuídos___  
+<u>N.º de tablets distribuídos</u> 
 
 As escolas básicas foram equipadas com tablets (15 ou 26 tablets dependendo do nº de alunos da escola) de forma a potenciar a utilização das TIC e da plataforma EDUFEIR@ na aprendizagem em sala de aula.  
 
@@ -247,19 +247,19 @@ As escolas básicas foram equipadas com tablets (15 ou 26 tablets dependendo do 
 
 **Ação 5 – Hora de Programar** 
 
-___N.º de alunos participantes___  
+<u>N.º de alunos participantes</u> 
 
 Com implementação em todos os Agrupamentos de Escolas, é nos AE de Arrifana, Paços de Brandão e Fernando Pessoa que a adesão aparenta ser mais massiva.  
 
 <center>![FIGURA 33: Capítulo IV – Ação 5 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura68.jpg)</center>  
 
-___Caracterização das atividades___  
+<u>Caracterização das atividades</u> 
 
 Nesta ação realizaram-se atividades na área Computação e modularização, uso de software informático, bem como utilização de jogos para explicar conceitos teóricos. O domínio do uso de software informático destaca-se como a área com mais atividades realizadas (20 atividades).  
 
 <center>![FIGURA 34: Capítulo IV – Ação 5 do PIICIE, Caracterização das Atividades - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura69.jpg)</center>
 
-___Participação em competições na área da Programação___  
+<u>Participação em competições na área da Programação</u> 
 
 No âmbito da ação Hora de programar os alunos do 1ºCEB e 2ºCEB estiveram envolvidos em duas atividades nacionais, o Roboeste e o Scratch. No total dos dois campeonatos participaram 292 alunos.  
 
@@ -267,19 +267,19 @@ No âmbito da ação Hora de programar os alunos do 1ºCEB e 2ºCEB estiveram en
 
 **Ação 6 – Hora de Experimentar**  
 
-___N.º de alunos participantes___  
+<u>N.º de alunos participantes</u> 
 
 Em 2018/19 estiveram envolvidos na Hora de Experimentar 433 alunos, sendo este o ano em que houve maior adesão. Em 2019/20 e 2020/21 participaram 404 e 411 alunos, respetivamente.  
 
 <center>![FIGURA 36: Capítulo IV – Ação 6 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura71.jpg)</center>  
 
-___Caracterização das atividades___  
+<u>Caracterização das atividades</u> 
 
 Na Hora de Experimentar, as atividades desenvolvidas abrangem diversas áreas, como a alimentação e nutrição, zoologia, saúde e anatomia, química, entre outras. Tendo como objetivo, proporcionar experiências e explicar fenómenos do quotidiano aos alunos, a maioria das atividades da Hora de Experimentar são dedicadas à área da química.  
 
 <center>![FIGURA 37: Capítulo IV – Ação 6 do PIICIE, Participantes - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura72.jpg)</center>  
 
-___Níveis de aproveitamento dos alunos___  
+<u>Níveis de aproveitamento dos alunos</u> 
 
 O aproveitamento final dos alunos do 3º ano na disciplina de Estudo do Meio permitiu concluir que, no ano letivo 2019/20 e 2020/21, cerca de 99,78% e 99,56%, respetivamente, houve bons resultados à disciplina, podendo existir uma relação com as sessões realizadas no âmbito desta ação.  
 

@@ -6,78 +6,147 @@ No Programa Demografia, Qualificações e Inclusão, enquadrado pelo Portugal 20
 
 ## **Recomendações sobre o combate ao insucesso escolar**
 
-PR1.1. Consolidação da visão territorial na promoção do sucesso escolar, quer através de uma análise estatística mais profunda e detalhada, quer de uma visão integrada de padrões e tendências supralocais 
-Num contexto de reforço de competências das CIM, importará consolidar uma visão que olhe para lá dos desafios municipais. Por outro lado, muitas vezes, a comparação exclusivamente dos indicadores de desempenho evidencia o cenário, mas não levanta hipóteses para as suas causas. Poderá ser útil adicionar outras variáveis ao diagnóstico territorial do (in)sucesso, como se procurou fazer no capítulo 3.
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR1.1. Consolidação da visão territorial na promoção do sucesso escolar</strong></u>, quer através de uma análise estatística mais profunda e detalhada, quer de uma visão integrada de padrões e tendências supralocais
+</div>
 
-PR1.2. Privilegiar domínios temáticos seletivos e os alunos do 1.º e do 2.º CEB como destinatários
-No contexto de Santa Maria da Feira, aparenta estar em curso um esforço de definição de áreas estratégicas nos projetos educativos, começando pelo Plano Estratégico Educativo Municipal. O sucesso da ação Hora de Experimentar traduz-se numa apreciação positiva desta e no entendimento de que as futuras ações de promoção do sucesso escolar devem passar pelo domínio temático das Ciências Naturais e Experimentais.  Paralelamente, a Cidadania revela-se, atualmente, uma área de importância estratégica, assim com a Programação e Robótica. 
-O 1.º CEB tende a ser visto como o ciclo de estudos onde é mais prioritário desenvolver ações de promoção do sucesso, sendo partilhado pelos agentes a grande diferença entre o volume de medidas no 2.º CEB face ao 1.º CEB. A quebra significativa é, entre outros motivos, explicada pela maior carga horária. Não obstante, os agentes concordam na necessidade de direcionar mais ações para esse ciclo. 
+Num contexto de reforço de competências das CIM, importará consolidar uma visão que olhe para lá dos desafios municipais. Por outro lado, muitas vezes, a comparação exclusivamente dos indicadores de desempenho evidencia o cenário, mas não levanta hipóteses para as suas causas. Poderá ser útil adicionar outras variáveis ao diagnóstico territorial do (in)sucesso, como se procurou fazer no capítulo 3.  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <strong>PR1.2. Privilegiar domínios temáticos seletivos e os alunos do 1.º e do 2.º CEB como destinatários</strong>
+</div>   
+
+No contexto de Santa Maria da Feira, aparenta estar em curso um esforço de definição de áreas estratégicas nos projetos educativos, começando pelo Plano Estratégico Educativo Municipal. O sucesso da ação Hora de Experimentar traduz-se numa apreciação positiva desta e no entendimento de que as futuras ações de promoção do sucesso escolar devem passar pelo domínio temático das Ciências Naturais e Experimentais.[^16] Paralelamente, a Cidadania revela-se, atualmente, uma área de importância estratégica, assim com a Programação e Robótica.  
+
+O 1.º CEB tende a ser visto como o ciclo de estudos onde é mais prioritário desenvolver ações de promoção do sucesso, sendo partilhado pelos agentes a grande diferença entre o volume de medidas no 2.º CEB face ao 1.º CEB. A quebra significativa é, entre outros motivos, explicada pela maior carga horária. Não obstante, os agentes concordam na necessidade de direcionar mais ações para esse ciclo.[^17]
+
+[^16]: Fonte: Inquérito preenchido pelos agentes na sessão final de projeto, 6 de outubro de 2022, Universidade de Aveiro.  
+
+[^17]: Fonte: Inquérito preenchido pelos agentes na sessão final de projeto, 6 de outubro de 2022, Universidade de Aveiro.  
 
 ## **Recomendações para os programas de promoção do sucesso cofinanciados no quadro 2021-2027**  
 
-Avaliação ex-ante
+<center><div id="hello" class="greeting message" style="color: darkorange;">
+  <strong>Avaliação ex-ante</strong>
+</div></center>  
 
-PR2.1. Atualização do leque de indicadores de desempenho educativo, também designados por ‘Indicadores de resultado’ nos Avisos do QFP 2014-20, de modo a incluir os indicadores de equidade
-Aquando da formulação dos PIICIE e dos primeiros avisos (2016), os indicadores de equidade ainda não haviam sido formulados. Porém, estes ganharam força recentemente na aferição do sucesso escolar (DGEEC, 2022a; POCH, 2021). Devem, assim, ser integrados os seguintes indicadores, nos avisos e na implementação:
-•	Conclusão no tempo esperado;
-•	Percursos diretos de sucesso;
-•	Indicador de equidade.  
-O indicador de equidade (por comparação com as taxas de retenção e desistência e de níveis negativos) tende a ser encarado, pelos agentes, como o mais apropriado para a aferição do efeito dos programas de promoção do sucesso . 
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR2.1. Atualização do leque de indicadores de desempenho educativo</strong></u>, também designados por ‘Indicadores de resultado’ nos Avisos do QFP 2014-20, de modo a incluir os indicadores de equidade
+</div>  
 
-PR2.2. Consolidação do papel e posicionamento dos Municípios e das CIM como intermediários entre os órgãos de administração das escolas e as entidades de governo nacionais, designadamente no que diz respeito às estatísticas educativas
-Os Municípios e CIM não serão bem-sucedidos, nem rigorosos, na formulação de estratégias educativas se não assumirem o conhecimento atualizado das suas realidades. Assim, fazendo uso da interoperabilidade de sistemas (e da crescente difusão de Observatórios Municipais de Educação), a candidatura aos programas de combate ao insucesso deve, desde logo, partir de um diagnóstico de desempenho educativo atualizado e pertinente, que permita identificar aspetos críticos da realidade educativa do território. Os Observatórios serão também essenciais na recolha e sistematização de informação para a monitorização dos programas. 
-Compreende-se que a DGEEC seja a gatekeeper das estatísticas educativas, mas, perante um crescente contexto de descentralização de competências, não é irrazoável ambicionar um papel mais ativo das entidades subnacionais na organização e divulgação daquelas. 
+Aquando da formulação dos PIICIE e dos primeiros avisos (2016), os indicadores de equidade ainda não haviam sido formulados. Porém, estes ganharam força recentemente na aferição do sucesso escolar (DGEEC, 2022a; POCH, 2021). Devem, assim, ser integrados os seguintes indicadores, nos avisos e na implementação:  
 
-PR2.3. Promoção de incentivos para a construção de metas e objetivos territorializados, que capturem e acompanhem a realidade socioeducativa abrangida pela ação.
-A diversidade intrínseca dos territórios exige a formulação de indicadores em coerência com o diagnóstico. À elaboração do diagnóstico socioeducativo em resposta aos avisos de candidatura às ações cofinanciadas deve seguir-se uma consequente bateria de indicadores específicos, construída pela entidade beneficiária. 
-Para qualquer indicador devem ser contratualizados resultados esperados, assim como lançadas as bases para a recolha de dados longitudinais, sobre os participantes envolvidos, que facilitem a elaboração de avaliações de impacto, contemplando, por exemplo, níveis de aproveitamento e percurso dos alunos participantes. 
+  - Conclusão no tempo esperado;  
+  - Percursos diretos de sucesso;  
+  - Indicador de equidade.  
 
-PR2.4. Robustecimento do diálogo entre a estratégia educativa do território e o PIICIE a implementar
-Deve ser evitada a multiplicação de estratégias difusas, assegurando a convergência dos programas de combate ao insucesso com as estratégias escolares, municipais e intermunicipais implementadas que, por sua vez, deverão estar intimamente relacionadas com os desafios educativos territoriais. Esta perceção é partilhada pelos agentes educativos, entendendo-se que apenas deste modo será possível investir numa política educativa robusta, integrada e de continuidade. 
+O indicador de equidade (por comparação com as taxas de retenção e desistência e de níveis negativos) tende a ser encarado, pelos agentes, como o mais apropriado para a aferição do efeito dos programas de promoção do sucesso[^18].
 
-PR2.5. Garantia de condições de gestão e administração das entidades beneficiárias, de forma a aumentar a probabilidade de sucesso na implementação da operação
-O sucesso do plano depende, em larga medida, dos Recursos Humanos mobilizados para a sua implementação e acompanhamento, entendimento partilhado pelos agentes. Sendo estes planos tão dependentes da interação interinstitucional entre atores, é crucial que estes apostem nos momentos de contacto e difusão. Esta necessidade torna-se mais premente em planos dinamizados por CIM, onde a rede é mais extensa.
-Assim, será relevante definir e monitorizar, quantitativamente:
-•	Técnicos Superiores envolvidos no acompanhamento do plano;
-•	Reuniões internas sobre o plano;
-•	Reuniões da entidade beneficiária com entidades parceiras;
-•	Instrumentos de avaliação;
-•	Sessões abertas à comunidade educativa para divulgação do plano.
+[^18]:Fonte: Inquérito preenchido pelos agentes na sessão final de projeto, 6 de outubro de 2022, Universidade de Aveiro.  
 
-Monitorização  
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR2.2. Consolidação do papel e posicionamento dos Municípios e das CIM como intermediários</strong></u> entre os órgãos de administração das escolas e as entidades de governo nacionais, designadamente no que diz respeito às <u><strong>estatísticas educativas</strong></u>
+</div>  
 
-PR3.1. Acompanhamento e avaliação periódica da evolução do território nos indicadores de desempenho educativo e nos indicadores de realização das ações
-Os relatórios anuais que as entidades beneficiárias remetem à autoridade de gestão, indicando as ações desenvolvidas durante esse período, deverão compreender a respetiva evolução nos indicadores de desempenho educativo. Sendo um dos desafios o desfasamento temporal na publicação de estatísticas educativas, torna-se ainda mais urgente a formalização de maiores competências das entidades subnacionais neste sentido (PR 2.2). 
+Os Municípios e CIM não serão bem-sucedidos, nem rigorosos, na formulação de estratégias educativas se não assumirem o conhecimento atualizado das suas realidades. Assim, fazendo uso da interoperabilidade de sistemas (e da crescente difusão de Observatórios Municipais de Educação), a candidatura aos programas de combate ao insucesso deve, desde logo, partir de um diagnóstico de desempenho educativo atualizado e pertinente, que permita identificar aspetos críticos da realidade educativa do território. Os Observatórios serão também essenciais na recolha e sistematização de informação para a monitorização dos programas.  
+
+Compreende-se que a DGEEC seja a *gatekeeper* das estatísticas educativas, mas, perante um crescente contexto de descentralização de competências, não é irrazoável ambicionar um papel mais ativo das entidades subnacionais na organização e divulgação daquelas.  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR2.3. Promoção de incentivos para a construção de metas e objetivos territorializados</strong></u>, que capturem e acompanhem a realidade socioeducativa abrangida pela ação.
+</div>  
+
+A diversidade intrínseca dos territórios exige a formulação de indicadores em coerência com o diagnóstico. À elaboração do diagnóstico socioeducativo em resposta aos avisos de candidatura às ações cofinanciadas deve seguir-se uma consequente bateria de indicadores específicos, construída pela entidade beneficiária.  
+
+Para qualquer indicador devem ser contratualizados resultados esperados, assim como lançadas as bases para a recolha de dados longitudinais, sobre os participantes envolvidos, que facilitem a elaboração de avaliações de impacto, contemplando, por exemplo, níveis de aproveitamento e percurso dos alunos participantes.  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR2.4. Robustecimento do diálogo entre a estratégia educativa do território e o PIICIE a implementar</strong></u>
+</div>  
+
+Deve ser evitada a multiplicação de estratégias difusas, assegurando a convergência dos programas de combate ao insucesso com as estratégias escolares, municipais e intermunicipais implementadas que, por sua vez, deverão estar intimamente relacionadas com os desafios educativos territoriais. Esta perceção é partilhada pelos agentes educativos, entendendo-se que apenas deste modo será possível investir numa política educativa robusta, integrada e de continuidade.  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR2.5. Garantia de condições de gestão e administração das entidades beneficiárias</strong></u>, de forma a aumentar a probabilidade de sucesso na implementação da operação
+</div>  
+
+O sucesso do plano depende, em larga medida, dos Recursos Humanos mobilizados para a sua implementação e acompanhamento, entendimento partilhado pelos agentes. Sendo estes planos tão dependentes da interação interinstitucional entre atores, é crucial que estes apostem nos momentos de contacto e difusão. Esta necessidade torna-se mais premente em planos dinamizados por CIM, onde a rede é mais extensa.  
+
+Assim, será relevante definir e monitorizar, quantitativamente:  
+
+  - Técnicos Superiores envolvidos no acompanhamento do plano;  
+  - Reuniões internas sobre o plano;  
+  - Reuniões da entidade beneficiária com entidades parceiras;  
+  - Instrumentos de avaliação;  
+  - Sessões abertas à comunidade educativa para divulgação do plano.  
+
+<center><div id="hello" class="greeting message" style="color: darkorange;">
+  <strong>Monitorização</strong>
+</div></center>  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR3.1. Acompanhamento e avaliação periódica da evolução do território nos indicadores de desempenho educativo e nos indicadores de realização das ações</strong></u>
+</div> 
+
+Os relatórios anuais que as entidades beneficiárias remetem à autoridade de gestão, indicando as ações desenvolvidas durante esse período, deverão compreender a respetiva evolução nos indicadores de desempenho educativo. Sendo um dos desafios o desfasamento temporal na publicação de estatísticas educativas, torna-se ainda mais urgente a formalização de maiores competências das entidades subnacionais neste sentido **(PR 2.2)**.  
+
 Este esforço possibilita a identificação de desafios ao longo da implementação do PIICIE, conduzindo a pequenos ajustes do plano para fazer face àqueles. Não sendo desejáveis desvios significativos face ao estabelecido na memória descritiva do projeto, tais ajustes devem ser formulados com parcimónia.
-Paralelamente, importa também encetar regularmente uma avaliação da execução face à previsão no que concerne os indicadores de realização de cada uma das ações, olhando para:
+Paralelamente, importa também encetar regularmente uma avaliação da execução face à previsão no que concerne os indicadores de realização de cada uma das ações, olhando para:  
 
-•	Alunos participantes;  
-•	Encarregados de Educação participantes;  
-•	Docentes envolvidos;  
-•	Parcerias criadas;  
-•	Atividades realizadas.  
+  - Alunos participantes;  
+  - Encarregados de Educação participantes;  
+  - Docentes envolvidos;  
+  - Parcerias criadas;  
+  - Atividades realizadas.[^19]  
 
-PR3.2. Apreciação da eventual utilidade da mobilização de domínios e campos de análise da inspeção das escolas
-Perante ações cujo sucesso depende de parcerias eficientes e lideranças capazes, poderá ser relevante mobilizar domínios da Liderança e Gestão para a monitorização dos planos de promoção do sucesso, quer nos seus resultados, quer nos indicadores propostos. 
+[^19]: Os indicadores propostos na PR2.5. devem também ser alvo desta monitorização anual.  
 
-PR3.3. Envolvimento dos agentes educativos na resposta periódica a inquéritos de aferição de preferências
-Várias entidades beneficiárias procuraram perceber a satisfação dos envolvidos nos PIICIE através de inquéritos ou de questões mais abertas. Crê-se que estes inquéritos podem ganhar em detalhe e, consequentemente, em utilidade para a melhoria da política. 
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR3.2. Apreciação da eventual utilidade da mobilização de domínios e campos de análise da inspeção das escolas</strong></u>
+</div>  
 
-Avaliação ex-post
-PR4.1. Avaliação final da evolução do território nos indicadores de desempenho educativo deve ser encarada como um ponto de partida para análises mais complexas
-As entidades deverão prestar contas, no final da execução do projeto, sobre a evolução do território nas metas contratualizadas. Olhar para os indicadores de desempenho educativo não traduzirá de forma completa e fiel o efeito dos planos, uma vez que certamente não serão a única medida de promoção do sucesso. A própria terminologia “indicadores de resultado”, adotada no quadro 2014-20, pode ser enganadora. Estes indicadores são, porém, essenciais para subsequentes ensaios de análises de correlação e causalidade mais sofisticadas. 
-PR4.2. Disseminação dos resultados através de eventos públicos e da comunicação institucional 
-O inquérito difundido no evento final permitiu identificar a divulgação do PIICIE como um dos elementos menos bem conseguidos da sua implementação. Deve, por isso, ser encetado um esforço de divulgação das ações e dos respetivos resultados junto de toda a comunidade educativa do território em questão, assim promovendo a visibilidade do cofinanciamento europeu na área da Educação e evitando o encerramento dos projetos nas “gavetas” das entidades beneficiárias e parceiras.
+Perante ações cujo sucesso depende de parcerias eficientes e lideranças capazes, poderá ser relevante mobilizar domínios da Liderança e Gestão para a monitorização dos planos de promoção do sucesso, quer nos seus resultados, quer nos indicadores propostos.  
 
-PR4.3. Retoma do processo de avaliação com distância temporal face ao fim do projeto, de modo a maximizar a captação de efeitos de longo prazo 
-Não é expectável que a política educativa introduza mudanças altamente disruptivas nem tampouco que os seus efeitos sejam imediatamente percetíveis. A aposta na implementação de um plano de promoção do sucesso junto de crianças do pré-escolar, por exemplo, terá efeitos de longo prazo que os processos de avaliação conduzidos logo após o término do projeto não conseguirão captar. A avaliação deve ser revisitada a médio prazo e, mais uma vez, assume relevância a recolha de dados longitudinais. 
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR3.3. Envolvimento dos agentes educativos na resposta periódica a inquéritos de aferição de preferências</strong></u>
+</div>  
+
+Várias entidades beneficiárias procuraram perceber a satisfação dos envolvidos nos PIICIE através de inquéritos ou de questões mais abertas. Crê-se que estes inquéritos podem ganhar em detalhe e, consequentemente, em utilidade para a melhoria da política.  
+
+<center><div id="hello" class="greeting message" style="color: darkorange;">
+  <strong>Avaliação ex-post</strong>
+</div></center>  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR4.1. Avaliação final da evolução do território nos indicadores de desempenho educativo deve ser encarada como um ponto de partida para análises mais complexas</strong></u>
+</div>  
+
+As entidades deverão prestar contas, no final da execução do projeto, sobre a evolução do território nas metas contratualizadas. Olhar para os indicadores de desempenho educativo não traduzirá de forma completa e fiel o efeito dos planos, uma vez que certamente não serão a única medida de promoção do sucesso. A própria terminologia “indicadores de resultado”, adotada no quadro 2014-20, pode ser enganadora. Estes indicadores são, porém, essenciais para subsequentes ensaios de análises de correlação e causalidade mais sofisticadas.  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR4.2. Disseminação dos resultados através de eventos públicos e da comunicação institucional</strong></u>
+</div>  
+ 
+O inquérito difundido no evento final permitiu identificar a divulgação do PIICIE como um dos elementos menos bem conseguidos da sua implementação. Deve, por isso, ser encetado um esforço de divulgação das ações e dos respetivos resultados junto de toda a comunidade educativa do território em questão, assim promovendo a visibilidade do cofinanciamento europeu na área da Educação e evitando o encerramento dos projetos nas “gavetas” das entidades beneficiárias e parceiras.  
+
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR4.3. Retoma do processo de avaliação com distância temporal face ao fim do projeto</strong></u>, de modo a maximizar a captação de efeitos de longo prazo
+</div>  
+
+Não é expectável que a política educativa introduza mudanças altamente disruptivas nem tampouco que os seus efeitos sejam imediatamente percetíveis. A aposta na implementação de um plano de promoção do sucesso junto de crianças do pré-escolar, por exemplo, terá efeitos de longo prazo que os processos de avaliação conduzidos logo após o término do projeto não conseguirão captar. A avaliação deve ser revisitada a médio prazo e, mais uma vez, assume relevância a recolha de dados longitudinais.  
 
 ## **Recomendações sobre a atuação das Comunidades Intermunicipais**  
 
-Antecipa-se que as Comunidades Intermunicipais venham a reforçar a sua atuação no combate ao insucesso escolar. O POR Norte para o período de programação 2021-2027 já se encontra a preparar os Planos Intermunicipais de Promoção do Sucesso Escolar (PIPSE), sucessores dos PIICIE (CCDR-Norte, 2022), tal como acontece na região Centro (CCDR-Centro, 2022). Tal alteração tornaria as CIM e a AMP as únicas entidades beneficiárias destas políticas cofinanciadas (tal como já acontecia na região Centro), numa transferência que aparenta reforçar as suas responsabilidades. Este caminho deve, no entanto, ser trilhado com a consciência dos desafios subjacentes. Ademais, partilhas informais fazem crer na continuidade dos planos municipais.
+Antecipa-se que as Comunidades Intermunicipais venham a reforçar a sua atuação no combate ao insucesso escolar. O POR Norte para o período de programação 2021-2027 já se encontra a preparar os Planos Intermunicipais de Promoção do Sucesso Escolar (PIPSE), sucessores dos PIICIE (CCDR-Norte, 2022), tal como acontece na região Centro (CCDR-Centro, 2022). Tal alteração tornaria as CIM e a AMP as únicas entidades beneficiárias destas políticas cofinanciadas (tal como já acontecia na região Centro), numa transferência que aparenta reforçar as suas responsabilidades. Este caminho deve, no entanto, ser trilhado com a consciência dos desafios subjacentes. Ademais, partilhas informais fazem crer na continuidade dos planos municipais.  
 
-PR5.1. Reflexão sobre a exequibilidade de eleição de representantes municipais que trabalhem em conjunto com as CIM na implementação dos planos  
-As CIM são, amiúde, acusadas de défice democrático, o que pode beliscar a sua legitimidade (Gendźwiłł & Lackowska, 2018). Nos últimos anos, a atribuição de renovadas competências às CIM, na área educativa, exigiu o reforço das redes de governança, assim garantindo a atuação conjunta de diferentes entidades políticas e atenuando as fragilidades que poderiam decorrer do estatuto das CIM. Um qualquer processo eletivo dos elementos das CIM, associado ao plano de promoção do sucesso, poderá aprofundar esta proximidade entre a CIM e as entidades educativas locais.
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR5.1. Reflexão sobre a exequibilidade de eleição de representantes municipais</strong></u> que trabalhem em conjunto com as CIM na implementação dos planos
+</div>  
+ 
+As CIM são, amiúde, acusadas de défice democrático, o que pode beliscar a sua legitimidade (Gendźwiłł & Lackowska, 2018). Nos últimos anos, a atribuição de renovadas competências às CIM, na área educativa, exigiu o reforço das redes de governança, assim garantindo a atuação conjunta de diferentes entidades políticas e atenuando as fragilidades que poderiam decorrer do estatuto das CIM. Um qualquer processo eletivo dos elementos das CIM, associado ao plano de promoção do sucesso, poderá aprofundar esta proximidade entre a CIM e as entidades educativas locais.  
 
-PR5.2. Avaliação dos meios (financeiros e Recursos Humanos) necessários para as várias fases dos planos intermunicipais 
-Alguns contactos formais e informais com entidades intermunicipais beneficiárias de PIICIE permitiram inferir a insuficiência de Recursos Humanos para gerir uma operação que requer um elevado grau de articulação e acompanhamento. Assim, considera-se essencial esta avaliação preliminar e a posterior mobilização de meios em conformidade (em articulação com a PR2.5). 
+<div id="hello" class="greeting message" style="color: darkblue;">
+  <u><strong>PR5.2. Avaliação dos meios (financeiros e Recursos Humanos) necessários para as várias fases dos planos intermunicipais</strong></u>
+</div>  
+
+Alguns contactos formais e informais com entidades intermunicipais beneficiárias de PIICIE permitiram inferir a insuficiência de Recursos Humanos para gerir uma operação que requer um elevado grau de articulação e acompanhamento. Assim, considera-se essencial esta avaliação preliminar e a posterior mobilização de meios em conformidade (em articulação com a PR2.5).  
