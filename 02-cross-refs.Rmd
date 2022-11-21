@@ -53,7 +53,7 @@ O relatório final do plano ‘EDUFEIR@ - Inovamos para o Sucesso’, elaborado 
 
 ### **Ação 1 - Equipa Multidisciplinar**
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura20.jpg)</center>  
+<center><img src="C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura20.jpg" alt="figura20" width="400"/></center>
 
 Foram desenvolvidos dois projetos: Sessões de acompanhamento de alunos com medidas adicionais[^11]  na EB Corga de Lobão e o Desafia-TE.  O primeiro projeto compreendia sessões quinzenais de orientação e suporte destes alunos, envolvendo atividades realizadas tanto em contexto escolar como no exterior. Realizaram-se atividades na área do desporto, da saúde e da cultura.  
 
@@ -63,20 +63,20 @@ O Projeto Desafia-TE conta com a colaboração dos agrupamentos de escolas do mu
 
 ### **Ação 2 – Vive as Férias**
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura21.jpg)</center> 
+<center><img src="C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura21.jpg" alt="figura21" width="400"/></center>
 
 Os programas VIVES ocorrem nos três períodos de férias letivas (na Páscoa, Verão e Natal) e têm duração de uma semana para cada grupo de alunos inscritos. Durante esta semana são realizadas atividades, principalmente nas áreas desportiva e cultural, que promovem a criatividade e a inovação, bem como o foco no desenvolvimento de competências individuais e de convivência. As planificações das atividades têm em consideração as idades e as particularidades de cada grupo de alunos.   
 
 ### **Ação 3 – Observatório de monitorização e apoio ao sucesso escolar**
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura22.jpg)</center> 
+<center><img src="C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura22.jpg" alt="figura22" width="400"/></center>
 
 O Observatório de Monitorização e Apoio ao Sucesso Escolar tinha como pretensões o acompanhamento das políticas educativas, a monitorização dos indicadores de níveis de sucesso e a sua correlação com dados socioeconómicos. A construção e atualização permanente desta ferramenta serviriam tanto os decisores políticos no planeamento municipal da educação, como a comunidade educativa e qualquer cidadão que aceda aos painéis públicos da plataforma. Uma adicional mais-valia do Observatório residiria na integração do sistema de informação de apoio ao sistema educativo, assim cruzando indicadores. Este projeto permitiria o reforço da tomada de decisão com base em evidências, assim como uma maior transparência e *accountability*.  
 
 
 ### **Ação 4 – Educação 5.0**
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura23.jpg)</center> 
+<center><img src="C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura23.jpg" alt="figura23" width="400"/></center>
 
 Esta ação desenvolveu três projetos: a plataforma digital Edufeira, aquisição de tablets e ações de capacitação. A plataforma Edufeira destina-se aos alunos do 1º CEB, professores e encarregados de educação e surge como um elemento facilitador de aprendizagem e de partilha de conhecimento, de forma a promover o trabalho colaborativo. Os conteúdos partilhados abrangem temáticas acerca do património de Santa Maria da Feira, cidadania, apoio ao estudo e atividades/desafios para fazer em família. Nos anos letivos 2019/20 e 2020/21, realizou-se o concurso “Olimpíadas do Património” para alunos de 3º e 4º ano, onde cada aluno participou individualmente, sendo apurada a melhor turma. Da 1ª fase resultaram nove turmas vencedoras, uma por cada agrupamento de escolas. Na fase final, as turmas apuradas competiram entre si e escolheu-se a vencedora consoante a pontuação adquirida.  
 
@@ -84,13 +84,13 @@ Associado a este projeto, o município adquiriu cerca de 1200 tablets para equip
 
 ### **Ação 5 – Hora de Programar**
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura24.jpg)</center> 
+<center><img src="C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura24.jpg" alt="figura24" width="400"/></center>
 
 No âmbito da ação Hora de Programar foram realizadas sessões quinzenais junto dos alunos de 1º, 2º e 3º CEB com o objetivo de desenvolver competências na área da tecnologia e da programação com o apoio dos professores. A realização de trabalhos escolares nestas sessões promoveu o trabalho em grupo e incentivou o relacionamento entre os alunos. Para além das sessões em contexto escolar, alguns dos alunos participaram no evento Robô Oeste e no Concurso nacional de programação "A Criar com *Scratch*!".  
 
 ### **Ação 6 – Hora de Experimentar **
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura25.jpg)</center> 
+<center><img src="C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura25.jpg" alt="figura25" width="400"/></center>
 
 A ação Hora de Experimentar foi realizada em quatro agrupamentos do município: Argoncilhe, Arrifana, Santa Maria da Feira e Coelho e Castro. Estes agrupamentos apostaram nas ciências experimentais e desenvolveram sessões quinzenais, onde os alunos têm espaço para fazer experiências científicas e explorar novos desafios. Esta ação promove o raciocínio e a cooperação entre os alunos, fazendo com que estes adquiram novas competências na área da ciência.  
 
