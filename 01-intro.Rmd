@@ -18,7 +18,7 @@ Em Santa Maria da Feira, cada uma das 6 ações compreendidas na operação cump
 
 Cada uma das ações do PIICIE de Santa Maria da Feira pode ser resumida através de uma palavra ou expressão, algumas remetendo para os princípios subjacentes, outras para os domínios temáticos:  
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura4.jpg)</center>
+<center>![FIGURA 6: Ações (6) cofinanciadas no âmbito do PIICIE do Município de Santa Maria da Feira - FONTE: GETIN-UA – Informação documental facultada pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura4.jpg)</center>
 
 Por outro lado, há ações que têm uma abrangência de público declaradamente alargada, como a Ação 2 – Vive as Férias ou, no limite, a Ação 3 – Observatório, cuja plataforma de consulta pública deveria ser visitada por todos os munícipes que assim desejassem. Por outro lado, a Ação 1 – Equipa Multidisciplinar compreende um rigoroso processo de seleção dos alunos a incluir nas atividades; a Ação 6 – Hora de Experimentar destina-se a alunos de apenas 4 dos 9 Agrupamentos de Escolas[^5].   Ficam fora desta análise as ações do PIICIE intermunicipal, promovido pela Área Metropolitana do Porto.  
 
@@ -36,26 +36,26 @@ O domínio do Capital Humano (expressão que reflete o espírito da Estratégia 
 
 Olhando apenas aos POR, à data de 31 de março de 2022, **os PIICIE eram a tipologia de operações dominante, em número de operações, na prioridade 10.1[^6] nas regiões Norte e Alentejo**. Por outro lado, no que às prioridades de investimento diz respeito, e também em número de operações nos POR, a PI 10.1 é a segunda mais dominante na região Norte e a primeira no Algarve. A PI 10.5, associada aos equipamentos educativos, e a única cofinanciada pelo Fundo Europeu de Desenvolvimento Regional (FEDER), acaba por ter maior destaque nas regiões do Continente, por via dos problemas infraestruturais de várias instituições.
 
-<center>![FIGURA 6: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento - FONTE: GETIN-UA – Projetos Aprovados nos PO Reginais, de acordo com a base de dados atualizada a 31/08/2021](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura6.jpg)</center> 
+<center>![FIGURA 7: Nº de Operações nos Programas Operacionais Regionais por Prioridade de Investimento - FONTE: GETIN-UA – Projetos Aprovados nos PO Reginais, de acordo com a base de dados atualizada a 31/08/2021](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura6.jpg)</center> 
 
 [^6]: Redução do abandono escolar precoce e promoção da igualdade de acesso a educação pré-escolar, ensino básico e secundário de boa qualidade, incluindo percursos de aprendizagem formais e não-formais para reintegração no ensino e na formação.  
 
 Olhando ao caso de estudo de Santa Maria da Feira, também a PI10.5 mobiliza um maior montante de fundo total aprovado, quando olhando apenas ao cofinanciamento enquadrado pelo POR Norte. Esta realidade feirense não se encontra totalmente alinhada com a tendência da AMP (não como entidade beneficiária, mas como unidade territorial), uma vez que, no que diz respeito ao financiamento enquadrado pelo POR Norte, a PI 10.2 (orientada para o Ensino Superior) acaba por ser mais dominante do que a PI 10.1. Sublinhe-se, no entanto, que na AMP a PI 10.1 apenas se circunscreve aos PIICIE, não havendo qualquer TEIP cofinanciado neste âmbito.  
 
-<center>![FIGURA 7: Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira e AMP no QFP 2014-2020, POR Norte - FONTE: GETIN-UA – Projetos Aprovados do PO Norte, de acordo com a base de dados atualizada a 31/08/2021](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura7.jpg)</center> 
+<center>![FIGURA :8 Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira e AMP no QFP 2014-2020, POR Norte - FONTE: GETIN-UA – Projetos Aprovados do PO Norte, de acordo com a base de dados atualizada a 31/08/2021](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura7.jpg)</center> 
 
 Nos cofinanciamentos por via do POCH, as tendências são semelhantes no território do município de estudo (Santa Maria da Feira) e da respetiva NUTS III (AMP). Ao nível deste programa de financiamento, ganha maior destaque a PI 10.4, evidenciando a relevância da formação profissional no território.[^7]
 
-<center>![FIGURA 8: Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira e AMP no QFP 2014-2020, POCH - FONTE: GETIN-UA – Projetos Aprovados do POCH, de acordo com a base de dados atualizada a 31/08/2021](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura8.jpg)</center>  
+<center>![FIGURA 9: Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira e AMP no QFP 2014-2020, POCH - FONTE: GETIN-UA – Projetos Aprovados do POCH, de acordo com a base de dados atualizada a 31/08/2021](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura8.jpg)</center>  
 
-[^7]: Para consulta das operações aprovadas, consultar o <mark>Anexo IV</mark>.
+[^7]: Para consulta das operações aprovadas, consultar o Anexo IV.
 Importa sublinhar que, embora tematicamente semelhantes, as Prioridades de Investimento (PI) apresentam diferenças ao nível dos PO Regionais e do POCH.
 
 No âmbito do POR Norte, o cofinanciamento destinado a entidades de Santa Maria da Feira (4 378 284,80€) totaliza 3% do montante total da AMP (143 160 673,82€), enquanto no contexto do POCH esta proporção é de 4% (volume de 23 202 113,43€ mobilizado por Santa Maria da Feira no total da AMP que ascende a 619 559 890,53€).  
 
 Voltando ao contexto dos **PIICIE**, permita-se reiterar dois pontos: i) o seu peculiar modelo de governação, uma vez que estes são a **única operação cofinanciada do OT 10 em que as comunidades intermunicipais podem ser entidades beneficiárias** (tal como os municípios e, em excecionais casos, Agrupamentos de Escolas e até centros de formação), no âmbito dos Pactos para o Desenvolvimento e Coesão Territorial (PDCT); e ii) a clara aposta da região Norte nesta tipologia de operação cofinanciada. As operações implementadas na Região Norte têm uma taxa de cofinanciamento até 85%[^8].  
 
-[^8]: Consultar <mark>Anexo V</mark>.
+[^8]: Consultar Anexo V.
 
 Seguidamente, é apresentado um dos painéis integrados no capítulo I, de caracterização do panorama educativo nacional, que visa ilustrar a distribuição do investimento ao nível dos programas PIICIE nos diferentes territórios de Portugal Continental. Este painel permite a leitura espacializada dos valores do cofinanciamento em duas dimensões – à escala das NUTSIII e à escala dos municípios – as duas tipologias de entidades beneficiárias do programa. De acordo com a informação de base que foi utilizada, atualizada até agosto de 2021, e que inclui valores do fundo aprovado de operações PIICIE entre 2016 e 2020, observa-se que o total de recursos atribuídos a comunidades intermunicipais perfaz 46,98 milhões de euros (M/€), enquanto a verba destinada aos 131 municípios beneficiários totaliza 52,41 M/€.  
 
@@ -63,7 +63,7 @@ No gráfico da esquerda, integrado no painel do cofinanciamento, é possível pe
 
 O critério utilizado na criação dos mapas foi o dos quartis – Q1, Q2, Q3 e Q4 – numa escala crescente. Territórios do mapa no Q1 mostram os municípios que terão recebido menos recursos de forma proporcional ao número de crianças e jovens a frequentar desde a educação pré-escolar ao ensino secundário, enquanto no Q4 estão aqueles com maior volume de cofinanciamento. O município de SMF está no Q4, nos três níveis.  
 
-<center>![FIGURA 9: Capítulo I – Caracterização do panorama educativo nacional: Painel do Mapeamento do cofinanciamento dos PIICIE, Portugal Continental e Região Norte, 2016-2020 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura37.jpg)</center>
+<center>![FIGURA 10: Capítulo I – Caracterização do panorama educativo nacional: Painel do Mapeamento do cofinanciamento dos PIICIE, Portugal Continental e Região Norte, 2016-2020 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura37.jpg)</center>
 
 ## **Tendências e padrões**
 
@@ -79,11 +79,11 @@ A título ilustrativo, a análise de similaridades dos dados abaixo apresentados
 
 * ii)	Já na agregação que considera o indicador de cofinanciamento, a TRD e a equidade ***(similaridade 2)***, percebe-se que o *cluster* 4, onde a TRD é alta, os níveis de cofinanciamento médios e a equidade mais baixa, se distancia bastante dos restantes grupos. Aqui SMF surge no ***cluster 3***, conjunto formado por municípios com equidade e cofinanciamento altos e baixas TRD.
 
-<center>![FIGURA 10: Capítulo I – Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Básico Agregado, 2019/20 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura38.jpg)</center>
+<center>![FIGURA 11: Capítulo I – Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Básico Agregado, 2019/20 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura38.jpg)</center>
 
 Um outro exemplo de aplicação deste tipo de análise, centra-se no comportamento das variáveis relativas ao ensino secundário em cursos CCH, também para 2019/2020. No que ao município de SMF diz respeito, é possível observar, na figura seguinte, que este faz parte do ***cluster 1***, numa zona de transição da TRD (de baixa para alta TRD), alta equidade e baixo número de alunos face aos valores médios nacionais ***(similaridade 1)***. Por outro lado, ao cruzar os indicadores de cofinanciamento, equidade e TRD, verifica-se que o município de SMF passa a integrar o ***cluster 2***, com altas TRD, cofinanciamento médio e baixa equidade ***(similaridade 2)***.
 
-<center>![FIGURA 11: Capítulo I – Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Secundário de CCH, 2019/20 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura39.jpg)</center>
+<center>![FIGURA 12: Capítulo I – Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Secundário de CCH, 2019/20 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura39.jpg)</center>
 
 Ao centrar a análise nos principais indicadores de desempenho escolar dos editais de candidatura dos PIICIE, TNN e TRD, é interessar observar e confrontar o respetivo comportamento ao longo do tempo. Uma primeira leitura é possível com recurso aos diagramas *boxplots*, que permitem a comparação de ambas as taxas nos municípios da AMP. Os diagramas mostram ser particularmente úteis na fase exploratória do processo analítico-descritivo dos indicadores. Para além de apresentarem o menor e maior valores observados, permitem dividir cada grupo de dados (relativos a cada município) em quartis e fazer uma leitura comparada entre os grupos. Possibilitam ainda a identificação imediata de valores discrepantes do conjunto total de dados (chamados de *outliers* e que aparecem sinalizados a vermelho).  
 
@@ -93,19 +93,19 @@ Na figura seguinte é possível analisar as TNN médias e as TRD médias, calcul
 
 Da análise das TNN médias, destaca-se o município do Porto com a maior amplitude no 2º e 3º CEB e, em contraposição, o município da Trofa. Ao nível das TRD, as diferenças de amplitude são menos percetíveis nuns níveis de ensino face a outros, embora o Porto mantenha a maior amplitude de dados. Não obstante, nem sempre o território que reúne os dados mais discrepantes é aquele que apresenta as taxas médias mais elevadas, em ambas as taxas. A figura assinala com **X** os municípios com TNN e TRD médias mais elevadas.  
 
-<center>![FIGURA 12: TNN médias e TRD médias para os 17 municípios da AMP - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura40.jpg)</center>
+<center>![FIGURA 13: TNN médias e TRD médias para os 17 municípios da AMP - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura40.jpg)</center>
 
 Complementarmente, ao analisar os gráficos seguintes, que traduzem o contexto da AMP percebe-se que, tanto a TNN, como a TRD, diminuíram gradualmente ao longo da série temporal. Embora a tendência de diminuição seja notória nos diferentes níveis de ensino, partem de limiares distintos, verificando-se no caso das TNN que o 3º CEB ocupa um patamar claramente superior face ao 2CEB permanecendo bem acima no último ano letivo de análise e, no caso das TRD que os valores do 1º CEB estão naturalmente mais estabilizados ao passo que os do Secundário ainda refletem níveis de retenção expressivos.  
 
-<center>![FIGURA 13: TNN 2014/15-2019/20 e TRD 2014/15-2018/19 para os 17 municípios da AMP - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura41.jpg)</center>  
+<center>![FIGURA 14: TNN 2014/15-2019/20 e TRD 2014/15-2018/19 para os 17 municípios da AMP - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura41.jpg)</center>  
 
 Através do painel seguinte, é possível detalhar a análise das TNN e das TRD para os municípios da AMP, com desagregação até ao nível da escola (apenas são apresentados valores para escolas púbicas). Enquanto as TNN estão disponíveis para o 2º e 3º CEB, as TRD permitem uma digressão pelos quatro níveis de ensino. Os mapeamentos destacam a TNN e a TRD média no município de SMF (de 2014/15 a 2019/20 e de 2014/15 a 2018/19, respetivamente). Dados específicos do contexto de SMF mostram uma redução de 26,8% da TNN (de 43,6% em 2014/15 para 16,8% em 2019/20) e de 3,0% da TRD (de 5,9% para 2,9% em 2018/19). 
 
-<center>![FIGURA 14: Capítulo II – Caracterização do panorama educativo regional: TNN e TRD para os 17 municípios da AMP - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura42.jpg)</center>
+<center>![FIGURA 15: Capítulo II – Caracterização do panorama educativo regional: TNN e TRD para os 17 municípios da AMP - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura42.jpg)</center>
 
 Para além da análise ao nível da AMP, a ferramenta permite também monitorizar as TNN e TRD registadas nas escolas públicas dos 9 AE de SMF, para os anos letivos das respetivas séries temporais.  
 
-<center>![FIGURA 15: Capítulo II – Caracterização do panorama educativo local: TNN e TRD para o município de SMF - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura43.jpg)</center>
+<center>![FIGURA 16: Capítulo II – Caracterização do panorama educativo local: TNN e TRD para o município de SMF - FONTE: Dados facultados pelo município de SMF, por sua vez fornecidos pela AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura43.jpg)</center>
 
 Apesar do comportamento semelhante, a análise exige olhares distintos para a TRD e para a TNN. Esta última tende a apresentar valores claramente superiores, uma vez que compreende os alunos que, com apenas uma negativa a uma disciplina, transitam de ano. A TRD inclui um grupo (infelizmente) mais seleto de alunos: aqueles que, somados os níveis negativos, não reuniam condições para a transição ou que desistem do ensino. Não obstante a tendência de diminuição, importa vigiar ambas as taxas, esperando-se que reflitam o impacto da conjuntura pandémica nas aprendizagens.  
 
@@ -143,22 +143,22 @@ Ainda que o comportamento da TRD no município de SMF nos diferentes níveis de 
 
 <center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura45.jpg)</center>  
 
-<center>![FIGURA 16: Diagramas de dispersão de Moran, mapas LISA e mapas de ajustamento da TRD por nível de ensino - FONTE: GETIN-UA – Outputs gerados no software Python](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura46.jpg)</center>  
+<center>![FIGURA 17: Diagramas de dispersão de Moran, mapas LISA e mapas de ajustamento da TRD por nível de ensino - FONTE: GETIN-UA – Outputs gerados no software Python](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura46.jpg)</center>  
 
 Com o intuito de dar continuidade e robustecer a análise anterior, foram trabalhadas e integradas variáveis adicionais de caracterização educativa e socioeconómica, acreditando que a avaliação da existência de correlações entre elas pudesse contribuir para a identificação de possíveis fatores de influência da TRD nos diferentes níveis de ensino. A matriz de autocorrelação que se segue, entre TDR e variáveis assumidas como independentes/explicativas, pretende assim contribuir para este exercício.  
 
-<center>![FIGURA 17: Matriz de correlação entre as TRD e as variáveis explicativas - FONTE: GETIN-UA – Outputs gerados no software Python / Origem dos dados: DGEEC, Infoescolas, Pordata](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura47.jpg)</center>  
+<center>![FIGURA 18: Matriz de correlação entre as TRD e as variáveis explicativas - FONTE: GETIN-UA – Outputs gerados no software Python / Origem dos dados: DGEEC, Infoescolas, Pordata](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura47.jpg)</center>  
 
 Por observação da matriz, é possível destacar algumas mensagens acerca da influência das variáveis independentes sobre as TRD, de entre as quais se destacam as seguintes:  
 
-**1.**	Em todos os níveis de ensino, as TRD (TRD_1CEB, TRD_2CEB, TRD_3CEB, TRD_SEC) apresentam uma **correlação positiva** com a densidade populacional e o poder de compra per capita (***azul petróleo médio***); <mark>acredita-se que esta relação poderá ser explicada pelo facto de territórios mais densamente povoados tenderem a incorporar o efeito gerado por assimetrias territoriais;</mark> 
+**1.**	Em todos os níveis de ensino, as TRD (TRD_1CEB, TRD_2CEB, TRD_3CEB, TRD_SEC) apresentam uma **correlação positiva** com a densidade populacional e o poder de compra per capita (***azul petróleo médio***); acredita-se que esta relação poderá ser explicada pelo facto de territórios mais densamente povoados tenderem a incorporar o efeito gerado por assimetrias territoriais;
 
-**2.**	A **correlação positiva forte** estabelecida entre as TRD de níveis intermédios e avançados (TRD_2CEB, TRD_3CEB, TRD_SEC) (***azul petróleo escuro***); <mark>as interdependências entre as TRD a partir do 2ºCEB sugerem alguma influência que poderá decorrer de fragilidades não ultrapassadas pelos alunos neste nível e comprometer a sequencialidade do percurso educativo e formativo no tempo esperado;</mark>  
+**2.**	A **correlação positiva forte** estabelecida entre as TRD de níveis intermédios e avançados (TRD_2CEB, TRD_3CEB, TRD_SEC) (***azul petróleo escuro***); as interdependências entre as TRD a partir do 2ºCEB sugerem alguma influência que poderá decorrer de fragilidades não ultrapassadas pelos alunos neste nível e comprometer a sequencialidade do percurso educativo e formativo no tempo esperado; 
 
-**3.**	Entre as TRD dos ciclos do ensino básico (1º, 2º e 3º) e a % de estabelecimentos de ensino com 1ºCEB verifica-se, também, uma **correlação positiva** (***azul petróleo médio***); <mark>o que poderá indiciar que um maior número de escolas de pequena dimensão no primeiro nível de ensino nem sempre poderá desencadear melhores níveis de desempenho escolar na prossecução e conclusão do ensino básico;</mark> 
+**3.**	Entre as TRD dos ciclos do ensino básico (1º, 2º e 3º) e a % de estabelecimentos de ensino com 1ºCEB verifica-se, também, uma **correlação positiva** (***azul petróleo médio***); o que poderá indiciar que um maior número de escolas de pequena dimensão no primeiro nível de ensino nem sempre poderá desencadear melhores níveis de desempenho escolar na prossecução e conclusão do ensino básico;
 
-**4.**	As TRD do 2ºCEB, 3ºCEB e Secundário estabelecem uma **correlação positiva** com a % de alunos com ASE que concluíram o 2ºCEB em 2 anos (***azul petróleo médio***), enquanto a sua combinação com a % de alunos com ASE que concluíram o 3ºCEB e o Secundário no tempo esperado traduzem uma **correlação negativa forte** (***vermelho escuro***); <mark>estes resultados exploratórios sugerem que o 2ºCEB poderá constituir um patamar de clivagem entre progressão vs retenção na escada de qualificações;</mark> 
+**4.**	As TRD do 2ºCEB, 3ºCEB e Secundário estabelecem uma **correlação positiva** com a % de alunos com ASE que concluíram o 2ºCEB em 2 anos (***azul petróleo médio***), enquanto a sua combinação com a % de alunos com ASE que concluíram o 3ºCEB e o Secundário no tempo esperado traduzem uma **correlação negativa forte** (***vermelho escuro***); estes resultados exploratórios sugerem que o 2ºCEB poderá constituir um patamar de clivagem entre progressão vs retenção na escada de qualificações; 
 
-**5.**	Complementarmente, observa-se que a TRD do 2ºCEB, 3ºCEB e Secundário estabelece uma **correlação positiva** com a equidade no 2ºCEB (***azul petróleo médio***), ao passo que no 3ºCEB e Secundário essa **correlação é negativa forte** (***vermelho escuro***); <mark>por outras palavras, se maiores níveis de equidade acabam por ser determinantes no sucesso escolar dos alunos no 3ºCEB e Secundário, ao nível do 2ºCEB isso não se verifica, reforçando a mensagem do ponto anterior.</mark>
+**5.**	Complementarmente, observa-se que a TRD do 2ºCEB, 3ºCEB e Secundário estabelece uma **correlação positiva** com a equidade no 2ºCEB (***azul petróleo médio***), ao passo que no 3ºCEB e Secundário essa **correlação é negativa forte** (***vermelho escuro***); por outras palavras, se maiores níveis de equidade acabam por ser determinantes no sucesso escolar dos alunos no 3ºCEB e Secundário, ao nível do 2ºCEB isso não se verifica, reforçando a mensagem do ponto anterior.
 
 <center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura48.jpg)</center> 
