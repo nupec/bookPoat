@@ -42,7 +42,7 @@ Gaspar de Matos, M., Branquinho, C., Noronha, C., Moraes, B., Santos, O., Carval
 
 Gendźwiłł, A., & Lackowska, M. (2018). A Borrowed Mandate? Democratic Legitimacy of Inter-municipal Entities: A Comparative Analysis. In F. Teles & P. Swianiewicz (Eds.), Inter-Municipal Cooperation in Europe (pp. 57–77). Palgrave Macmillan. https://doi.org/10.1007/978-3-319-62819-6  
 
-IESE, ISCTE, & PPLL Consult. (2021). Avaliação do Contributo do PT2020 para a Promoção do Sucesso Educativo, Redução do Abandono Escolar Precoce e Empregabilidade dos Jovens. https://doi.org/10.38116/bapi25  
+IESE, ISCTE, & PPLL Consult. (2021). Avaliação do Contributo do PT2020 para a Promoção do Sucesso Educativo, Redução do Abandono Escolar Precoce e Empregabilidade dos Jovens.   
 
 INE. (2021). População residente (N.o) por Local de residência, Sexo e Níveis de ensino; Decenal - INE, Recenseamento da população e habitação - Censos 2021. Obtido em 23 de agosto de 2022, de https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0011168&xlang=pt  
 
@@ -60,7 +60,8 @@ Marques, J. L., Neves, R., Grifo, A., Duarte, J., Malta, J., Sousa, M. P., & San
 
 Marques, J. L., Wolf, J., Borges, M., & Batista, P. (2020). Sistemas de apoio à decisão em planeamento: desafios metodológicos e conceptuais. TPU: Território, Planeamento e Urbanismo: Teoria e Prática, 2, 52–79. https://doi.org/10.34624/TPU.V0I2.23720  
 
-Microsoft Power, B. I. Versão: 2.109.844.0 64-bit (setembro de 2022)
+Microsoft Power, B. I. Versão: 2.109.844.0 64-bit (setembro de 2022)  
+
 Ministério da Educação, & Inspeção-Geral da Educação (IGE). (2010). Quadro de referência para a avaliação de escolas e agrupamentos de escolas. Obtido em 23 de agosto de 2022, de https://www.igec.mec.pt/upload/AEE_2011/AEE_10_11_Quadro_Referencia.pdf  
 
 Ministério da Educação. (2011). Propostas para um novo ciclo de avaliação externa de escolas, Relatório Final, Grupo de Trabalho para a Avaliação Externa das Escolas 2011. Obtido em 23 de agosto de 2022, https://www.igec.mec.pt/upload/AEE2_2011/AEE2_GT_2011_RELATORIO_FINAL.pdf  
@@ -79,7 +80,7 @@ R Core Team (2022). R: A language and environment   for statistical computing. R
 
 Santos, S., Duarte, J. & Marques, J. L. (2019). Quadro de referência aplicado aos instrumentos de gestão da rede e da política educativa à escala local. Revista de Desarrollo Sustentable, Negocios, Emprendimiento y Educación, 1(1), 1–19.  
 
-The Educational Institute of Scotland (EIS). (2019). Education Scotland Inspections. Obtido de 23 de agosto de 2022, de  [https://education.gov.scot/](https://education.gov.scot/education-scotland/what-we-do/inspection-and-review/standards-and-evaluation-framework/08-what-do-we-focus-on-during-inspection-and-review/#:~:text=We%20take%20into%20account%20the,the%20capacity%20for%20continuous%20improvement)  
+The Educational Institute of Scotland (EIS). (2019). Education Scotland Inspections. Obtido de 23 de agosto de 2022, de  [https://education.gov.scot/education-scotland/what-we-do/inspection-and-review/standards-and-evaluation-framework/08-what-do-we-focus-on-during-inspection-and-review/#:~:text=We%20take%20into%20account%20the,the%20capacity%20for%20continuous%20improvement](https://education.gov.scot/education-scotland/what-we-do/inspection-and-review/standards-and-evaluation-framework/08-what-do-we-focus-on-during-inspection-and-review/#:~:text=We%20take%20into%20account%20the,the%20capacity%20for%20continuous%20improvement)  
 
 Verdasca, J. (2020). Contributos para o desenvolvimento de um sistema de auto e multirregulação educativa. Revista Portuguesa de Investigação Educacional, n.o Especial, 111–143. https://doi.org/10.34632/investigacaoeducacional.2020.8503  
 

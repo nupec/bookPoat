@@ -71,7 +71,7 @@
 \urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={Monitorização dos PIICIE: uma proposta de avaliação para além da parametrização do sucesso},
-  pdfauthor={Universidade de Aveiro},
+  pdfauthor={RELATÓRIO FINAL},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
@@ -83,8 +83,8 @@
 }
 \makeatother
 \subtitle{Financiado pelo Programa Operacional de Assistência Técnica (POAT) 2020, código do projeto POAT-01-6177-FEDER-000053}
-\author{Universidade de Aveiro}
-\date{15 de outubro de 2021 -- 14 de outubro de 2022}
+\author{RELATÓRIO FINAL}
+\date{12 de dezembro de 2022}
 
 \begin{document}
 \maketitle
@@ -176,7 +176,7 @@ Na etapa de tratamento e análise de dados, que precede a construção dos \emph
 \begin{figure}
 \centering
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/Imagem2.jpg}
-\caption{FIGURA 2: O ciclo da Ciência dos Dados - FONTE: Baseado em Wickham e Grolemund (2019)}
+\caption{FIGURA 2: O ciclo da Ciência dos Dados - FONTE: Adaptado de Wickham e Grolemund (2019)}
 \end{figure}
 
 A figura anterior apresenta as etapas dos processos de recolha, tratamento e análise de dados nacionais sobre o (in)sucesso escolar, numa perspetiva de utilização das ferramentas computacionais de maneira intercooperativa e multiplataforma. Grande parte dos dados disponibilizados para a análise estavam distribuídos em diversas plataformas eletrónicas, diferentes suportes de armazenamento de dados e estruturas de dados também elas distintas (fazer referência às mais importantes). Este formato não se mostrou ser o ideal para os objetivos do projeto, colocando desafios em diferentes etapas da sua concretização. Foi necessário um esforço adicional no tratamento de dados, de modo a transformá-los numa estrutura triangular, tanto para a construção de \emph{dashboards}, quanto para a modelação matemática proposta.
@@ -192,10 +192,9 @@ O diagnóstico de tendências e padrões ao nível do sucesso escolar foi desenv
 
 O capítulo I desenvolve-se em torno do mapeamento do indicador de cofinanciamento (1º painel) e de uma análise de similaridades, que combina indicadores gerais de resultado com outros indicadores de caracterização socioeducativa relevantes na definição de clusters territoriais (2º painel).
 
-O indicador de cofinanciamento foi incorporado no modelo seguindo critérios de distribuição dos recursos em M/€ correspondentes às operações PIICIE aprovadas, intermunicipais e municipais. Neste exercício foram considerados os valores alocados diretamente aos municípios, juntamente com o resultado do rácio dos recursos intermunicipais (NUTSIII). A incorporação no modelo segue a proporcionalidade de alunos em cada nível de ensino.
+O indicador de cofinanciamento foi incorporado no modelo seguindo critérios de distribuição dos recursos em M/€ correspondentes às operações PIICIE aprovadas, intermunicipais e municipais. Neste exercício foram considerados os valores alocados diretamente aos municípios, juntamente com o resultado do rácio dos recursos intermunicipais (NUTSIII). A incorporação no modelo segue a proporcionalidade de alunos em cada nível de ensino, incluindo a educação pré-escolar.
 
-Já a análise de similaridades, ou de agrupamento, permitiu formar clusters territoriais, que decorrem do reconhecimento de semelhanças entre municípios de Portugal Continental, recorrendo até 4 indicadores de 2017/18 a 2019/20: i) total de alunos, ii) média das taxas de retenção e desistência (TRD), iii) equidade\footnote{\textbf{Indicador de Equidade} -- ``Diferença entre a \% de conclusão no tempo esperado na região e a média nacional comparável, em pontos percentuais.'' A média nacional ``é calculada com os alunos do país que, ao entrarem no 3.º ciclo, tinham um perfil semelhante ao dos alunos da região, em termos de apoios ASE, idade à entrada no ciclo, habilitação da mãe e categoria da escola frequentada relativamente à percentagem de alunos com apoio ASE. O objetivo é enquadrar os resultados dos alunos com apoio ASE na região com uma média nacional apropriada.'' Fonte: PORTAL INFOESCOLAS / Produção dos indicadores: DGEEC/Medu. \url{https://infoescolas.medu.pt/bds.asp}} e iv) rácio entre cofinanciamento de operações PIICIE e total de alunos do ensino básico, ensino secundário em cursos científico-humanísticos (CCH) e em cursos profissionais\footnote{\textbf{Indicador de Equidade} - ``Diferença entre a \% de conclusão no tempo esperado na região e a média nacional comparável, em pontos percentuais.'' A média nacional ``é calculada com os alunos do país que, ao entrarem no 3.º ciclo, tinham um perfil semelhante ao dos alunos da região, em termos de apoios ASE, idade à entrada no ciclo, habilitação da mãe e categoria da escola frequentada relativamente à percentagem de alunos com apoio ASE. O objetivo é enquadrar os resultados dos alunos com apoio ASE na região com uma média nacional apropriada.''\\
-  \textbf{Fonte:} PORTAL INFOESCOLAS / Produção dos indicadores: DGEEC/Medu. \url{https://infoescolas.medu.pt/bds.asp}} (Prof.). Duas análises de similaridade foram realizadas, com representações gráficas que permitem confrontar as diferenças ao nível da formação dos \emph{clusters}: a \textbf{similaridade 1}que considera o total de alunos (eixo dos YY), a TRD (eixo dos XX) e a equidade (diâmetro dos círculos); e a \textbf{similaridade 2}, que inclui indicadores de cofinanciamento (eixo dos YY), TRD (eixo dos XX) e equidade (diâmetro dos círculos).
+Já a análise de similaridades, ou de agrupamento, permitiu formar \emph{clusters} territoriais, que decorrem do reconhecimento de semelhanças entre municípios de Portugal Continental, recorrendo até 4 indicadores de 2017/18 a 2019/20: i) total de alunos, ii) média das taxas de retenção e desistência (TRD), iii) equidade\footnote{\textbf{Indicador de Equidade} -- O indicador de equidade pode assumir valores negativos, motivo pelo qual o eixo dos YY inclui valores \textless{} 0. ``Diferença entre a \% de conclusão no tempo esperado na região e a média nacional comparável, em pontos percentuais.'' A média nacional ``é calculada com os alunos do país que, ao entrarem no 3.º ciclo, tinham um perfil semelhante ao dos alunos da região, em termos de apoios ASE, idade à entrada no ciclo, habilitação da mãe e categoria da escola frequentada relativamente à percentagem de alunos com apoio ASE. O objetivo é enquadrar os resultados dos alunos com apoio ASE na região com uma média nacional apropriada.'' Fonte: PORTAL INFOESCOLAS / Produção dos indicadores: DGEEC/Medu. \url{https://infoescolas.medu.pt/bds.asp}} e iv) rácio entre cofinanciamento de operações PIICIE e total de alunos do ensino básico, ensino secundário em cursos científico-humanísticos (CCH) e em cursos profissionais\footnote{\textbf{Indicador do Rácio entre financiamento PIICIE e Alunos Inscritos por níveis de ensino} -- Nos valores de cofinanciamento, é considerado o fundo total aprovado em €, de 2016 a 2020. Este indicador foi calculado pela equipa. \textbf{Fonte:} Financiamento PIICIE -- Projetos Aprovados nos PO Reginais, de acordo com a base de dados atualizada a 31/08/2021 / Alunos Inscritos por níveis de ensino -- DGEEC.} (Prof.). Duas análises de similaridade foram realizadas, com representações gráficas que permitem confrontar as diferenças ao nível da formação dos \emph{clusters}: a \textbf{similaridade 1}que considera o total de alunos (eixo dos YY), a TRD (eixo dos XX) e a equidade (diâmetro dos círculos); e a \textbf{similaridade 2}, que inclui indicadores de cofinanciamento (eixo dos YY), TRD (eixo dos XX) e equidade (diâmetro dos círculos).
 
 A análise de similaridades pode ser entendida como um processo que permite descobrir relações existentes entre os exemplares de um conjunto de dados descritos por uma série de características (atributos descritivos). As análises realizadas pelos algoritmos que implementam estratégias para agrupamento procuram por similaridades ou diferenças entre exemplares, qualificadas através de medidas de distância (quanto menor for a distância entre dois exemplares, maior será a similaridade). Assim, exemplares similares serão associados a um mesmo grupo e exemplares dissimilares a grupos diferentes. No final de um algoritmo de agrupamento, uma estrutura será formada de maneira a que a similaridade intragrupos tenha sido maximizada e a similaridade intergrupos minimizada. Este estudo utiliza o \emph{k-means}, que agrupa os dados em grupos de variância igual em relação aos pontos médios, chamados centróides (Silva, Peres e Boscarioli, 2021 \& Sampaio, 2018).
 
@@ -262,7 +261,7 @@ Na matriz k-vizinhos define-se exatamente o número de vizinhos mais próximos d
 \hypertarget{momentos-de-contacto-e-disseminauxe7uxe3o-do-projeto}{%
 \subsection{\texorpdfstring{\textbf{Momentos de contacto e disseminação do projeto}}{Momentos de contacto e disseminação do projeto}}\label{momentos-de-contacto-e-disseminauxe7uxe3o-do-projeto}}
 
-A proximidade com a autarquia de Santa Maria da Feira revelou-se essencial para a execução do projeto. Por outro lado, reunir com frequência a equipa alargada do projeto foi também assumida como uma prioridade. A apresentação de peças do projeto em eventos científicos coincide, também, com momentos intercalares de divulgação dos resultados. Por último, a sessão pública de apresentação e disseminação do projeto, indicador central na candidatura, representa o culminar do projeto e dos momentos de contacto com os agentes. Seguindo a estrutura e terminologia propostas na Memória Descritiva da candidatura, apresentam-se os vários momentos correspondentes a indicadores da operação, explicitados no Anexo II.
+A proximidade com a autarquia de Santa Maria da Feira revelou-se essencial para a execução do projeto. Por outro lado, reunir com frequência a equipa alargada do projeto foi assumida como uma prioridade. A apresentação de peças do projeto em eventos científicos coincide, também, com momentos intercalares de divulgação dos resultados. Por último, a sessão pública de apresentação e disseminação do projeto, indicador central na candidatura, representa o culminar do projeto e dos momentos de contacto com os agentes. Seguindo a estrutura e terminologia propostas na Memória Descritiva da candidatura, apresentam-se os vários momentos correspondentes a indicadores da operação, explicitados no Anexo II.
 
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/figura29.jpg}
 
@@ -300,7 +299,7 @@ Em Portugal, importará destacar a Avaliação Integrada das Escolas realizada p
 
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/figura33.jpg}
 
-De acordo com a literatura, podem identificar-se duas tipologias ao nível dos sistemas inspetivos: uma ligada à \emph{soft governance} e outra à \emph{hard governance} (Alonso, Fernández, Lastra, 2003; Clarke, Ozga, 2011; \emph{apud} Carvalho \& Joana, 2020, p.~31). Enquanto a primeira visa, principalmente, acompanhar e contribuir para melhorias incrementais nas organizações escolares ajustadas às suas características e necessidades (e.g.~sistema inspetivo português), a segunda tem subjacentes alguns princípios de punição e pode estar associada a modelos de inspeção escolar \emph{risk-based}, onde são privilegiadas as visitas a escolas com baixos resultados escolares (e.g.~sistema inspetivo holandês) (Carvalho \& Joana, 2020; Ehren \& Shackleton, 2016). Em inspeções soft governance existirá lugar para a avaliação de práticas e processos embora os níveis de desempenho também sejam avaliados, ao passo que nas inspeções \emph{hard governance}, essencialmente, é dada primazia à avaliação de resultados. Ainda que o sistema inspetivo português se situe no domínio da \emph{soft governance}, a execução de fundos europeus (na Educação e noutras áreas) requer um sistema de monitorização operacional com ``enorme enfoque na orientação para os resultados'' (Agência para o Desenvolvimento e Coesão, n.d.)
+De acordo com a literatura, podem identificar-se duas tipologias ao nível dos sistemas inspetivos: uma ligada à \emph{soft governance} e outra à \emph{hard governance} (Clarke, Ozga, 2011; \emph{apud} Carvalho \& Joana, 2020, p.~31). Enquanto a primeira visa, principalmente, acompanhar e contribuir para melhorias incrementais nas organizações escolares ajustadas às suas características e necessidades (e.g.~sistema inspetivo português), a segunda tem subjacentes alguns princípios de punição e pode estar associada a modelos de inspeção escolar \emph{risk-based}, onde são privilegiadas as visitas a escolas com baixos resultados escolares (e.g.~sistema inspetivo holandês) (Carvalho \& Joana, 2020; Ehren \& Shackleton, 2016). Em inspeções soft governance existirá lugar para a avaliação de práticas e processos embora os níveis de desempenho também sejam avaliados, ao passo que nas inspeções \emph{hard governance}, essencialmente, é dada primazia à avaliação de resultados. Ainda que o sistema inspetivo português se situe no domínio da \emph{soft governance}, a execução de fundos europeus (na Educação e noutras áreas) requer um sistema de monitorização operacional com ``enorme enfoque na orientação para os resultados'' (Agência para o Desenvolvimento e Coesão, n.d.)
 
 A definição de indicadores para avaliar as escolas em Portugal (e.g.~indicadores de alinhamento face a orientações e diretivas, indicadores processuais e de contexto e indicadores de proficiência dos alunos) (Carvalho \& Joana, 2020), assim como a publicação de relatórios com os aspetos a melhorar, têm inspirado a monitorização de possíveis fatores de influência da qualidade do sistema educativo que extravasam a esfera da escola enquanto organização. Assim, alguns dos princípios da inspeção das escolas são transferidos para as crescentes práticas de avaliação e monitorização de políticas educativas, formuladas e implementadas pelas várias escalas da governação (nacional, intermunicipal ou local), com competência para tal. Só no último ano, este esforço concretizou-se, por exemplo, nas seguintes práticas e instrumentos:
 
@@ -322,7 +321,7 @@ A melhoria continua destas práticas, para além da mera atualização de inform
 
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/figura34.jpg}
 
-No que respeita à avaliação de impactos, quer ao nível deste tipo de práticas, quer de outras medidas de monitorização e avaliação, importará sublinhar que mudanças estruturais que conduzam à melhoria de níveis de desempenho levam o seu tempo (geralmente entre 5 a 10 anos) (van den Berg e Vandenberghe, 1981; Stringfield, 2002; Visscher, 2002; \emph{apud} Ehren \& Shackleton, 2016, p.~318). Por outro lado, impactos que contribuam para melhorias da qualidade dos sistemas de ensino e das aprendizagens tenderão a ser mais positivos se resultarem de alterações na cultura organizacional comparativamente a meras imposições externas (Ehren et al., 2015, \emph{apud} Carvalho \& Joana, 2020, p.~38). Ao nível da política cofinanciada em análise, considera-se ainda essencial sublinhar ``que o alcance dos objetivos e a produção dos resultados desejáveis dos PIICIE surge muito dependente das condições para dar continuidade aos projetos, ou seja, quer seja porque a própria natureza dos Planos exige mais tempo útil para a produção de resultados (mais do que os 3 anos previstos), quer porque a concretização dos Planos no terreno foi tardio (\ldots)'' (IESE et al., 2021, p.~46).
+No que respeita à avaliação de impactos, quer ao nível deste tipo de práticas, quer de outras medidas de monitorização e avaliação, importará sublinhar que mudanças estruturais que conduzam à melhoria de níveis de desempenho levam o seu tempo (geralmente entre 5 a 10 anos) (van den Berg e Vandenberghe, 1981; Stringfield, 2002; Visscher, 2002; \emph{apud} Ehren \& Shackleton, 2016, p.~318). Por outro lado, impactos que contribuam para melhorias da qualidade dos sistemas de ensino e das aprendizagens tenderão a ser mais positivos se resultarem de alterações na cultura organizacional comparativamente a meras imposições externas (Ehren et al., 2015, \emph{apud} Carvalho \& Joana, 2020, p.~38). Ao nível da política cofinanciada em análise, considera-se ainda essencial sublinhar ``que o alcance dos objetivos e a produção dos resultados desejáveis dos PIICIE surge muito dependente das condições para dar continuidade aos projetos, quer seja porque a própria natureza dos Planos exige mais tempo útil para a produção de resultados (mais do que os 3 anos previstos), quer porque a concretização dos Planos no terreno foi tardia (\ldots)'' (IESE et al., 2021, p.~46).
 
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/figura35.jpg}
 
@@ -386,7 +385,7 @@ Olhando ao caso de estudo de Santa Maria da Feira, também a PI10.5 mobiliza um 
 \begin{figure}
 \centering
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/figura7.jpg}
-\caption{FIGURA :8 Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira e AMP no QFP 2014-2020, POR Norte - FONTE: GETIN-UA -- Projetos Aprovados do PO Norte, de acordo com a base de dados atualizada a 31/08/2021}
+\caption{FIGURA 8: Distribuição do fundo total aprovado, por PI do OT10, para Santa Maria da Feira e AMP no QFP 2014-2020, POR Norte - FONTE: GETIN-UA -- Projetos Aprovados do PO Norte, de acordo com a base de dados atualizada a 31/08/2021}
 \end{figure}
 
 Nos cofinanciamentos por via do POCH, as tendências são semelhantes no território do município de estudo (Santa Maria da Feira) e da respetiva NUTS III (AMP). Ao nível deste programa de financiamento, ganha maior destaque a PI 10.4, evidenciando a relevância da formação profissional no território.\footnote{Para consulta das operações aprovadas, consultar o Anexo IV.
@@ -417,7 +416,7 @@ O critério utilizado na criação dos mapas foi o dos quartis -- Q1, Q2, Q3 e Q
 \hypertarget{tenduxeancias-e-padruxf5es}{%
 \section{\texorpdfstring{\textbf{Tendências e padrões}}{Tendências e padrões}}\label{tenduxeancias-e-padruxf5es}}
 
-As evidências reunidas, dada a informação desagregada à qual foi possível aceder, partem de uma análise geral a nível nacional para depois se centrarem nas regiões de referência do município de estudo. Encontram-se estruturadas em dois pontos: 1) uma análise de similaridades entre municípios (\emph{clusters} territoriais) cruzando os indicadores gerais de desempenho e indicadores de caracterização socioeducativa e 2) uma análise estatística dos indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE (TRD e TNN).
+As evidências reunidas, dada a informação desagregada à qual foi possível aceder, partem de uma análise geral a nível nacional para depois se centrarem nas regiões de referência do município de estudo. Encontram-se estruturadas em dois pontos: 1) uma análise de similaridades entre municípios (\emph{clusters} territoriais) cruzando os indicadores de caracterização socioeducativa, de cofinanciamento e de desempenho e 2) uma análise estatística dos indicadores gerais de resultado indicados no aviso de candidatura dos PIICIE (TRD e TNN).
 
 Ao nível da análise de similaridades, que utiliza a técnica de \emph{k-means}, a criação dos \emph{clusters} deu-se a partir da composição de dois conjuntos de variáveis, onde o primeiro conjunto incluiu o total de alunos, a TRD e o indicador de equidade e o segundo conjunto permuta o total de alunos pelo indicador de cofinanciamento. A análise de similaridades pode ser aplicada aos ensinos básico e secundário, como referido no ponto da metodologia, e o respetivo painel permite a análise espácio-temporal para \textbf{dois, três ou quatros \emph{clusters} }, onde a formação dos \emph{clusters} se dá a partir de valores médios dos 278 concelhos de Portugal Continental.
 
@@ -431,7 +430,15 @@ A título ilustrativo, a análise de similaridades dos dados abaixo apresentados
   \def\labelenumi{\roman{enumi})}
   \tightlist
   \item
-    Na agregação que considera o total de alunos, a TRD e a equidade \textbf{\emph{(similaridade 1)}}, as similaridades intragrupos de concelhos da AMP (por referência aos valores médios nacionais das variáveis usadas) indiciam que em territórios com número de alunos mais baixo o indicador de equidade tende a ser mais alto e as TDR mais baixas (e.g.~\emph{clusters} 4 e 2), verificando-se também o inverso (e.g.\emph{cluster} 3). O município de SMF surge integrado no \textbf{\emph{cluster 4}};
+    Na agregação que considera o total de alunos, a TRD e a equidade
+
+    (similaridade 1)
+
+    , as similaridades intragrupos de concelhos da AMP (por referência aos valores médios nacionais das variáveis usadas) indiciam que em territórios com número de alunos mais baixo o indicador de equidade tende a ser mais alto e as TDR mais baixas (e.g.~\emph{clusters} 3 e 1), verificando-se também o inverso (e.g.~\emph{cluster} 4). O município de SMF surge integrado no
+
+    \emph{cluster 3}
+
+    ;
   \end{enumerate}
 \item
   \begin{enumerate}
@@ -439,7 +446,15 @@ A título ilustrativo, a análise de similaridades dos dados abaixo apresentados
   \setcounter{enumi}{1}
   \tightlist
   \item
-    Já na agregação que considera o indicador de cofinanciamento, a TRD e a equidade \textbf{\emph{(similaridade 2)}}, percebe-se que o \emph{cluster} 4, onde a TRD é alta, os níveis de cofinanciamento médios e a equidade mais baixa, se distancia bastante dos restantes grupos. Aqui SMF surge no \textbf{\emph{cluster 3}}, conjunto formado por municípios com equidade e cofinanciamento altos e baixas TRD.
+    Já na agregação que considera o indicador de cofinanciamento, a TRD e a equidade
+
+    (similaridade 2)
+
+    , percebe-se que o \emph{cluster} 1, onde a TRD é alta e os níveis de cofinanciamento e a equidade são baixos, se distancia bastante dos restantes grupos. Aqui SMF surge no
+
+    \emph{cluster 4}
+
+    , conjunto formado por municípios com equidade e cofinanciamento altos e baixas/médias TRD.
   \end{enumerate}
 \end{itemize}
 
@@ -449,7 +464,19 @@ A título ilustrativo, a análise de similaridades dos dados abaixo apresentados
 \caption{FIGURA 11: Capítulo I -- Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Básico Agregado, 2019/20 - FONTE: GETIN-UA}
 \end{figure}
 
-Um outro exemplo de aplicação deste tipo de análise, centra-se no comportamento das variáveis relativas ao ensino secundário em cursos CCH, também para 2019/2020. No que ao município de SMF diz respeito, é possível observar, na figura seguinte, que este faz parte do \textbf{\emph{cluster 1}}, numa zona de transição da TRD (de baixa para alta TRD), alta equidade e baixo número de alunos face aos valores médios nacionais \textbf{\emph{(similaridade 1)}}. Por outro lado, ao cruzar os indicadores de cofinanciamento, equidade e TRD, verifica-se que o município de SMF passa a integrar o \textbf{\emph{cluster 2}}, com altas TRD, cofinanciamento médio e baixa equidade \textbf{\emph{(similaridade 2)}}.
+Um outro exemplo de aplicação deste tipo de análise, centra-se no comportamento das variáveis relativas ao ensino secundário em cursos CH, também para 2019/2020. No que ao município de SMF diz respeito, é possível observar, na figura seguinte, que este faz parte do
+
+\emph{cluster 2}
+
+, numa zona de transição da TRD (de baixa para alta TRD), alta equidade e baixo número de alunos face a valores médios nacionais \textless div style=``color:''orange''\textgreater(similaridade 1)
+
+. Por outro lado, ao cruzar os indicadores de cofinanciamento, equidade e TRD, verifica-se que o município de SMF passa a integrar o
+
+\emph{cluster 1}
+
+, com altas TRD, cofinanciamento médio e baixa equidade \textless div style=``color:''green''\textgreater(similaridade 2)
+
+.
 
 \begin{figure}
 \centering
@@ -500,7 +527,7 @@ Apesar do comportamento semelhante, a análise exige olhares distintos para a TR
 \hypertarget{possuxedveis-fatores-de-influuxeancia}{%
 \section{\texorpdfstring{\textbf{Possíveis fatores de influência}}{Possíveis fatores de influência}}\label{possuxedveis-fatores-de-influuxeancia}}
 
-Tendo presentes algumas das mensagens decorrentes dos pontos anteriores, optou-se por desenvolver uma análise complementar com o intuito de contribuir para uma reflexão mais alargada a respeito dos eventuais fatores de influência sobre os indicadores gerais de desempenho, em particular, em particular das TRD. Ainda que os resultados obtidos não permitam chegar a conclusões fechadas, contribuem para a teorização de aspetos que concorrem, de formas distintas, para os níveis de sucesso em diferentes níveis de ensino.
+Tendo presentes algumas das mensagens decorrentes dos pontos anteriores, optou-se por desenvolver uma análise complementar com o intuito de contribuir para uma reflexão mais alargada a respeito dos eventuais fatores de influência sobre os indicadores gerais de desempenho, em particular das TRD. Ainda que os resultados obtidos não permitam chegar a conclusões fechadas, contribuem para a teorização de aspetos que concorrem, de formas distintas, para os níveis de sucesso em diferentes níveis de ensino.
 
 A análise aqui desenvolvida abrange os municípios da Região Norte e permite tecer algumas ilações acerca da influência destas unidades espaciais no comportamento das TRD das unidades vizinhas. A identificação de associações espaciais entre os municípios decorreu da análise i) de matrizes de pesos (k-vizinhos mais próximos, de distância a 100km e de Kernel), ii) do cálculo do Índice de Moran para cada matriz (para avaliar a existência de autocorrelação espacial) e iii) dos diagramas de dispersão de Moran e dos mapas LISA:
 
@@ -769,7 +796,7 @@ Meta contratualizada & Resultados & \\
 \bottomrule()
 \end{longtable}
 
-Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o mesmo período, a uma clara redução. Não obstante, aos anos que se seguem à implementação do PIICIE podem revelar-se críticos, uma vez que é expectável uma tradução mais real do impacto do contexto pandémico e do consequente encerramento das escolas.
+Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o mesmo período, a uma clara redução. Não obstante, os anos que se seguem à implementação do PIICIE podem revelar-se críticos, uma vez que é expectável uma tradução mais real do impacto do contexto pandémico e do consequente encerramento das escolas.
 
 \begin{figure}
 \centering
@@ -901,7 +928,7 @@ A plataforma EDUFEIR@ tem conteúdos nas dimensões do património, cidadania e 
 \begin{figure}
 \centering
 \includegraphics{C:/Users/julio/Documents/bookPoat/imagensRelatorio/figura66.jpg}
-\caption{FIGURA 31: Capítulo IV -- Ação 4 do PIICIE, Conteúdos temáticos na Plataforma - FONTE: Dados facultados pelo município de SMF}
+\caption{FIGURA 32: Capítulo IV -- Ação 4 do PIICIE, Conteúdos temáticos na Plataforma - FONTE: Dados facultados pelo município de SMF}
 \end{figure}
 
 N.º de tablets distribuídos
@@ -1220,7 +1247,7 @@ Gaspar de Matos, M., Branquinho, C., Noronha, C., Moraes, B., Santos, O., Carval
 
 Gendźwiłł, A., \& Lackowska, M. (2018). A Borrowed Mandate? Democratic Legitimacy of Inter-municipal Entities: A Comparative Analysis. In F. Teles \& P. Swianiewicz (Eds.), Inter-Municipal Cooperation in Europe (pp.~57--77). Palgrave Macmillan. \url{https://doi.org/10.1007/978-3-319-62819-6}
 
-IESE, ISCTE, \& PPLL Consult. (2021). Avaliação do Contributo do PT2020 para a Promoção do Sucesso Educativo, Redução do Abandono Escolar Precoce e Empregabilidade dos Jovens. \url{https://doi.org/10.38116/bapi25}
+IESE, ISCTE, \& PPLL Consult. (2021). Avaliação do Contributo do PT2020 para a Promoção do Sucesso Educativo, Redução do Abandono Escolar Precoce e Empregabilidade dos Jovens.
 
 INE. (2021). População residente (N.o) por Local de residência, Sexo e Níveis de ensino; Decenal - INE, Recenseamento da população e habitação - Censos 2021. Obtido em 23 de agosto de 2022, de \url{https://www.ine.pt/xportal/xmain?xpid=INE\&xpgid=ine_indicadores\&indOcorrCod=0011168\&xlang=pt}
 
@@ -1239,6 +1266,7 @@ Marques, J. L., Neves, R., Grifo, A., Duarte, J., Malta, J., Sousa, M. P., \& Sa
 Marques, J. L., Wolf, J., Borges, M., \& Batista, P. (2020). Sistemas de apoio à decisão em planeamento: desafios metodológicos e conceptuais. TPU: Território, Planeamento e Urbanismo: Teoria e Prática, 2, 52--79. \url{https://doi.org/10.34624/TPU.V0I2.23720}
 
 Microsoft Power, B. I. Versão: 2.109.844.0 64-bit (setembro de 2022)
+
 Ministério da Educação, \& Inspeção-Geral da Educação (IGE). (2010). Quadro de referência para a avaliação de escolas e agrupamentos de escolas. Obtido em 23 de agosto de 2022, de \url{https://www.igec.mec.pt/upload/AEE_2011/AEE_10_11_Quadro_Referencia.pdf}
 
 Ministério da Educação. (2011). Propostas para um novo ciclo de avaliação externa de escolas, Relatório Final, Grupo de Trabalho para a Avaliação Externa das Escolas 2011. Obtido em 23 de agosto de 2022, \url{https://www.igec.mec.pt/upload/AEE2_2011/AEE2_GT_2011_RELATORIO_FINAL.pdf}
@@ -1257,7 +1285,7 @@ R Core Team (2022). R: A language and environment for statistical computing. R F
 
 Santos, S., Duarte, J. \& Marques, J. L. (2019). Quadro de referência aplicado aos instrumentos de gestão da rede e da política educativa à escala local. Revista de Desarrollo Sustentable, Negocios, Emprendimiento y Educación, 1(1), 1--19.
 
-The Educational Institute of Scotland (EIS). (2019). Education Scotland Inspections. Obtido de 23 de agosto de 2022, de \href{https://education.gov.scot/education-scotland/what-we-do/inspection-and-review/standards-and-evaluation-framework/08-what-do-we-focus-on-during-inspection-and-review/\#:~:text=We\%20take\%20into\%20account\%20the,the\%20capacity\%20for\%20continuous\%20improvement}{https://education.gov.scot/}
+The Educational Institute of Scotland (EIS). (2019). Education Scotland Inspections. Obtido de 23 de agosto de 2022, de \url{https://education.gov.scot/education-scotland/what-we-do/inspection-and-review/standards-and-evaluation-framework/08-what-do-we-focus-on-during-inspection-and-review/\#:~:text=We\%20take\%20into\%20account\%20the,the\%20capacity\%20for\%20continuous\%20improvement}
 
 Verdasca, J. (2020). Contributos para o desenvolvimento de um sistema de auto e multirregulação educativa. Revista Portuguesa de Investigação Educacional, n.o Especial, 111--143. \url{https://doi.org/10.34632/investigacaoeducacional.2020.8503}
 

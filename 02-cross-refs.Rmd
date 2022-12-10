@@ -148,7 +148,7 @@ Verifica-se uma expressiva redução da taxa de alunos com níveis negativos (TN
 | Meta contratualizada | Resultados |
 | >25% | 1.º CEB: -44%    2.º CEB: -64%   3.º CEB: -74%   Ens. Sec.: -42% |  
 
-Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o mesmo período, a uma clara redução. Não obstante, aos anos que se seguem à implementação do PIICIE podem revelar-se críticos, uma vez que é expectável uma tradução mais real do impacto do contexto pandémico e do consequente encerramento das escolas.  
+Da mesma forma, a taxa de retenção e desistência (TRD) assistiu, durante o mesmo período, a uma clara redução. Não obstante, os anos que se seguem à implementação do PIICIE podem revelar-se críticos, uma vez que é expectável uma tradução mais real do impacto do contexto pandémico e do consequente encerramento das escolas.  
 
 <center>![FIGURA 22: Capítulo II – TRD nos AE do município de SMF - FONTE: Município de SMF/AMP (DGEEC)](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura53.jpg)</center>  
 
@@ -238,7 +238,7 @@ Os acessos à plataforma aumentaram exponencialmente em 2021 a partir de janeiro
 
 A plataforma EDUFEIR@ tem conteúdos nas dimensões do património, cidadania e apoio ao estudo. Para além destas dimensões, disponibiliza diversos desafios e atividades em família dando a possibilidade dos alunos e famílias se divertirem e aprenderem juntos.  
 
-<center>![FIGURA 31: Capítulo IV – Ação 4 do PIICIE, Conteúdos temáticos na Plataforma - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura66.jpg)</center>  
+<center>![FIGURA 32: Capítulo IV – Ação 4 do PIICIE, Conteúdos temáticos na Plataforma - FONTE: Dados facultados pelo município de SMF](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura66.jpg)</center>  
 
 <u>N.º de tablets distribuídos</u> 
 
