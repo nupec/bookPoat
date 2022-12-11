@@ -75,13 +75,13 @@ A figura seguinte destaca a área abrangida pelos 17 concelhos da AMP. Do conjun
 
 A título ilustrativo, a análise de similaridades dos dados abaixo apresentados, relativos ao ano letivo de 2019/2020 e ao ensino básico agregado (1ºCEB + 2ºCEB + 3ºCEB), mostra que:  
 
-* i)	Na agregação que considera o total de alunos, a TRD e a equidade <div  class="orange">(similaridade 1)</div> , as similaridades intragrupos de concelhos da AMP (por referência aos valores médios nacionais das variáveis usadas) indiciam que em territórios com número de alunos mais baixo o indicador de equidade tende a ser mais alto e as TDR mais baixas (e.g. *clusters* 4 e 2), verificando-se também o inverso (e.g.*cluster* 3). O município de SMF surge integrado no <div style="color: orange">*cluster 4*</div> ;  
+* i)	Na agregação que considera o total de alunos, a TRD e a equidade ***(similaridade 1)*** , as similaridades intragrupos de concelhos da AMP (por referência aos valores médios nacionais das variáveis usadas) indiciam que em territórios com número de alunos mais baixo o indicador de equidade tende a ser mais alto e as TDR mais baixas (e.g. *clusters* 3 e 1),  verificando-se também o inverso (e.g. *cluster* 4).  O município de SMF surge integrado no ***cluster 3***;  
 
-* ii)	Já na agregação que considera o indicador de cofinanciamento, a TRD e a equidade ***(similaridade 2)***, percebe-se que o *cluster* 4, onde a TRD é alta, os níveis de cofinanciamento médios e a equidade mais baixa, se distancia bastante dos restantes grupos. Aqui SMF surge no ***cluster 3***, conjunto formado por municípios com equidade e cofinanciamento altos e baixas TRD.
+* ii)	Já na agregação que considera o indicador de cofinanciamento, a TRD e a equidade ***(similaridade 2)***, percebe-se que o *cluster* 1, onde a TRD é alta e os níveis de cofinanciamento e a equidade são baixos, se distancia bastante dos restantes grupos. Aqui SMF surge no ***cluster 4***, conjunto formado por municípios com equidade e cofinanciamento altos e baixas/médias TRD.
 
 <center>![FIGURA 11: Capítulo I – Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Básico Agregado, 2019/20 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura38.jpg)</center>
 
-Um outro exemplo de aplicação deste tipo de análise, centra-se no comportamento das variáveis relativas ao ensino secundário em cursos CCH, também para 2019/2020. No que ao município de SMF diz respeito, é possível observar, na figura seguinte, que este faz parte do ***cluster 1***, numa zona de transição da TRD (de baixa para alta TRD), alta equidade e baixo número de alunos face aos valores médios nacionais ***(similaridade 1)***. Por outro lado, ao cruzar os indicadores de cofinanciamento, equidade e TRD, verifica-se que o município de SMF passa a integrar o ***cluster 2***, com altas TRD, cofinanciamento médio e baixa equidade ***(similaridade 2)***.
+Um outro exemplo de aplicação deste tipo de análise, centra-se no comportamento das variáveis relativas ao ensino secundário em cursos CH, também para 2019/2020. No que ao município de SMF diz respeito, é possível observar, na figura seguinte, que este faz parte do ***cluster 2***, numa zona de transição da TRD (de baixa para alta TRD), alta equidade e baixo número de alunos face a valores médios nacionais ***(similaridade 1)***. Por outro lado, ao cruzar os indicadores de cofinanciamento, equidade e TRD, verifica-se que o município de SMF passa a integrar o ***cluster 1***, também numa área de transição da TRD ***(similaridade 2)***.
 
 <center>![FIGURA 12: Capítulo I – Caracterização do panorama educativo nacional: Painel da Análise de Similaridades, o exemplo do Ensino Secundário de CCH, 2019/20 - FONTE: GETIN-UA](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura39.jpg)</center>
 
@@ -139,7 +139,7 @@ Através dos mapas LISA, que mostram a espacialização da TRD por nível de ens
 
 Ainda que o comportamento da TRD no município de SMF nos diferentes níveis de ensino não seja significante para a análise (***cinza***), como é o território de estudo do projeto, importa fazer referência ao seu posicionamento no conjunto. Pode depreender-se assim que, face aos municípios da Região Norte contemplados na análise sem exclusão, os valores da TRD se encontram dentro dos valores médios do grupo.  
 
-<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura44.jpg)</center>
+<center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura44.jpg)</center>  
 
 <center>![](C:\Users\julio\Documents\bookPoat\imagensRelatorio\figura45.jpg)</center>  
 
