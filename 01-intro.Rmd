@@ -75,7 +75,7 @@ A figura seguinte destaca a área abrangida pelos 17 concelhos da AMP. Do conjun
 
 A título ilustrativo, a análise de similaridades dos dados abaixo apresentados, relativos ao ano letivo de 2019/2020 e ao ensino básico agregado (1ºCEB + 2ºCEB + 3ºCEB), mostra que:  
 
-* i)	Na agregação que considera o total de alunos, a TRD e a equidade ***(similaridade 1)*** , as similaridades intragrupos de concelhos da AMP (por referência aos valores médios nacionais das variáveis usadas) indiciam que em territórios com número de alunos mais baixo o indicador de equidade tende a ser mais alto e as TDR mais baixas (e.g. *clusters* 3 e 1),  verificando-se também o inverso (e.g. *cluster* 4).  O município de SMF surge integrado no ***cluster 3***;  
+* i)	Na agregação que considera o total de alunos, a TRD e a equidade ***(similaridade 1)*** , as similaridades intragrupos de concelhos da AMP (por referência aos valores médios nacionais das variáveis usadas) indiciam que em territórios com número de alunos mais baixo o indicador de equidade tende a ser mais alto e as TDR mais baixas (e.g. *clusters* 3 e 1),  verificando-se também o inverso (e.g. *cluster* 4).  O município de SMF surge integrado no ***cluster 3*** em 2019/20;  
 
 * ii)	Já na agregação que considera o indicador de cofinanciamento, a TRD e a equidade ***(similaridade 2)***, percebe-se que o *cluster* 1, onde a TRD é alta e os níveis de cofinanciamento e a equidade são baixos, se distancia bastante dos restantes grupos. Aqui SMF surge no ***cluster 4***, conjunto formado por municípios com equidade e cofinanciamento altos e baixas/médias TRD.
 
